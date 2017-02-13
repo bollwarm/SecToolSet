@@ -10,72 +10,7 @@
 
 [渗透测试](Pentest.md)
 
-##漏洞库及工具（POC，EXP）
-
-https://github.com/citronneur/rdpy
-哈希长度扩展攻击EXP
-
-https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet
-JAVA反序列化漏洞相关资源列表
-
-https://github.com/joaomatosf/jexboss
-JBOSS verify &amp; exp tool
-
-https://github.com/jiayy/android_vuln_poc-exp
-安卓十月漏洞POC
-
-https://github.com/ganliuzhuo/Sebug
-在sebug提交的漏洞详情及poc
-
-ExploitDB官方git版本
-https://github.com/offensive-security/exploit-database
-
-php漏洞代码分析
-https://github.com/80vul/phpcodz
-
-Simple test for CVE-2016-2107
-https://github.com/FiloSottile/CVE-2016-2107
-
-CVE-2015-7547 POC
-https://github.com/fjserna/CVE-2015-7547
-
-JAVA反序列化POC生成工具
-https://github.com/frohoff/ysoserial
-
-JAVA反序列化EXP
-https://github.com/foxglovesec/JavaUnserializeExploits
-
-Jenkins CommonCollections EXP
-https://github.com/CaledoniaProject/jenkins-cli-exploit
-
-CVE-2015-2426 EXP (windows内核提权)
-https://github.com/vlad902/hacking-team-windows-kernel-lpe
-
-use docker to show web attack(php本地文件包含结合phpinfo getshell 以及ssrf结合curl的利用演示)
-https://github.com/hxer/vulnapp
-
-php7缓存覆写漏洞Demo及相关工具
-https://github.com/GoSecure/php7-opcache-override
-
-XcodeGhost木马样本
-https://github.com/XcodeGhostSource/XcodeGhost
-
-###EXP编写框架及工具：
-
-
-二进制EXP编写工具
-https://github.com/t00sh/rop-tool
-
-CTF Pwn 类题目脚本编写框架
-https://github.com/Gallopsled/pwntools
-
-an easy-to-use io library for pwning development
-https://github.com/zTrix/zio
-
-跨平台注入工具（ Inject JavaScript to explore native apps on Windows, Mac, Linux, iOS and Android.）
-https://github.com/frida/frida
-
-
+[洞库及工具（POC，EXP)](ProofofConcept_Exploit.md)
 
 ##二进制及代码分析工具：
 

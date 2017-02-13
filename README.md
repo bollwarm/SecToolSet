@@ -6,7 +6,7 @@
 
 [安全扫描器](Scanner.md)
 
-[安全防守]（Defence.md）
+[安全防守](Defence.md)
 
 ##渗透测试
 

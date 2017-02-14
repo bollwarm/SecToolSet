@@ -166,3 +166,6 @@ https://github.com/unrolled/secure
 
 InSpec: Auditing and Testing Framework
 https://github.com/chef/inspec
+
+Suricata is a network IDS, IPS and NSM engine
+https://github.com/inliniac/suricata

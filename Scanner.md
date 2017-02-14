@@ -123,6 +123,9 @@ https://github.com/maK-/parameth
 路径扫描器
 https://github.com/stanislav-web/OpenDoor
 
+Web path scanner 
+https://github.com/maurosoria/dirsearch
+
 ### SSL类型扫描器
 
 https://github.com/shawarkhanethicalhacker/BruteXSS

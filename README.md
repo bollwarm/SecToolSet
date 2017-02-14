@@ -71,6 +71,9 @@ https://github.com/abeluck/stegdetect
 
 ##Python工具：
 
+A Security Framework for Python applications
+https://github.com/YosaiProject/yosai
+
 https://github.com/gstarnberger/uncompyle
 pyc反编译脚本
 

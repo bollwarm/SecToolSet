@@ -1,5 +1,8 @@
 ##安全防守：
 
+Security list for fun and profit
+https://github.com/zbetcheckin/Security_list
+
 web索引及日志搜索工具
 https://github.com/thomaspatzke/WASE
 
@@ -46,6 +49,10 @@ https://github.com/juliocesarfort/public-pentesting-reports
 安全工具合集
 https://github.com/codejanus/ToolSuite
 
+巡风 --一款适用于企业内网的漏洞快速应急，巡航扫描系统。
+https://github.com/ysrc/xunfeng
+ 
+
 apache实时日志分析器（on Telegram, Zabbix and Syslog/SIEM）
 https://github.com/mthbernardes/ARTLAS
 
@@ -63,6 +70,9 @@ https://github.com/facebook/osquery
 
 Mac OS下取证工具
 https://github.com/jipegit/OSXAuditor
+
+六道 —— 实时业务风控系统
+https://github.com/ysrc/Liudao
 
 恶意代码分析系统
 https://github.com/cuckoosandbox/cuckoo
@@ -147,3 +157,12 @@ https://github.com/Neohapsis/NeoPI
 
 webshell检测工具
 https://github.com/emposha/Shell-Detector
+
+Community-driven Rails Security Checklist.
+https://github.com/eliotsykes/rails-security-checklist
+
+HTTP middleware for Go that facilitates some quick security wins. 
+https://github.com/unrolled/secure
+
+InSpec: Auditing and Testing Framework
+https://github.com/chef/inspec

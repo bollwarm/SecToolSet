@@ -1,0 +1,28 @@
+## 威胁情报&蜜罐：
+
+社工插件，可查找以email、phone、username的注册的所有网站账号信息
+https://github.com/n0tr00t/Sreg
+
+Github信息搜集，可实时扫描查询git最新上传有关邮箱账号密码信息
+https://github.com/sea-god/gitscan
+
+github Repo信息搜集工具
+https://github.com/metac0rtex/GitHarvester
+
+SSH Honeypo
+https://github.com/desaster/kippo
+
+kippo进阶版
+thttps://github.com/micheloosterhof/cowrie
+
+SMTP honeypo
+https://github.com/awhitehatter/mailoney
+
+Web Application honeypot
+thttps://github.com/mushorg/glastopf
+
+数据库蜜罐
+https://github.com/jordan-wright/elastichoney
+
+Web蜜罐
+https://github.com/atiger77/Dionaea

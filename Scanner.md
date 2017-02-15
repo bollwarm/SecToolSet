@@ -77,6 +77,9 @@ https://github.com/Graph-X/davscan
 fast and friendly network scanner
 https://github.com/angryziber/ipscan
 
+A fast and modular scanner for Tor exit relays.
+https://github.com/NullHypothesis/exitmap
+
 ###Web扫描器
 
 网站指纹识别工具，用来检测网站CMS类型，所采用的博客系统类型，JS库，web服务器，甚至版本号，email地址，web框架等

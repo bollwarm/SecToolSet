@@ -52,6 +52,8 @@ https://github.com/codejanus/ToolSuite
 巡风 --一款适用于企业内网的漏洞快速应急，巡航扫描系统。
 https://github.com/ysrc/xunfeng
  
+Safely expose Elasticsearch REST API directly to the public
+https://github.com/sscarduzio/elasticsearch-readonlyrest-plugin
 
 apache实时日志分析器（on Telegram, Zabbix and Syslog/SIEM）
 https://github.com/mthbernardes/ARTLAS

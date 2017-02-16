@@ -92,6 +92,9 @@ https://github.com/jameslyons/pycipher
 可视化python性能分析工具
 https://github.com/nvdv/vprof
 
+Flask  HTTP authentication
+https://github.com/miguelgrinberg/Flask-HTTPAuth
+
 ### Python编程资料
 
 python 正则表达式库（用于简化构造复杂的python正则表达式）

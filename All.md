@@ -135,6 +135,9 @@ https://github.com/Graph-X/davscan
 fast and friendly network scanner
 https://github.com/angryziber/ipscan
 
+A fast and modular scanner for Tor exit relays.
+https://github.com/NullHypothesis/exitmap
+
 ###Web扫描器
 
 网站指纹识别工具，用来检测网站CMS类型，所采用的博客系统类型，JS库，web服务器，甚至版本号，email地址，web框架等
@@ -350,6 +353,9 @@ https://github.com/jameslyons/pycipher
 可视化python性能分析工具
 https://github.com/nvdv/vprof
 
+Flask  HTTP authentication
+https://github.com/miguelgrinberg/Flask-HTTPAuth
+
 ### Python编程资料
 
 python 正则表达式库（用于简化构造复杂的python正则表达式）
@@ -563,8 +569,9 @@ https://github.com/antoor/antSword/releases
 burp插件收集项目
 https://github.com/xl7dev/BurpSuite/tree/master/Extender
 
-一个用来攻击wp的框架
+一个用来辅助WP渗透测试的ruby框架
 https://github.com/rastating/wordpress-exploit-framework/
+
 
 .DS_store文件泄露利用脚本
 https://github.com/lijiejie/ds_store_exp
@@ -619,13 +626,16 @@ https://github.com/sea-god/gitscan
 github Repo信息搜集工具
 https://github.com/metac0rtex/GitHarvester
 
-SSH Honeypo
+AIL framework - Framework for Analysis of Information Leaks
+https://github.com/CIRCL/AIL-framework
+
+SSH蜜罐
 https://github.com/desaster/kippo
 
 kippo进阶版
 thttps://github.com/micheloosterhof/cowrie
 
-SMTP honeypo
+SMTP蜜罐
 https://github.com/awhitehatter/mailoney
 
 Web Application honeypot
@@ -636,6 +646,11 @@ https://github.com/jordan-wright/elastichoney
 
 Web蜜罐
 https://github.com/atiger77/Dionaea
+
+ICS/SCADA honeypot
+https://github.com/mushorg/conpot
+
+
 ##安全防守：
 
 Security list for fun and profit
@@ -690,6 +705,8 @@ https://github.com/codejanus/ToolSuite
 巡风 --一款适用于企业内网的漏洞快速应急，巡航扫描系统。
 https://github.com/ysrc/xunfeng
  
+Safely expose Elasticsearch REST API directly to the public
+https://github.com/sscarduzio/elasticsearch-readonlyrest-plugin
 
 apache实时日志分析器（on Telegram, Zabbix and Syslog/SIEM）
 https://github.com/mthbernardes/ARTLAS

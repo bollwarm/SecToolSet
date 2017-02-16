@@ -24,6 +24,9 @@ https://github.com/sowish/LNScan
 集成Nmap的一款端口扫描器
 https://github.com/screetsec/Dracnmap
 
+Easy automated vulnerability scanning, reporting and analysis
+https://github.com/schubergphilis/Seccubus
+
 ###子域名爆破扫描器
 
 https://github.com/aboul3la/Sublist3r

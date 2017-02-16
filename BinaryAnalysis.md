@@ -56,3 +56,7 @@ https://github.com/abeluck/stegdetect
 
 nary Analysis Platform
 https://github.com/BinaryAnalysisPlatform/bap
+
+oletools - python tools to analyze MS OLE2 files
+https://github.com/decalage2/oletools
+

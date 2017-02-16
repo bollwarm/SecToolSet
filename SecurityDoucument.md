@@ -101,6 +101,9 @@ https://github.com/nvdv/vprof
 Flask  HTTP authentication
 https://github.com/miguelgrinberg/Flask-HTTPAuth
 
+ViperMonkey A VBA parser and emulation engine to analyze malicious macros. 
+https://github.com/decalage2/ViperMonkey
+
 ### Python编程资料
 
 python 正则表达式库（用于简化构造复杂的python正则表达式）

@@ -56,6 +56,10 @@ https://github.com/abeluck/stegdetect
 
 nary Analysis Platform
 https://github.com/BinaryAnalysisPlatform/bap
+
+oletools - python tools to analyze MS OLE2 files
+https://github.com/decalage2/oletools
+
 ##安全扫描器：
 
 ###端口扫描器Nmap
@@ -81,6 +85,9 @@ https://github.com/sowish/LNScan
 
 集成Nmap的一款端口扫描器
 https://github.com/screetsec/Dracnmap
+
+Easy automated vulnerability scanning, reporting and analysis
+https://github.com/schubergphilis/Seccubus
 
 ###子域名爆破扫描器
 
@@ -368,6 +375,9 @@ https://github.com/nvdv/vprof
 Flask  HTTP authentication
 https://github.com/miguelgrinberg/Flask-HTTPAuth
 
+ViperMonkey A VBA parser and emulation engine to analyze malicious macros. 
+https://github.com/decalage2/ViperMonkey
+
 ### Python编程资料
 
 python 正则表达式库（用于简化构造复杂的python正则表达式）
@@ -520,6 +530,10 @@ https://github.com/brianwrf/hackUtils
 
 web渗透小工具大合集
 https://github.com/rootphantomer/hack_tools_for_me
+
+awesome-iot-hacks -- A curated list of IoT space hacks in security vulnerabilities 
+https://github.com/nebgnahz/awesome-iot-hacks
+
 
 数据库注入工具
 https://github.com/sqlmapproject/sqlmap
@@ -809,6 +823,9 @@ https://github.com/JacobReynolds/ssrfDetector
 
 A high performance DNS cache designed for Content Delivery Networks 
 https://github.com/jedisct1/edgedns
+
+BleachBit system cleaner for Windows and Linux https://www.bleachbit.org
+https://github.com/bleachbit/bleachbit
 
 PHP后门检测工具
 https://github.com/yassineaddi/BackdoorMan.git

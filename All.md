@@ -1,64 +1,35 @@
-##二进制及代码分析工具：
 
-shellcode分析工具
-https://github.com/suraj-root/smap/
+##漏洞利用& 实战练习平台：
 
-Shellcode/Obfuscate Code Generator
-https://github.com/zscproject/OWASP-ZSC
+WebGoat漏洞练习环境
+https://github.com/WebGoat/WebGoat
+https://github.com/WebGoat/WebGoat-Legacy
+https://github.com/RandomStorm/DVWA
 
-linux下逆向工具
-https://github.com/korcankaraokcu/PINCE
+数据库注入练习平台 
+https://github.com/Audi-1/sqli-labs
 
-Reverse Shell and Post Exploitation Tool
-https://github.com/panagiks/RSPET
+用node编写的漏洞练习平台，like OWASP Node Goat
+https://github.com/cr0hn/vulnerable-node
 
-跨平台二进制分析及逆向工具
-https://github.com/programa-stic/barf-project
+Ruby编写的一款工具，生成含漏洞的虚拟机
+https://github.com/cliffe/secgen
 
-二进制分析工具
-https://github.com/devttys0/binwalk
+metasploitable3
+https://github.com/rapid7/metasploitable3/
 
-系统扫描器，用于寻找程序和库然后收集他们的依赖关系，链接等信息
-https://github.com/quarkslab/binmap
+轻量web漏洞演示平台
+https://github.com/stamparm/DSVW
 
-rp++ is a full-cpp written tool that aims to find ROP sequences in PE/Elf/Mach-O.
-https://github.com/0vercl0k/rp
+docker搭建的漏洞练习环境
+https://github.com/MyKings/docker-vulnerability-environment
 
-Windows Exploit Development工具
-https://github.com/lillypad/badger
+黑客技术训练环境
+https://github.com/joe-shenouda/awesome-cyber-skills
 
-二进制静态分析工具（python）
-https://github.com/bdcht/amoco
 
-Python Exploit Development Assistance for GDB
-https://github.com/longld/peda
-
-https://github.com/ValdikSS/billgates-botnet-tracker
-对BillGates Linux Botnet系木马活动的监控工具
-
-木马配置参数提取工具
-https://github.com/kevthehermit/RATDecoders
-
-Shellphish编写的二进制分析工具（CTF向）
-https://github.com/angr/angr
-
-针对python的静态代码分析工具
-https://github.com/yinwang0/pysonar2
-
-一个自动化的脚本（shell）分析工具，用来给出警告和建议
-https://github.com/koalaman/shellcheck
-
-基于AST变换的简易Javascript反混淆辅助工具
-https://github.com/ChiChou/etacsufbo
-
-隐写检测工具
-https://github.com/abeluck/stegdetect
-
-nary Analysis Platform
-https://github.com/BinaryAnalysisPlatform/bap
-
-oletools - python tools to analyze MS OLE2 files
-https://github.com/decalage2/oletools
+web及app渗透训练平台
+https://github.com/OWASP/SecurityShepherd
 
 ##安全扫描器：
 
@@ -202,249 +173,194 @@ https://github.com/find-sec-bugs/find-sec-bugs
 https://github.com/shawarkhanethicalhacker/BruteXSS
 https://github.com/rbsec/sslscan
 
-##漏洞库及工具（POC，EXP）
+##安全防守：
 
-Snyk Vulnerability Database
-https://github.com/snyk/vulndb
+Security list for fun and profit
+https://github.com/zbetcheckin/Security_list
 
-哈希长度扩展攻击EXP
-https://github.com/citronneur/rdpy
+web索引及日志搜索工具
+https://github.com/thomaspatzke/WASE
 
-JAVA反序列化漏洞相关资源列表
-https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet
+一款CS结构的web debuger
+https://github.com/Kozea/wdb
 
-JBOSS verify &amp; exp tool
-https://github.com/joaomatosf/jexboss
+recover information from deleted registers in sqlite databases.
+https://github.com/aramosf/recoversqlite/
 
-安卓十月漏洞POC
-https://github.com/jiayy/android_vuln_poc-exp
+自动化的模板注入攻击检测工具
+https://github.com/epinna/tplmap
 
-在sebug提交的漏洞详情及poc
-https://github.com/ganliuzhuo/Sebug
+sqli词法解析分析器
+https://github.com/client9/libinjection
 
-ExploitDB官方git版本
-https://github.com/offensive-security/exploit-database
+gps欺骗检测工具
+https://github.com/zxsecurity/gpsnitch
 
-php漏洞代码分析
-https://github.com/80vul/phpcodz
+应急处置响应框架
+https://github.com/biggiesmallsAG/nightHawkResponse
 
-Simple test for CVE-2016-2107
-https://github.com/FiloSottile/CVE-2016-2107
+web安全开发指南
+https://github.com/FallibleInc/security-guide-for-developers
 
-CVE-2015-7547 POC
-https://github.com/fjserna/CVE-2015-7547
+乌云知识库全部文章(失效)
+https://github.com/4ido10n/wooyun-drops-all-articles-package
 
-JAVA反序列化POC生成工具
-https://github.com/frohoff/ysoserial
+蜜罐资源合集
+https://github.com/paralax/awesome-honeypots
 
-JAVA反序列化EXP
-https://github.com/foxglovesec/JavaUnserializeExploits
 
-Jenkins CommonCollections EXP
-https://github.com/CaledoniaProject/jenkins-cli-exploit
+自动化代码审计工具
+https://github.com/wufeifei/cobra
 
-CVE-2015-2426 EXP (windows内核提权)
-https://github.com/vlad902/hacking-team-windows-kernel-lpe
+python编写的离线网络数据包分析器
+https://github.com/HatBoy/Pcap-Analyzer
 
-use docker to show web attack(php本地文件包含结合phpinfo getshell 以及ssrf结合curl的利用演示)
-https://github.com/hxer/vulnapp
+渗透测试常见小工具打包
+https://github.com/leonteale/pentestpackage
 
-php7缓存覆写漏洞Demo及相关工具
-https://github.com/GoSecure/php7-opcache-override
+各知名厂商渗透测试报告模板
+https://github.com/juliocesarfort/public-pentesting-reports
 
-XcodeGhost木马样本
-https://github.com/XcodeGhostSource/XcodeGhost
+安全工具合集
+https://github.com/codejanus/ToolSuite
 
-scap-security-guide
-https://github.com/OpenSCAP/scap-security-guide
+巡风 --一款适用于企业内网的漏洞快速应急，巡航扫描系统。
+https://github.com/ysrc/xunfeng
+ 
+Safely expose Elasticsearch REST API directly to the public
+https://github.com/sscarduzio/elasticsearch-readonlyrest-plugin
 
-###EXP编写框架及工具：
+apache实时日志分析器（on Telegram, Zabbix and Syslog/SIEM）
+https://github.com/mthbernardes/ARTLAS
 
-二进制EXP编写工具
-https://github.com/t00sh/rop-tool
+Destroy-Windows-10-Spying
+https://github.com/Nummer/Destroy-Windows-10-Spying
 
-CTF Pwn 类题目脚本编写框架
-https://github.com/Gallopsled/pwntools
+PHP代码审计扫描器
+https://github.com/pwnsdx/BadCode
 
-an easy-to-use io library for pwning development
-https://github.com/zTrix/zio
+linux下恶意代码检测包
+https://github.com/rfxn/linux-malware-detect
 
-跨平台注入工具（ Inject JavaScript to explore native apps on Windows, Mac, Linux, iOS and Android.）
-https://github.com/frida/frida
+操作系统运行指标可视化框架
+https://github.com/facebook/osquery
 
-## 安全文档资料
+Mac OS下取证工具
+https://github.com/jipegit/OSXAuditor
 
-Awesome Vehicle Security
-https://github.com/jaredthecoder/awesome-vehicle-security
+六道 —— 实时业务风控系统
+https://github.com/ysrc/Liudao
 
-安全脑图合集
-https://github.com/phith0n/Mind-Map
+恶意代码分析系统
+https://github.com/cuckoosandbox/cuckoo
 
-有关信息安全的一些流程图收集
-https://github.com/SecWiki/sec-chart/tree/294d7c1ff1eba297fa892dda08f3c05e90ed1428
+定期搜索及存储web应用，可搜漏洞讨论等等
+https://github.com/Netflix/Scumblr
 
-域渗透教程
-https://github.com/l3m0n/pentest_study
+事件响应框架（focus on 远程取证）
+https://github.com/google/grr
 
-python security教程（原文链接http//www.primalsecurity.net/tutorials/python-tutorials/
-https://github.com/smartFlash/pySecurity
+The Mozilla Defense Platform
+https://github.com/mozilla/MozDef
 
-data_hacking合集
-https://github.com/ClickSecurity/data_hacking
+综合主机监控检测平台（包含主机防火墙，日志监控，SIEM等）
+https://github.com/ossec/ossec-hids
 
-mobile-security-wiki
-https://github.com/exploitprotocol/mobile-security-wiki
+OS X远程取证与分析工具包
+https://github.com/Yelp/osxcollector
 
-书籍《reverse-engineering-for-beginners》
-https://github.com/veficos/reverse-engineering-for-beginners
+分布式实时数字取证系统
+https://github.com/mozilla/mig
 
-一些信息安全标准及设备配置
-https://github.com/luyg24/IT_security
+Microsoft &amp; Unix 文件系统及硬盘取证工具
+https://github.com/sleuthkit/sleuthkit
 
-APT相关笔记
-https://github.com/kbandla/APTnotes
+Open Source Security Compliance Solution
+https://github.com/OpenSCAP/openscap
 
-Kcon资料
-https://github.com/knownsec/KCon
+开源准实时日志采集器
+https://github.com/wgliang/logcool
 
-ctf及黑客资源合集
-https://github.com/bt3gl/My-Gray-Hacker-Resources
+windows实时ETW事件处理工具
+https://github.com/goldshtn/etrace
 
-ctf和安全工具大合集
-https://github.com/zardus/ctf-tools
+CPU及内存相关性能分析工具
+https://github.com/Microsoft/perfview
 
-《DO NOT FUCK WITH A HACKER》
-https://github.com/citypw/DNFWAH
+威胁情报资源
+https://github.com/hslatman/awesome-threat-intelligence
 
-近年ctf writeup大全
-https://github.com/ctfs/write-ups-2016
+tool for ssh server auditing
+https://github.com/arthepsy/ssh-audit
 
-fbctf竞赛平台Demo
-https://github.com/facebook/fbctf
+A Python library and command line tools to provide interactive log visualization
+https://github.com/keithjjones/visualize_logs
 
-ctf Resources
-https://github.com/ctfs/resources
+一个僵尸网络分析框架
+https://github.com/m4rco-/dorothy2
 
-Ctf solutions from p4 team https://p4.team
-https://github.com/p4-team/ctf
+WAFS审计工具
+https://github.com/lightbulb-framework/lightbulb-framework
 
-大礼包（什么都有）
-https://github.com/bayandin/awesome-awesomeness
+1000个php代码审计案例
+https://github.com/Xyntax/1000php
 
-linux-kernel-exploitation A bunch of links related to Linux kernel fuzzing and exploitation 
-https://github.com/xairy/linux-kernel-exploitation
+基于 python 的 Linux ssh 跳板机/堡垒机设置工具
+https://github.com/aker-gateway/Aker
 
-bash-handbook
-https://github.com/denysdovhan/bash-handbook
+Linux常见命令及部分安全软件使用命令列表
+https://github.com/andrewjkerr/security-cheatsheets
 
-git学习资料
-https://github.com/xirong/my-git
+ssrfDetector
+https://github.com/JacobReynolds/ssrfDetector
 
-安卓开源代码解析
-https://github.com/android-cn/android-open-project-analysis
+A high performance DNS cache designed for Content Delivery Networks 
+https://github.com/jedisct1/edgedns
 
-JS 正则表达式库（用于简化构造复杂的JS正则表达式）
-https://github.com/VerbalExpressions/JSVerbalExpressions
+BleachBit system cleaner for Windows and Linux https://www.bleachbit.org
+https://github.com/bleachbit/bleachbit
 
-科学上网工具
-https://github.com/XX-net/XX-Net
+PHP后门检测工具
+https://github.com/yassineaddi/BackdoorMan.git
 
-微信自动抢红包动态库
-https://github.com/east520/AutoGetRedEnv
+Security auditing and hardening tool, for UNIX-based systems
+https://github.com/CISOfy/lynis
 
-微信抢红包插件（安卓版）
-https://github.com/geeeeeeeeek/WeChatLuckyMoney
+垃圾邮件分析工具
+https://github.com/SpamScope/spamscope
 
-神器
-https://github.com/yangyangwithgnu/hardseed
+恶意代码，php shell检测工具
+https://github.com/yassineaddi/BackdoorMan
 
-### Python工具：
+安全程序和漏洞管理工具
+https://github.com/OWASP/django-DefectDojo
 
-A Security Framework for Python applications
-https://github.com/YosaiProject/yosai
+混淆代码检测工具
+https://github.com/Neohapsis/NeoPI
 
-pyc反编译脚本
-https://github.com/gstarnberger/uncompyle
+webshell检测工具
+https://github.com/emposha/Shell-Detector
 
-pycipher python加解密库
-https://github.com/jameslyons/pycipher
+Community-driven Rails Security Checklist.
+https://github.com/eliotsykes/rails-security-checklist
 
-可视化python性能分析工具
-https://github.com/nvdv/vprof
+HTTP middleware for Go that facilitates some quick security wins. 
+https://github.com/unrolled/secure
 
-Flask  HTTP authentication
-https://github.com/miguelgrinberg/Flask-HTTPAuth
+InSpec: Auditing and Testing Framework
+https://github.com/chef/inspec
 
-ViperMonkey A VBA parser and emulation engine to analyze malicious macros. 
-https://github.com/decalage2/ViperMonkey
+Suricata is a network IDS, IPS and NSM engine
+https://github.com/inliniac/suricata
 
-### Python编程资料
+AWS security scanning checks 
+https://github.com/cloudsploit/scans
 
-python 正则表达式库（用于简化构造复杂的python正则表达式）
-https://github.com/VerbalExpressions/PythonVerbalExpressions
+secure interactive password manager using NACL and Go
+https://github.com/johnathanhowell/masterkey
 
-python任务管理以及命令执行库
-https://github.com/pyinvoke/invoke
-
-python exe打包库
-https://github.com/pyinstaller/pyinstaller
-
-py3 爬虫框架
-https://github.com/orf/cyborg
-
-一个提供底层接口数据包编程和网络协议支持的python库
-https://github.com/CoreSecurity/impacket
-
-python requests 库
-https://github.com/kennethreitz/requests
-
-python 实用工具合集
-https://github.com/mahmoud/boltons
-
-python爬虫系统
-https://github.com/binux/pyspider
-
-ctf向 python工具包
-https://github.com/P1kachu/v0lt
-
-python框架，库，资源大合集
-https://github.com/vinta/awesome-python
-
-python资源大全
-https://github.com/jobbole/awesome-python-cn
-
-##漏洞利用& 实战练习平台：
-
-WebGoat漏洞练习环境
-https://github.com/WebGoat/WebGoat
-https://github.com/WebGoat/WebGoat-Legacy
-https://github.com/RandomStorm/DVWA
-
-数据库注入练习平台 
-https://github.com/Audi-1/sqli-labs
-
-用node编写的漏洞练习平台，like OWASP Node Goat
-https://github.com/cr0hn/vulnerable-node
-
-Ruby编写的一款工具，生成含漏洞的虚拟机
-https://github.com/cliffe/secgen
-
-metasploitable3
-https://github.com/rapid7/metasploitable3/
-
-轻量web漏洞演示平台
-https://github.com/stamparm/DSVW
-
-docker搭建的漏洞练习环境
-https://github.com/MyKings/docker-vulnerability-environment
-
-黑客技术训练环境
-https://github.com/joe-shenouda/awesome-cyber-skills
-
-
-web及app渗透训练平台
-https://github.com/OWASP/SecurityShepherd
-
+pick -- A minimal password manager for OS X and Linux.
+https://github.com/bndw/pick
 ##渗透测试
 
 windows漏洞利用相关整理
@@ -644,6 +560,138 @@ https://github.com/shinnok/johnny
 
 本地存储的各类密码提取利器
 https://github.com/AlessandroZ/LaZagne
+##漏洞库及工具（POC，EXP）
+
+Snyk Vulnerability Database
+https://github.com/snyk/vulndb
+
+哈希长度扩展攻击EXP
+https://github.com/citronneur/rdpy
+
+JAVA反序列化漏洞相关资源列表
+https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet
+
+JBOSS verify &amp; exp tool
+https://github.com/joaomatosf/jexboss
+
+安卓十月漏洞POC
+https://github.com/jiayy/android_vuln_poc-exp
+
+在sebug提交的漏洞详情及poc
+https://github.com/ganliuzhuo/Sebug
+
+ExploitDB官方git版本
+https://github.com/offensive-security/exploit-database
+
+php漏洞代码分析
+https://github.com/80vul/phpcodz
+
+Simple test for CVE-2016-2107
+https://github.com/FiloSottile/CVE-2016-2107
+
+CVE-2015-7547 POC
+https://github.com/fjserna/CVE-2015-7547
+
+JAVA反序列化POC生成工具
+https://github.com/frohoff/ysoserial
+
+JAVA反序列化EXP
+https://github.com/foxglovesec/JavaUnserializeExploits
+
+Jenkins CommonCollections EXP
+https://github.com/CaledoniaProject/jenkins-cli-exploit
+
+CVE-2015-2426 EXP (windows内核提权)
+https://github.com/vlad902/hacking-team-windows-kernel-lpe
+
+use docker to show web attack(php本地文件包含结合phpinfo getshell 以及ssrf结合curl的利用演示)
+https://github.com/hxer/vulnapp
+
+php7缓存覆写漏洞Demo及相关工具
+https://github.com/GoSecure/php7-opcache-override
+
+XcodeGhost木马样本
+https://github.com/XcodeGhostSource/XcodeGhost
+
+scap-security-guide
+https://github.com/OpenSCAP/scap-security-guide
+
+###EXP编写框架及工具：
+
+二进制EXP编写工具
+https://github.com/t00sh/rop-tool
+
+CTF Pwn 类题目脚本编写框架
+https://github.com/Gallopsled/pwntools
+
+an easy-to-use io library for pwning development
+https://github.com/zTrix/zio
+
+跨平台注入工具（ Inject JavaScript to explore native apps on Windows, Mac, Linux, iOS and Android.）
+https://github.com/frida/frida
+
+##二进制及代码分析工具：
+
+shellcode分析工具
+https://github.com/suraj-root/smap/
+
+Shellcode/Obfuscate Code Generator
+https://github.com/zscproject/OWASP-ZSC
+
+linux下逆向工具
+https://github.com/korcankaraokcu/PINCE
+
+Reverse Shell and Post Exploitation Tool
+https://github.com/panagiks/RSPET
+
+跨平台二进制分析及逆向工具
+https://github.com/programa-stic/barf-project
+
+二进制分析工具
+https://github.com/devttys0/binwalk
+
+系统扫描器，用于寻找程序和库然后收集他们的依赖关系，链接等信息
+https://github.com/quarkslab/binmap
+
+rp++ is a full-cpp written tool that aims to find ROP sequences in PE/Elf/Mach-O.
+https://github.com/0vercl0k/rp
+
+Windows Exploit Development工具
+https://github.com/lillypad/badger
+
+二进制静态分析工具（python）
+https://github.com/bdcht/amoco
+
+Python Exploit Development Assistance for GDB
+https://github.com/longld/peda
+
+https://github.com/ValdikSS/billgates-botnet-tracker
+对BillGates Linux Botnet系木马活动的监控工具
+
+木马配置参数提取工具
+https://github.com/kevthehermit/RATDecoders
+
+Shellphish编写的二进制分析工具（CTF向）
+https://github.com/angr/angr
+
+针对python的静态代码分析工具
+https://github.com/yinwang0/pysonar2
+
+一个自动化的脚本（shell）分析工具，用来给出警告和建议
+https://github.com/koalaman/shellcheck
+
+基于AST变换的简易Javascript反混淆辅助工具
+https://github.com/ChiChou/etacsufbo
+
+隐写检测工具
+https://github.com/abeluck/stegdetect
+
+nary Analysis Platform
+https://github.com/BinaryAnalysisPlatform/bap
+
+oletools - python tools to analyze MS OLE2 files
+https://github.com/decalage2/oletools
+
 ## 威胁情报&蜜罐：
 
 社工插件，可查找以email、phone、username的注册的所有网站账号信息
@@ -680,191 +728,143 @@ ICS/SCADA honeypot
 https://github.com/mushorg/conpot
 
 
-##安全防守：
+## 安全文档资料
 
-Security list for fun and profit
-https://github.com/zbetcheckin/Security_list
+Awesome Vehicle Security
+https://github.com/jaredthecoder/awesome-vehicle-security
 
-web索引及日志搜索工具
-https://github.com/thomaspatzke/WASE
+安全脑图合集
+https://github.com/phith0n/Mind-Map
 
-一款CS结构的web debuger
-https://github.com/Kozea/wdb
+有关信息安全的一些流程图收集
+https://github.com/SecWiki/sec-chart/tree/294d7c1ff1eba297fa892dda08f3c05e90ed1428
 
-recover information from deleted registers in sqlite databases.
-https://github.com/aramosf/recoversqlite/
+域渗透教程
+https://github.com/l3m0n/pentest_study
 
-自动化的模板注入攻击检测工具
-https://github.com/epinna/tplmap
+python security教程（原文链接http//www.primalsecurity.net/tutorials/python-tutorials/
+https://github.com/smartFlash/pySecurity
 
-sqli词法解析分析器
-https://github.com/client9/libinjection
+data_hacking合集
+https://github.com/ClickSecurity/data_hacking
 
-gps欺骗检测工具
-https://github.com/zxsecurity/gpsnitch
+mobile-security-wiki
+https://github.com/exploitprotocol/mobile-security-wiki
 
-应急处置响应框架
-https://github.com/biggiesmallsAG/nightHawkResponse
+书籍《reverse-engineering-for-beginners》
+https://github.com/veficos/reverse-engineering-for-beginners
 
-web安全开发指南
-https://github.com/FallibleInc/security-guide-for-developers
+一些信息安全标准及设备配置
+https://github.com/luyg24/IT_security
 
-乌云知识库全部文章(失效)
-https://github.com/4ido10n/wooyun-drops-all-articles-package
+APT相关笔记
+https://github.com/kbandla/APTnotes
 
-蜜罐资源合集
-https://github.com/paralax/awesome-honeypots
+Kcon资料
+https://github.com/knownsec/KCon
 
+ctf及黑客资源合集
+https://github.com/bt3gl/My-Gray-Hacker-Resources
 
-自动化代码审计工具
-https://github.com/wufeifei/cobra
+ctf和安全工具大合集
+https://github.com/zardus/ctf-tools
 
-python编写的离线网络数据包分析器
-https://github.com/HatBoy/Pcap-Analyzer
+《DO NOT FUCK WITH A HACKER》
+https://github.com/citypw/DNFWAH
 
-渗透测试常见小工具打包
-https://github.com/leonteale/pentestpackage
+近年ctf writeup大全
+https://github.com/ctfs/write-ups-2016
 
-各知名厂商渗透测试报告模板
-https://github.com/juliocesarfort/public-pentesting-reports
+fbctf竞赛平台Demo
+https://github.com/facebook/fbctf
 
-安全工具合集
-https://github.com/codejanus/ToolSuite
+ctf Resources
+https://github.com/ctfs/resources
 
-巡风 --一款适用于企业内网的漏洞快速应急，巡航扫描系统。
-https://github.com/ysrc/xunfeng
- 
-Safely expose Elasticsearch REST API directly to the public
-https://github.com/sscarduzio/elasticsearch-readonlyrest-plugin
+Ctf solutions from p4 team https://p4.team
+https://github.com/p4-team/ctf
 
-apache实时日志分析器（on Telegram, Zabbix and Syslog/SIEM）
-https://github.com/mthbernardes/ARTLAS
+大礼包（什么都有）
+https://github.com/bayandin/awesome-awesomeness
 
-Destroy-Windows-10-Spying
-https://github.com/Nummer/Destroy-Windows-10-Spying
+linux-kernel-exploitation A bunch of links related to Linux kernel fuzzing and exploitation 
+https://github.com/xairy/linux-kernel-exploitation
 
-PHP代码审计扫描器
-https://github.com/pwnsdx/BadCode
+bash-handbook
+https://github.com/denysdovhan/bash-handbook
 
-linux下恶意代码检测包
-https://github.com/rfxn/linux-malware-detect
+git学习资料
+https://github.com/xirong/my-git
 
-操作系统运行指标可视化框架
-https://github.com/facebook/osquery
+安卓开源代码解析
+https://github.com/android-cn/android-open-project-analysis
 
-Mac OS下取证工具
-https://github.com/jipegit/OSXAuditor
+JS 正则表达式库（用于简化构造复杂的JS正则表达式）
+https://github.com/VerbalExpressions/JSVerbalExpressions
 
-六道 —— 实时业务风控系统
-https://github.com/ysrc/Liudao
+科学上网工具
+https://github.com/XX-net/XX-Net
 
-恶意代码分析系统
-https://github.com/cuckoosandbox/cuckoo
+微信自动抢红包动态库
+https://github.com/east520/AutoGetRedEnv
 
-定期搜索及存储web应用，可搜漏洞讨论等等
-https://github.com/Netflix/Scumblr
+微信抢红包插件（安卓版）
+https://github.com/geeeeeeeeek/WeChatLuckyMoney
 
-事件响应框架（focus on 远程取证）
-https://github.com/google/grr
+神器
+https://github.com/yangyangwithgnu/hardseed
 
-The Mozilla Defense Platform
-https://github.com/mozilla/MozDef
+### Python工具：
 
-综合主机监控检测平台（包含主机防火墙，日志监控，SIEM等）
-https://github.com/ossec/ossec-hids
+A Security Framework for Python applications
+https://github.com/YosaiProject/yosai
 
-OS X远程取证与分析工具包
-https://github.com/Yelp/osxcollector
+pyc反编译脚本
+https://github.com/gstarnberger/uncompyle
 
-分布式实时数字取证系统
-https://github.com/mozilla/mig
+pycipher python加解密库
+https://github.com/jameslyons/pycipher
 
-Microsoft &amp; Unix 文件系统及硬盘取证工具
-https://github.com/sleuthkit/sleuthkit
+可视化python性能分析工具
+https://github.com/nvdv/vprof
 
-Open Source Security Compliance Solution
-https://github.com/OpenSCAP/openscap
+Flask  HTTP authentication
+https://github.com/miguelgrinberg/Flask-HTTPAuth
 
-开源准实时日志采集器
-https://github.com/wgliang/logcool
+ViperMonkey A VBA parser and emulation engine to analyze malicious macros. 
+https://github.com/decalage2/ViperMonkey
 
-windows实时ETW事件处理工具
-https://github.com/goldshtn/etrace
+### Python编程资料
 
-CPU及内存相关性能分析工具
-https://github.com/Microsoft/perfview
+python 正则表达式库（用于简化构造复杂的python正则表达式）
+https://github.com/VerbalExpressions/PythonVerbalExpressions
 
-威胁情报资源
-https://github.com/hslatman/awesome-threat-intelligence
+python任务管理以及命令执行库
+https://github.com/pyinvoke/invoke
 
-tool for ssh server auditing
-https://github.com/arthepsy/ssh-audit
+python exe打包库
+https://github.com/pyinstaller/pyinstaller
 
-A Python library and command line tools to provide interactive log visualization
-https://github.com/keithjjones/visualize_logs
+py3 爬虫框架
+https://github.com/orf/cyborg
 
-一个僵尸网络分析框架
-https://github.com/m4rco-/dorothy2
+一个提供底层接口数据包编程和网络协议支持的python库
+https://github.com/CoreSecurity/impacket
 
-WAFS审计工具
-https://github.com/lightbulb-framework/lightbulb-framework
+python requests 库
+https://github.com/kennethreitz/requests
 
-1000个php代码审计案例
-https://github.com/Xyntax/1000php
+python 实用工具合集
+https://github.com/mahmoud/boltons
 
-基于 python 的 Linux ssh 跳板机/堡垒机设置工具
-https://github.com/aker-gateway/Aker
+python爬虫系统
+https://github.com/binux/pyspider
 
-Linux常见命令及部分安全软件使用命令列表
-https://github.com/andrewjkerr/security-cheatsheets
+ctf向 python工具包
+https://github.com/P1kachu/v0lt
 
-ssrfDetector
-https://github.com/JacobReynolds/ssrfDetector
+python框架，库，资源大合集
+https://github.com/vinta/awesome-python
 
-A high performance DNS cache designed for Content Delivery Networks 
-https://github.com/jedisct1/edgedns
-
-BleachBit system cleaner for Windows and Linux https://www.bleachbit.org
-https://github.com/bleachbit/bleachbit
-
-PHP后门检测工具
-https://github.com/yassineaddi/BackdoorMan.git
-
-Security auditing and hardening tool, for UNIX-based systems
-https://github.com/CISOfy/lynis
-
-垃圾邮件分析工具
-https://github.com/SpamScope/spamscope
-
-恶意代码，php shell检测工具
-https://github.com/yassineaddi/BackdoorMan
-
-安全程序和漏洞管理工具
-https://github.com/OWASP/django-DefectDojo
-
-混淆代码检测工具
-https://github.com/Neohapsis/NeoPI
-
-webshell检测工具
-https://github.com/emposha/Shell-Detector
-
-Community-driven Rails Security Checklist.
-https://github.com/eliotsykes/rails-security-checklist
-
-HTTP middleware for Go that facilitates some quick security wins. 
-https://github.com/unrolled/secure
-
-InSpec: Auditing and Testing Framework
-https://github.com/chef/inspec
-
-Suricata is a network IDS, IPS and NSM engine
-https://github.com/inliniac/suricata
-
-AWS security scanning checks 
-https://github.com/cloudsploit/scans
-
-secure interactive password manager using NACL and Go
-https://github.com/johnathanhowell/masterkey
-
-pick -- A minimal password manager for OS X and Linux.
-https://github.com/bndw/pick
+python资源大全
+https://github.com/jobbole/awesome-python-cn

@@ -197,6 +197,9 @@ https://github.com/rbsec/sslscan
 
 ##漏洞库及工具（POC，EXP）
 
+Snyk Vulnerability Database
+https://github.com/snyk/vulndb
+
 哈希长度扩展攻击EXP
 https://github.com/citronneur/rdpy
 
@@ -244,6 +247,9 @@ https://github.com/GoSecure/php7-opcache-override
 
 XcodeGhost木马样本
 https://github.com/XcodeGhostSource/XcodeGhost
+
+scap-security-guide
+https://github.com/OpenSCAP/scap-security-guide
 
 ###EXP编写框架及工具：
 
@@ -312,8 +318,14 @@ https://github.com/facebook/fbctf
 ctf Resources
 https://github.com/ctfs/resources
 
+Ctf solutions from p4 team https://p4.team
+https://github.com/p4-team/ctf
+
 大礼包（什么都有）
 https://github.com/bayandin/awesome-awesomeness
+
+linux-kernel-exploitation A bunch of links related to Linux kernel fuzzing and exploitation 
+https://github.com/xairy/linux-kernel-exploitation
 
 bash-handbook
 https://github.com/denysdovhan/bash-handbook
@@ -511,6 +523,9 @@ https://github.com/rootphantomer/hack_tools_for_me
 
 数据库注入工具
 https://github.com/sqlmapproject/sqlmap
+
+SQLiScanner -- Automatic SQL injection with Charles and sqlmap api
+https://github.com/0xbug/SQLiScanner
 
 Web代理，通过加载sqlmap api进行sqli实时检测
 https://github.com/zt2/sqli-hunter
@@ -792,6 +807,9 @@ https://github.com/andrewjkerr/security-cheatsheets
 ssrfDetector
 https://github.com/JacobReynolds/ssrfDetector
 
+A high performance DNS cache designed for Content Delivery Networks 
+https://github.com/jedisct1/edgedns
+
 PHP后门检测工具
 https://github.com/yassineaddi/BackdoorMan.git
 
@@ -824,3 +842,12 @@ https://github.com/chef/inspec
 
 Suricata is a network IDS, IPS and NSM engine
 https://github.com/inliniac/suricata
+
+AWS security scanning checks 
+https://github.com/cloudsploit/scans
+
+secure interactive password manager using NACL and Go
+https://github.com/johnathanhowell/masterkey
+
+pick -- A minimal password manager for OS X and Linux.
+https://github.com/bndw/pick

@@ -139,6 +139,9 @@ https://github.com/andrewjkerr/security-cheatsheets
 ssrfDetector
 https://github.com/JacobReynolds/ssrfDetector
 
+A high performance DNS cache designed for Content Delivery Networks 
+https://github.com/jedisct1/edgedns
+
 PHP后门检测工具
 https://github.com/yassineaddi/BackdoorMan.git
 
@@ -171,3 +174,12 @@ https://github.com/chef/inspec
 
 Suricata is a network IDS, IPS and NSM engine
 https://github.com/inliniac/suricata
+
+AWS security scanning checks 
+https://github.com/cloudsploit/scans
+
+secure interactive password manager using NACL and Go
+https://github.com/johnathanhowell/masterkey
+
+pick -- A minimal password manager for OS X and Linux.
+https://github.com/bndw/pick

@@ -51,8 +51,14 @@ https://github.com/facebook/fbctf
 ctf Resources
 https://github.com/ctfs/resources
 
+Ctf solutions from p4 team https://p4.team
+https://github.com/p4-team/ctf
+
 大礼包（什么都有）
 https://github.com/bayandin/awesome-awesomeness
+
+linux-kernel-exploitation A bunch of links related to Linux kernel fuzzing and exploitation 
+https://github.com/xairy/linux-kernel-exploitation
 
 bash-handbook
 https://github.com/denysdovhan/bash-handbook

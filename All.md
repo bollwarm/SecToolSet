@@ -320,11 +320,17 @@ https://github.com/JacobReynolds/ssrfDetector
 fwd is a network port forwarder written in golang.
 https://github.com/kintoandar/fwd
 
+Automatic CSRF protection for Symfony apps using AngularJS or AJA
+https://github.com/dunglas/DunglasAngularCsrfBundle
+
 A high performance DNS cache designed for Content Delivery Networks 
 https://github.com/jedisct1/edgedns
 
 BleachBit system cleaner for Windows and Linux https://www.bleachbit.org
 https://github.com/bleachbit/bleachbit
+
+Universal Radio Hacker: investigate wireless protocols like a boss
+https://github.com/jopohl/urh
 
 PHP后门检测工具
 https://github.com/yassineaddi/BackdoorMan.git
@@ -340,6 +346,9 @@ https://github.com/yassineaddi/BackdoorMan
 
 安全程序和漏洞管理工具
 https://github.com/OWASP/django-DefectDojo
+
+HaboMalHunter是哈勃分析系统 (https://habo.qq.com) 的开源子项目，用于Linux平台下进行自动化分析、文件安全性检测的开源工具
+https://github.com/Tencent/HaboMalHunte
 
 混淆代码检测工具
 https://github.com/Neohapsis/NeoPI
@@ -406,6 +415,8 @@ https://github.com/knownsec/Pocsuite
 Beebeeto
 https://github.com/n0tr00t/Beebeeto-framework
 
+一个用Node.js编写的Web安全测试框架
+https://github.com/zhuyingda/veneno
 
 ### 模糊测试 Fuzz:
 
@@ -717,6 +728,9 @@ https://github.com/sea-god/gitscan
 
 github Repo信息搜集工具
 https://github.com/metac0rtex/GitHarvester
+
+Improve your security and privacy by blocking ads, tracking and malware domains. 
+https://github.com/zant95/hBlock
 
 AIL framework - Framework for Analysis of Information Leaks
 https://github.com/CIRCL/AIL-framework

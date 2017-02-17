@@ -199,6 +199,9 @@ https://github.com/zxsecurity/gpsnitch
 应急处置响应框架
 https://github.com/biggiesmallsAG/nightHawkResponse
 
+airgeddon -- This is a multi-use bash script for Linux systems to audit wireless networks. 
+https://github.com/v1s1t0r1sh3r3/airgeddon
+
 web安全开发指南
 https://github.com/FallibleInc/security-guide-for-developers
 
@@ -591,6 +594,9 @@ https://github.com/80vul/phpcodz
 
 Parse: A PHP Security Scanner
 https://github.com/psecio/parse
+
+NodeJsScan is a static security code scanner for Node.js applications. 
+https://github.com/ajinabraham/NodeJsScan
 
 Simple test for CVE-2016-2107
 https://github.com/FiloSottile/CVE-2016-2107

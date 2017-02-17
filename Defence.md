@@ -181,6 +181,9 @@ https://github.com/inliniac/suricata
 AWS security scanning checks 
 https://github.com/cloudsploit/scans
 
+https://github.com/anaynayak/aws-security-viz
+aws-security-viz -- A tool to visualize aws security groups 
+
 secure interactive password manager using NACL and Go
 https://github.com/johnathanhowell/masterkey
 

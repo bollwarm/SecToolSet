@@ -356,6 +356,9 @@ https://github.com/inliniac/suricata
 AWS security scanning checks 
 https://github.com/cloudsploit/scans
 
+https://github.com/anaynayak/aws-security-viz
+aws-security-viz -- A tool to visualize aws security groups 
+
 secure interactive password manager using NACL and Go
 https://github.com/johnathanhowell/masterkey
 
@@ -585,6 +588,9 @@ https://github.com/offensive-security/exploit-database
 
 php漏洞代码分析
 https://github.com/80vul/phpcodz
+
+Parse: A PHP Security Scanner
+https://github.com/psecio/parse
 
 Simple test for CVE-2016-2107
 https://github.com/FiloSottile/CVE-2016-2107

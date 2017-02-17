@@ -142,6 +142,9 @@ https://github.com/andrewjkerr/security-cheatsheets
 ssrfDetector
 https://github.com/JacobReynolds/ssrfDetector
 
+fwd is a network port forwarder written in golang.
+https://github.com/kintoandar/fwd
+
 A high performance DNS cache designed for Content Delivery Networks 
 https://github.com/jedisct1/edgedns
 

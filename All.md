@@ -371,14 +371,17 @@ https://github.com/inliniac/suricata
 AWS security scanning checks 
 https://github.com/cloudsploit/scans
 
-https://github.com/anaynayak/aws-security-viz
 aws-security-viz -- A tool to visualize aws security groups 
+https://github.com/anaynayak/aws-security-viz
 
 secure interactive password manager using NACL and Go
 https://github.com/johnathanhowell/masterkey
 
 pick -- A minimal password manager for OS X and Linux.
 https://github.com/bndw/pick
+
+phpMusse 这是一个根据ClamAV的签名和其他签名在上传完成后来自动检测木马/病毒/恶意软件和其他可能威胁到您系统安全的文件的PHP脚本
+https://github.com/Maikuolan/phpMussel/
 ##渗透测试
 
 windows漏洞利用相关整理

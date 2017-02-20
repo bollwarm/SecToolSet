@@ -380,6 +380,9 @@ https://github.com/johnathanhowell/masterkey
 pick -- A minimal password manager for OS X and Linux.
 https://github.com/bndw/pick
 
+Encrypted, taggable, searchable cloud storage 
+https://tryingtobeawesome.com/cryptag/
+
 phpMusse 这是一个根据ClamAV的签名和其他签名在上传完成后来自动检测木马/病毒/恶意软件和其他可能威胁到您系统安全的文件的PHP脚本
 https://github.com/Maikuolan/phpMussel/
 ##渗透测试
@@ -440,6 +443,9 @@ https://github.com/henshin/filebuster
 
 fuzzing framework
 https://github.com/MozillaSecurity/peach
+
+fuddly: a fuzzing and data manipulation framework
+https://github.com/k0retux/fuddly
 
 A general-purpose, easy-to-use fuzzer with interesting analysis options.
 https://github.com/google/honggfuzz

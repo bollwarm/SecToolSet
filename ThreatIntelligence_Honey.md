@@ -12,6 +12,9 @@ https://github.com/metac0rtex/GitHarvester
 Improve your security and privacy by blocking ads, tracking and malware domains. 
 https://github.com/zant95/hBlock
 
+EggShell (formerly known as NeonEggShell) is an iOS and OS X surveillance tool written in python
+https://github.com/neoneggplant/EggShell
+
 AIL framework - Framework for Analysis of Information Leaks
 https://github.com/CIRCL/AIL-framework
 

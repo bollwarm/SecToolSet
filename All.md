@@ -383,6 +383,9 @@ https://github.com/bndw/pick
 Encrypted, taggable, searchable cloud storage 
 https://tryingtobeawesome.com/cryptag/
 
+This chef cookbook provides secure ssh-client and ssh-server configurations.
+https://github.com/dev-sec/chef-ssh-hardening
+
 phpMusse 这是一个根据ClamAV的签名和其他签名在上传完成后来自动检测木马/病毒/恶意软件和其他可能威胁到您系统安全的文件的PHP脚本
 https://github.com/Maikuolan/phpMussel/
 ##渗透测试
@@ -743,6 +746,9 @@ https://github.com/metac0rtex/GitHarvester
 
 Improve your security and privacy by blocking ads, tracking and malware domains. 
 https://github.com/zant95/hBlock
+
+EggShell (formerly known as NeonEggShell) is an iOS and OS X surveillance tool written in python
+https://github.com/neoneggplant/EggShell
 
 AIL framework - Framework for Analysis of Information Leaks
 https://github.com/CIRCL/AIL-framework

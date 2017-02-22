@@ -377,6 +377,9 @@ https://github.com/anaynayak/aws-security-viz
 secure interactive password manager using NACL and Go
 https://github.com/johnathanhowell/masterkey
 
+Hound is a Git plugin that helps prevent sensitive data push to repository by sniffing potential
+https://github.com/ezekg/git-hound
+
 pick -- A minimal password manager for OS X and Linux.
 https://github.com/bndw/pick
 

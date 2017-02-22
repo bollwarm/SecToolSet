@@ -193,6 +193,9 @@ https://github.com/epinna/tplmap
 sqli词法解析分析器
 https://github.com/client9/libinjection
 
+First 5 minutes on new servers. Secure your servers with single command - Ansible playbook
+https://github.com/chhantyal/5minutes
+
 gps欺骗检测工具
 https://github.com/zxsecurity/gpsnitch
 
@@ -365,6 +368,9 @@ https://github.com/unrolled/secure
 InSpec: Auditing and Testing Framework
 https://github.com/chef/inspec
 
+Grunt task for retire.js. Scanner detecting the use of JavaScript libraries with known vulnerabilities.
+https://github.com/RetireJS/grunt-retire
+
 Suricata is a network IDS, IPS and NSM engine
 https://github.com/inliniac/suricata
 
@@ -391,6 +397,9 @@ https://github.com/bndw/pick
 
 Encrypted, taggable, searchable cloud storage 
 https://tryingtobeawesome.com/cryptag/
+
+ElkarBackup is a free open-source backup solution based on RSync/RSnapshot
+https://github.com/elkarbackup/elkarbackup
 
 This chef cookbook provides secure ssh-client and ssh-server configurations.
 https://github.com/dev-sec/chef-ssh-hardening
@@ -741,6 +750,12 @@ https://github.com/BinaryAnalysisPlatform/bap
 
 oletools - python tools to analyze MS OLE2 files
 https://github.com/decalage2/oletools
+
+chipwhisperer -- toolchain for side-channel power analysis and glitching attacks
+https://github.com/newaetech/chipwhisperer
+
+ICS Security Tools, Tips, and Trade
+https://github.com/ITI/ICS-Security-Tools
 
 ## 威胁情报&蜜罐：
 

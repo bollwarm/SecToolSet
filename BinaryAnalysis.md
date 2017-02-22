@@ -60,3 +60,9 @@ https://github.com/BinaryAnalysisPlatform/bap
 oletools - python tools to analyze MS OLE2 files
 https://github.com/decalage2/oletools
 
+chipwhisperer -- toolchain for side-channel power analysis and glitching attacks
+https://github.com/newaetech/chipwhisperer
+
+ICS Security Tools, Tips, and Trade
+https://github.com/ITI/ICS-Security-Tools
+

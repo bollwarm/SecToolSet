@@ -380,6 +380,12 @@ https://github.com/johnathanhowell/masterkey
 Hound is a Git plugin that helps prevent sensitive data push to repository by sniffing potential
 https://github.com/ezekg/git-hound
 
+HULK DoS tool ported to Go language from Python
+https://github.com/grafov/hulk
+
+大数据安全检测工
+https://github.com/kotobukki/BigDataAudit
+
 pick -- A minimal password manager for OS X and Linux.
 https://github.com/bndw/pick
 

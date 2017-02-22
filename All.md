@@ -840,6 +840,9 @@ https://github.com/bayandin/awesome-awesomeness
 linux-kernel-exploitation A bunch of links related to Linux kernel fuzzing and exploitation 
 https://github.com/xairy/linux-kernel-exploitation
 
+mirror of Gera's Insecure Programming examples
+https://github.com/deadbits/InsecureProgramming
+
 bash-handbook
 https://github.com/denysdovhan/bash-handbook
 

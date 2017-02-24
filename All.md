@@ -196,6 +196,9 @@ https://github.com/CHEF-KOCH/Android-Vulnerabilities-Overview
 sqli词法解析分析器
 https://github.com/client9/libinjection
 
+Daily feed of bad IPs (with blacklist hit scores) 
+https://github.com/stamparm/ipsum
+
 First 5 minutes on new servers. Secure your servers with single command - Ansible playbook
 https://github.com/chhantyal/5minutes
 

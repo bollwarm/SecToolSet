@@ -30,6 +30,9 @@ https://github.com/zxsecurity/gpsnitch
 应急处置响应框架
 https://github.com/biggiesmallsAG/nightHawkResponse
 
+https://github.com/FutureSharks/rpi-security
+A security system written in python to run on a Raspberry Pi with motion detection and mobile notifications
+
 airgeddon -- This is a multi-use bash script for Linux systems to audit wireless networks. 
 https://github.com/v1s1t0r1sh3r3/airgeddon
 

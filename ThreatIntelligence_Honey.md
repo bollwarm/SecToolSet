@@ -24,6 +24,9 @@ https://github.com/neoneggplant/EggShell
 AIL framework - Framework for Analysis of Information Leaks
 https://github.com/CIRCL/AIL-framework
 
+蜜罐资源合集
+https://github.com/paralax/awesome-honeypots
+
 SSH蜜罐
 https://github.com/desaster/kippo
 

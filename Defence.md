@@ -15,6 +15,9 @@ https://github.com/aramosf/recoversqlite/
 自动化的模板注入攻击检测工具
 https://github.com/epinna/tplmap
 
+Android-Vulnerabilities-Overview - An small overview of known Android vulnerabilities 
+https://github.com/CHEF-KOCH/Android-Vulnerabilities-Overview
+
 sqli词法解析分析器
 https://github.com/client9/libinjection
 
@@ -35,10 +38,6 @@ https://github.com/FallibleInc/security-guide-for-developers
 
 乌云知识库全部文章(失效)
 https://github.com/4ido10n/wooyun-drops-all-articles-package
-
-蜜罐资源合集
-https://github.com/paralax/awesome-honeypots
-
 
 自动化代码审计工具
 https://github.com/wufeifei/cobra

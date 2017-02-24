@@ -98,6 +98,8 @@ https://github.com/rootphantomer/hack_tools_for_me
 awesome-iot-hacks -- A curated list of IoT space hacks in security vulnerabilities 
 https://github.com/nebgnahz/awesome-iot-hacks
 
+detectem - detect software and its version on websites. 
+https://github.com/spectresearch/detectem
 
 数据库注入工具
 https://github.com/sqlmapproject/sqlmap

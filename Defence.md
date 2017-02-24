@@ -30,6 +30,9 @@ https://github.com/zxsecurity/gpsnitch
 应急处置响应框架
 https://github.com/biggiesmallsAG/nightHawkResponse
 
+secure-ls Secure localStorage data with high level of encryption and data compression.
+https://github.com/softvar/secure-ls
+
 https://github.com/FutureSharks/rpi-security
 A security system written in python to run on a Raspberry Pi with motion detection and mobile notifications
 

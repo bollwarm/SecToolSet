@@ -28,10 +28,13 @@ https://github.com/rapid7/metasploit-framework
 Poc调用框架，可加载Pocsuite,Tangscan，Beebeeto等
 https://github.com/erevus-cn/pocscan
 
-Pocsuite
+Pocsuite an open-sourced remote vulnerability testing framework
 https://github.com/knownsec/Pocsuite
 
-Beebeeto
+The YAWAST Antecedent Web Application Security Toolkit 
+https://github.com/adamcaudill/yawast
+
+Beebeeto是由众多安全研究人员所共同维护的一个规范化POC/EXP平台
 https://github.com/n0tr00t/Beebeeto-framework
 
 一个用Node.js编写的Web安全测试框架

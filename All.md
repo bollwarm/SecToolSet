@@ -768,6 +768,9 @@ https://github.com/sea-god/gitscan
 github Repo信息搜集工具
 https://github.com/metac0rtex/GitHarvester
 
+CIF v3 -- the fastest way to consume threat intelligence 
+https://github.com/csirtgadgets/bearded-avenger
+
 Improve your security and privacy by blocking ads, tracking and malware domains. 
 https://github.com/zant95/hBlock
 

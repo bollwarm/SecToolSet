@@ -199,6 +199,12 @@ https://github.com/client9/libinjection
 Daily feed of bad IPs (with blacklist hit scores) 
 https://github.com/stamparm/ipsum
 
+[READ-ONLY] Subtree split of the Symfony Security Component
+https://github.com/symfony/security
+
+CSRF Protector library: standalone library for CSRF mitigation 
+https://github.com/mebjas/CSRF-Protector-PHP
+
 First 5 minutes on new servers. Secure your servers with single command - Ansible playbook
 https://github.com/chhantyal/5minutes
 

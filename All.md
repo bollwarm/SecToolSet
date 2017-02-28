@@ -205,6 +205,9 @@ https://github.com/symfony/security
 CSRF Protector library: standalone library for CSRF mitigation 
 https://github.com/mebjas/CSRF-Protector-PHP
 
+Virus Total Public/Private/Intel API 
+https://github.com/blacktop/virustotal-api
+
 First 5 minutes on new servers. Secure your servers with single command - Ansible playbook
 https://github.com/chhantyal/5minutes
 

@@ -152,14 +152,17 @@ https://github.com/Veil-Framework/Veil-Evasion
 用gmail充当C&amp;C服务器的后门
 https://github.com/byt3bl33d3r/gcat
 
-https://github.com/1N3/IntruderPayloads
 burp instruder payloads collection
+https://github.com/1N3/IntruderPayloads
 
-https://github.com/Neohapsis/bbqsql
 A Blind SQL Injection Exploitation Tool
+https://github.com/Neohapsis/bbqsql
 
 antSword
 https://github.com/antoor/antSword/releases
+
+A Powershell client for dnscat2, an encrypted DNS command and control tool.
+https://github.com/lukebaggett/dnscat2-powershell
 
 burp插件收集项目
 https://github.com/xl7dev/BurpSuite/tree/master/Extender

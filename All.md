@@ -787,6 +787,9 @@ https://github.com/n0tr00t/Sreg
 Github信息搜集，可实时扫描查询git最新上传有关邮箱账号密码信息
 https://github.com/sea-god/gitscan
 
+RegEx Denial of Service (ReDos) Scanner https://github.com/jagracey/Regex-DoS
+https://github.com/jagracey/RegEx-DoS
+
 github Repo信息搜集工具
 https://github.com/metac0rtex/GitHarvester
 

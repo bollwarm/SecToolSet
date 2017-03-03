@@ -84,6 +84,9 @@ https://github.com/lijiejie/htpwdScan
 AFL的Android移植版本
 https://github.com/ele7enxxh/android-afl
 
+Fuzzing results for various interpreters. 
+https://github.com/dyjakan/interpreter-bugs
+
 ###WEB渗透:
 
 webshell大合集

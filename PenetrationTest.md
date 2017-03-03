@@ -158,6 +158,9 @@ https://github.com/1N3/IntruderPayloads
 A Blind SQL Injection Exploitation Tool
 https://github.com/Neohapsis/bbqsql
 
+Script for doing evil stuff to Redis servers (for education purposes only). 
+https://github.com/matiasinsaurralde/evilredis
+
 antSword
 https://github.com/antoor/antSword/releases
 

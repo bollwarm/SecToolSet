@@ -286,6 +286,9 @@ https://github.com/google/grr
 The Mozilla Defense Platform
 https://github.com/mozilla/MozDef
 
+A formal semantics of the Linux netfilter iptables firewall. 
+https://github.com/diekmann/Iptables_Semantics
+
 综合主机监控检测平台（包含主机防火墙，日志监控，SIEM等）
 https://github.com/ossec/ossec-hids
 

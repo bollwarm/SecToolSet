@@ -252,5 +252,8 @@ https://github.com/dev-sec/chef-ssh-hardening
 Second factor TOTP (RFC 6238) provider for Nextcloud
 https://github.com/nextcloud/twofactor_totp
 
+nixarmor is a linux hardening automation project 
+https://github.com/emirozer/nixarmor
+
 phpMusse 这是一个根据ClamAV的签名和其他签名在上传完成后来自动检测木马/病毒/恶意软件和其他可能威胁到您系统安全的文件的PHP脚本
 https://github.com/Maikuolan/phpMussel/

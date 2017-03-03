@@ -782,6 +782,9 @@ https://github.com/decalage2/oletools
 chipwhisperer -- toolchain for side-channel power analysis and glitching attacks
 https://github.com/newaetech/chipwhisperer
 
+OCI (Open Containers Initiative) compatible runtime for Intel® Architectur
+https://github.com/01org/cc-oci-runtime
+
 ICS Security Tools, Tips, and Trade
 https://github.com/ITI/ICS-Security-Tools
 

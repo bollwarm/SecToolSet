@@ -232,6 +232,9 @@ https://github.com/v1s1t0r1sh3r3/airgeddon
 Protect pages from access with a universal username/password
 https://github.com/spatie/laravel-littlegatekeeper
 
+This chef cookbook provides secure nginx configurations. 
+https://github.com/dev-sec/chef-nginx-hardening
+
 web安全开发指南
 https://github.com/FallibleInc/security-guide-for-developers
 

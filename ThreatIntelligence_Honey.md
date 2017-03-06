@@ -30,6 +30,9 @@ https://github.com/CIRCL/AIL-framework
 蜜罐资源合集
 https://github.com/paralax/awesome-honeypots
 
+Integrates OWASP Dependency-Check reports into SonarQube 
+https://github.com/stevespringett/dependency-check-sonar-plugin
+
 SSH蜜罐
 https://github.com/desaster/kippo
 

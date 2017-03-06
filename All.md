@@ -521,6 +521,9 @@ https://github.com/ele7enxxh/android-afl
 Fuzzing results for various interpreters. 
 https://github.com/dyjakan/interpreter-bugs
 
+Fuzzapi is a tool used for REST API pentesting and uses API_Fuzzer gem
+https://github.com/lalithr95/fuzzapi
+
 ###WEB渗透:
 
 webshell大合集

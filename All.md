@@ -229,6 +229,9 @@ A security system written in python to run on a Raspberry Pi with motion detecti
 airgeddon -- This is a multi-use bash script for Linux systems to audit wireless networks. 
 https://github.com/v1s1t0r1sh3r3/airgeddon
 
+Protect pages from access with a universal username/password
+https://github.com/spatie/laravel-littlegatekeeper
+
 web安全开发指南
 https://github.com/FallibleInc/security-guide-for-developers
 

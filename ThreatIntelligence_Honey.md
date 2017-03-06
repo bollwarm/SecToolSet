@@ -33,6 +33,9 @@ https://github.com/paralax/awesome-honeypots
 Integrates OWASP Dependency-Check reports into SonarQube 
 https://github.com/stevespringett/dependency-check-sonar-plugin
 
+SBT Plugin for OWASP DependencyCheck.
+https://github.com/albuch/sbt-dependency-check
+
 SSH蜜罐
 https://github.com/desaster/kippo
 

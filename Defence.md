@@ -36,6 +36,9 @@ https://github.com/blacktop/virustotal-api
 First 5 minutes on new servers. Secure your servers with single command - Ansible playbook
 https://github.com/chhantyal/5minutes
 
+A toolbox to enforce firewall rules across multiple GCP projects. 
+https://github.com/spotify/gcp-firewall-enforcer
+
 gps欺骗检测工具
 https://github.com/zxsecurity/gpsnitch
 

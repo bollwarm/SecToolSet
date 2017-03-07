@@ -6,6 +6,9 @@ https://github.com/n0tr00t/Sreg
 Github信息搜集，可实时扫描查询git最新上传有关邮箱账号密码信息
 https://github.com/sea-god/gitscan
 
+Taxonomies used in MISP taxonomy system and can be used by other information sharing tool. 
+https://github.com/MISP/misp-taxonomies
+
 RegEx Denial of Service (ReDos) Scanner https://github.com/jagracey/Regex-DoS
 https://github.com/jagracey/RegEx-DoS
 

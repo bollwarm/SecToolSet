@@ -60,6 +60,9 @@ https://github.com/spatie/laravel-littlegatekeeper
 This chef cookbook provides secure nginx configurations. 
 https://github.com/dev-sec/chef-nginx-hardening
 
+proxy poc implementation of STARTTLS stripping attacks 
+https://github.com/tintinweb/striptls
+
 A honeypot proxy for mongodb. When run, this will proxy and log all traffic to a dummy mongodb server.
 https://github.com/Plazmaz/MongoDB-HoneyProxy
 

@@ -592,6 +592,9 @@ https://github.com/guillotines/WebShell
 tomcat自动后门部署
 https://github.com/mgeeky/tomcatWarDeployer
 
+TomcatBrute tool 
+https://github.com/WallbreakerTeam/TomcatBrute
+
 通过调用sqlmap api，自动检测sqli的代理
 https://github.com/fengxuangit/Fox-scan/
 

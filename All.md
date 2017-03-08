@@ -785,8 +785,11 @@ https://github.com/bdcht/amoco
 Python Exploit Development Assistance for GDB
 https://github.com/longld/peda
 
-https://github.com/ValdikSS/billgates-botnet-tracker
 对BillGates Linux Botnet系木马活动的监控工具
+https://github.com/ValdikSS/billgates-botnet-tracker
+
+Windows driver and usermode interface which can hide objects of file-system and registry, protect processes and etc
+https://github.com/JKornev/hidden
 
 木马配置参数提取工具
 https://github.com/kevthehermit/RATDecoders

@@ -39,6 +39,9 @@ https://github.com/chhantyal/5minutes
 A toolbox to enforce firewall rules across multiple GCP projects. 
 https://github.com/spotify/gcp-firewall-enforcer
 
+DevSec Linux Baseline - InSpec Profile http://dev-sec.io/
+https://github.com/dev-sec/linux-baseline
+
 gps欺骗检测工具
 https://github.com/zxsecurity/gpsnitch
 

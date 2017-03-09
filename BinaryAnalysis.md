@@ -36,6 +36,9 @@ https://github.com/longld/peda
 对BillGates Linux Botnet系木马活动的监控工具
 https://github.com/ValdikSS/billgates-botnet-tracker
 
+pypacker: The fast and simple packet creation and parsing lib for Python. 
+https://github.com/mike01/pypacker
+
 Windows driver and usermode interface which can hide objects of file-system and registry, protect processes and etc
 https://github.com/JKornev/hidden
 

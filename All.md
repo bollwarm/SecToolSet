@@ -518,6 +518,9 @@ https://github.com/k0retux/fuddly
 A general-purpose, easy-to-use fuzzer with interesting analysis options.
 https://github.com/google/honggfuzz
 
+Extension library for the Kitty fuzzing framework 
+https://github.com/cisco-sas/katnip
+
 Media Fuzzing Framework for Android
 https://github.com/fuzzing/MFFA
 

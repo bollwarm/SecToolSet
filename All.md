@@ -193,6 +193,9 @@ https://github.com/epinna/tplmap
 Android-Vulnerabilities-Overview - An small overview of known Android vulnerabilities 
 https://github.com/CHEF-KOCH/Android-Vulnerabilities-Overview
 
+Framework-agnostic package who provides powerful ACL abilities to Node.js
+https://github.com/Slynova-Org/node-fence
+
 Jenkins plugin for the OWASP dependency-check. This can be used to monitor the java libraries used in an application and report if there are any known vulnerabilities (e.g. CVEs). 
 https://github.com/jeremylong/dependency-check-jenkins
 

@@ -199,6 +199,9 @@ https://github.com/Slynova-Org/node-fence
 Jenkins plugin for the OWASP dependency-check. This can be used to monitor the java libraries used in an application and report if there are any known vulnerabilities (e.g. CVEs). 
 https://github.com/jeremylong/dependency-check-jenkins
 
+Brute Force Stop Plugin (for Joomla!) 
+https://github.com/codeling/bfstop
+
 sqli词法解析分析器
 https://github.com/client9/libinjection
 

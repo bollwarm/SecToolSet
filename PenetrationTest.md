@@ -72,6 +72,9 @@ https://github.com/cisco-sas/katnip
 API Fuzzer which allows to fuzz request attributes using common pentesting techniques and lists vulnerabilities 
 https://github.com/lalithr95/API-fuzzer
 
+Reveal encrypted files stored on a filesystem. 
+https://github.com/antagon/TCHunt-ng
+
 Media Fuzzing Framework for Android
 https://github.com/fuzzing/MFFA
 

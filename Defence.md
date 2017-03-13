@@ -27,6 +27,9 @@ https://github.com/jeremylong/dependency-check-jenkins
 Brute Force Stop Plugin (for Joomla!) 
 https://github.com/codeling/bfstop
 
+PowerShell script to monitor Active Directory groups and send an email when someone is changing the membership
+https://github.com/lazywinadmin/Monitor-ADGroupMembership
+
 sqli词法解析分析器
 https://github.com/client9/libinjection
 

@@ -9,6 +9,9 @@ https://github.com/phith0n/Mind-Map
 有关信息安全的一些流程图收集
 https://github.com/SecWiki/sec-chart/tree/294d7c1ff1eba297fa892dda08f3c05e90ed1428
 
+A collection of talks related to cryptography, security, OPSEC and other projects
+https://github.com/freddymartinez9/securitytalks
+
 Don't let your user be a victim of their own action
 https://github.com/kn9ts/dumb-passwords
 

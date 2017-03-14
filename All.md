@@ -812,6 +812,9 @@ https://github.com/longld/peda
 对BillGates Linux Botnet系木马活动的监控工具
 https://github.com/ValdikSS/billgates-botnet-tracker
 
+Assesses CPU security of embedded devices. iadgov 
+https://github.com/iadgov/Maplesyrup
+
 pypacker: The fast and simple packet creation and parsing lib for Python. 
 https://github.com/mike01/pypacker
 

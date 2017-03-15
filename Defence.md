@@ -30,6 +30,9 @@ https://github.com/codeling/bfstop
 PowerShell script to monitor Active Directory groups and send an email when someone is changing the membership
 https://github.com/lazywinadmin/Monitor-ADGroupMembership
 
+Assesses CPU security of embedded devices. iadgov 
+https://github.com/iadgov/Maplesyrup
+
 sqli词法解析分析器
 https://github.com/client9/libinjection
 

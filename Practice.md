@@ -1,5 +1,5 @@
 
-##漏洞利用& 实战练习平台：
+## 漏洞利用& 实战练习平台：
 
 WebGoat漏洞练习环境
 https://github.com/WebGoat/WebGoat

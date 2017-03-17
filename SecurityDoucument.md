@@ -96,6 +96,9 @@ https://github.com/yangyangwithgnu/hardseed
 A full-featured home hosted Cloud Drive,
 https://github.com/zelon88/HRCloud2
 
+Minimalist cheat sheet for developpers to write secure code 
+https://github.com/GoSecure/security-cheat-sheet
+
 ### Python工具：
 
 A Security Framework for Python applications

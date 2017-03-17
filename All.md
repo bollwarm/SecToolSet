@@ -1015,6 +1015,9 @@ https://github.com/geeeeeeeeek/WeChatLuckyMoney
 神器
 https://github.com/yangyangwithgnu/hardseed
 
+A full-featured home hosted Cloud Drive,
+https://github.com/zelon88/HRCloud2
+
 ### Python工具：
 
 A Security Framework for Python applications

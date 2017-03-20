@@ -199,6 +199,9 @@ https://github.com/CHEF-KOCH/Android-Vulnerabilities-Overview
 Framework-agnostic package who provides powerful ACL abilities to Node.js
 https://github.com/Slynova-Org/node-fence
 
+Quickstart for self-hosted Kolide https://kolide.co
+https://github.com/kolide/kolide-quickstart
+
 Jenkins plugin for the OWASP dependency-check. This can be used to monitor the java libraries used in an application and report if there are any known vulnerabilities (e.g. CVEs). 
 https://github.com/jeremylong/dependency-check-jenkins
 

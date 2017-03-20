@@ -1,5 +1,6 @@
 ## 威胁情报&蜜罐：
 
+
 社工插件，可查找以email、phone、username的注册的所有网站账号信息
 https://github.com/n0tr00t/Sreg
 
@@ -26,6 +27,9 @@ https://github.com/dradis/dradis-ce
 
 EggShell (formerly known as NeonEggShell) is an iOS and OS X surveillance tool written in python
 https://github.com/neoneggplant/EggShell
+
+HMAC timing attack's w/ statistical analysis http://eggie5.com/45-hmac-timing-attacks
+https://github.com/eggie5/hmac-timing-attacks
 
 AIL framework - Framework for Analysis of Information Leaks
 https://github.com/CIRCL/AIL-framework

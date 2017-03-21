@@ -27,6 +27,9 @@ https://github.com/Slynova-Org/node-fence
 Quickstart for self-hosted Kolide https://kolide.co
 https://github.com/kolide/kolide-quickstart
 
+Apache Block Bad Bots, Spam Referrer Blocker, Vulnerability Scanners, Malware, Adware, Ransomware, Malicious Sites, Wordpress Theme Detectors and Fail2Ban Jail for Repeat Offenders 
+https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
+
 Jenkins plugin for the OWASP dependency-check. This can be used to monitor the java libraries used in an application and report if there are any known vulnerabilities (e.g. CVEs). 
 https://github.com/jeremylong/dependency-check-jenkins
 

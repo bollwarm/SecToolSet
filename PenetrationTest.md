@@ -43,7 +43,10 @@ https://github.com/zhuyingda/veneno
 Message Queue & Broker Injection tool that implements attacks to Redis, RabbitMQ and ZeroMQ.
 https://github.com/cr0hn/enteletaor
 
-### 模糊测试 Fuzz:
+### 缺陷测试 Fuzz:
+
+FuzzLabs Fuzzing Framework https://dcnws.com
+https://github.com/keymandll/FuzzLabs
 
 Security oriented fuzzer with powerful analysis options.
 https://github.com/google/honggfuzz

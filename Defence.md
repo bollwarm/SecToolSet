@@ -15,6 +15,9 @@ https://github.com/aramosf/recoversqlite/
 自动化的模板注入攻击检测工具
 https://github.com/epinna/tplmap
 
+Simple security surveillance script for linux distributions.
+https://github.com/EgeBalci/The-Eye
+
 CIDRAM （无类别域间路由访问管理器）是一个PHP脚本，旨在保护网站途经阻止请求该从始发IP地址视为不良的流量来源.
 https://github.com/Maikuolan/CIDRAM
 

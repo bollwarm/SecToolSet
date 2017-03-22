@@ -30,6 +30,9 @@ https://github.com/Slynova-Org/node-fence
 Quickstart for self-hosted Kolide https://kolide.co
 https://github.com/kolide/kolide-quickstart
 
+Secrets bridge - Secure build-time secrets injection for Docker 
+https://github.com/abourget/secrets-bridge
+
 This cookbook provides recipes for ensuring that a Windows 2012 R2 system is compliant with the DevSec Windows Baseline.
 https://github.com/dev-sec/chef-windows-hardening
 

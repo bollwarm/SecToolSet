@@ -119,6 +119,9 @@ https://github.com/nebgnahz/awesome-iot-hacks
 detectem - detect software and its version on websites. 
 https://github.com/spectresearch/detectem
 
+Hydra is a penetration testing tool exclusively focused on dictionary-attacking web-based login forms.
+https://github.com/opennota/hydra
+
 数据库注入工具
 https://github.com/sqlmapproject/sqlmap
 

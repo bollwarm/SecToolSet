@@ -875,6 +875,9 @@ https://github.com/abeluck/stegdetect
 nary Analysis Platform
 https://github.com/BinaryAnalysisPlatform/bap
 
+libsodium for Universal Windows Platform (UWP) - A secure cryptographic library
+https://github.com/charlesportwoodii/libsodium-uwp
+
 oletools - python tools to analyze MS OLE2 files
 https://github.com/decalage2/oletools
 

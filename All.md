@@ -902,6 +902,9 @@ https://github.com/MISP/misp-taxonomies
 RegEx Denial of Service (ReDos) Scanner https://github.com/jagracey/Regex-DoS
 https://github.com/jagracey/RegEx-DoS
 
+dataShark is a Security & Network Event Analytics Framework built on Apache Spark 
+https://github.com/makemytrip/dataShark
+
 github Repo信息搜集工具
 https://github.com/metac0rtex/GitHarvester
 

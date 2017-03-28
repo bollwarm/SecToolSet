@@ -45,6 +45,9 @@ https://github.com/jeremylong/dependency-check-jenkins
 Brute Force Stop Plugin (for Joomla!) 
 https://github.com/codeling/bfstop
 
+A command-line tool that uses AWS KMS to encrypt secrets once, and decrypted them from multiple AWS regions. 
+https://github.com/aol/mrcrypt
+
 PowerShell script to monitor Active Directory groups and send an email when someone is changing the membership
 https://github.com/lazywinadmin/Monitor-ADGroupMembership
 

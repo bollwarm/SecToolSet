@@ -51,6 +51,9 @@ https://github.com/aol/mrcrypt
 Rust implementation of Noise 
 https://github.com/mcginty/snow
 
+DevSec MySQL Baseline - InSpec Profile http://dev-sec.io/
+https://github.com/dev-sec/mysql-baseline
+
 PowerShell script to monitor Active Directory groups and send an email when someone is changing the membership
 https://github.com/lazywinadmin/Monitor-ADGroupMembership
 

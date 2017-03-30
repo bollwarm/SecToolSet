@@ -232,6 +232,9 @@ https://github.com/aol/mrcrypt
 Rust implementation of Noise 
 https://github.com/mcginty/snow
 
+DigSig-ng is a Linux kernel security module providing RSA digital signature verification for ELF executables and shared libraries.
+https://github.com/digsig-ng/linux-digsig
+
 DevSec MySQL Baseline - InSpec Profile http://dev-sec.io/
 https://github.com/dev-sec/mysql-baseline
 

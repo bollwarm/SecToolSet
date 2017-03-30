@@ -999,6 +999,9 @@ https://github.com/ClickSecurity/data_hacking
 mobile-security-wiki
 https://github.com/exploitprotocol/mobile-security-wiki
 
+Android Security Enhancement List
+https://github.com/AndroidTamer/KnowledgeBase/tree/master/Documents
+
 书籍《reverse-engineering-for-beginners》
 https://github.com/veficos/reverse-engineering-for-beginners
 

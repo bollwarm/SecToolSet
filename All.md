@@ -711,6 +711,9 @@ https://github.com/stasinopoulos/commix
 XSS数据接收平台
 https://github.com/firesunCN/BlueLotus_XSSReceiver
 
+A fastTLS scanner ( non-blocking, event-driven ) https://prbinu.github.io/tls-scan
+https://github.com/prbinu/tls-scan
+
 XSS与CSRF工具
 https://github.com/evilcos/xssor
 

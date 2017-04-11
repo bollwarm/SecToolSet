@@ -211,6 +211,9 @@ https://github.com/firesunCN/BlueLotus_XSSReceiver
 A fastTLS scanner ( non-blocking, event-driven ) https://prbinu.github.io/tls-scan
 https://github.com/prbinu/tls-scan
 
+A Python RESTful API framework for online malware and URL analysis services. 
+https://github.com/diogo-fernan/malsub
+
 XSS与CSRF工具
 https://github.com/evilcos/xssor
 

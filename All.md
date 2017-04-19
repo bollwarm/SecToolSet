@@ -211,6 +211,9 @@ https://github.com/Slynova-Org/node-fence
 Quickstart for self-hosted Kolide https://kolide.co
 https://github.com/kolide/kolide-quickstart
 
+Vendor-Neutral Security Tool Automation Controller (over REST) 
+https://github.com/hakbot/hakbot-origin-controller
+
 Secrets bridge - Secure build-time secrets injection for Docker 
 https://github.com/abourget/secrets-bridge
 

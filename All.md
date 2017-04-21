@@ -984,6 +984,9 @@ https://github.com/mushorg/conpot
 
 ## 安全文档资料
 
+snowden-archive -- A collection of all documents leaked by former NSA contractor and whistleblower Edward Snowden. 
+https://github.com/iamcryptoki/snowden-archive
+
 Awesome Vehicle Security
 https://github.com/jaredthecoder/awesome-vehicle-security
 

@@ -214,6 +214,9 @@ https://github.com/kolide/kolide-quickstart
 Vendor-Neutral Security Tool Automation Controller (over REST) 
 https://github.com/hakbot/hakbot-origin-controller
 
+Bachelor's Thesis (A blockchain approach to securing software packages).
+https://github.com/clawoflight/aursec
+
 Secrets bridge - Secure build-time secrets injection for Docker 
 https://github.com/abourget/secrets-bridge
 

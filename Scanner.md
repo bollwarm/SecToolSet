@@ -89,6 +89,9 @@ https://github.com/reyjrar/DreamCatcher
 SSH-based "VPN for poors" 
 https://github.com/ivanilves/xiringuito
 
+PERL script to enumerate security settings of an RDP Service (AKA Terminal Services) 
+https://github.com/portcullislabs/rdp-sec-check
+
 ### Web扫描器
 
 网站指纹识别工具，用来检测网站CMS类型，所采用的博客系统类型，JS库，web服务器，甚至版本号，email地址，web框架等

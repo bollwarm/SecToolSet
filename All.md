@@ -556,6 +556,9 @@ https://github.com/cr0hn/enteletaor
 
 ### 缺陷测试 Fuzz:
 
+DotDotPwn - The Directory Traversal Fuzzer http://dotdotpwn.blogspot.com/
+https://github.com/wireghoul/dotdotpwn
+
 FuzzLabs Fuzzing Framework https://dcnws.com
 https://github.com/keymandll/FuzzLabs
 

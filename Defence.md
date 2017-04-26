@@ -259,6 +259,9 @@ https://github.com/yassineaddi/BackdoorMan.git
 Security auditing and hardening tool, for UNIX-based systems
 https://github.com/CISOfy/lynis
 
+Packaging audit toolkit using vulners.com vulnerability database 
+https://github.com/kreon/freeaudit
+
 垃圾邮件分析工具
 https://github.com/SpamScope/spamscope
 

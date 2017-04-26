@@ -311,6 +311,9 @@ https://github.com/4ido10n/wooyun-drops-all-articles-package
 自动化代码审计工具
 https://github.com/wufeifei/cobra
 
+Grep rough audit - source code auditing tool http://www.justanotherhacker.com
+https://github.com/wireghoul/graudit
+
 python编写的离线网络数据包分析器
 https://github.com/HatBoy/Pcap-Analyzer
 

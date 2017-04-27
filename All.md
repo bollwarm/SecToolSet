@@ -1015,7 +1015,7 @@ https://github.com/SecWiki/sec-chart/tree/294d7c1ff1eba297fa892dda08f3c05e90ed14
 A collection of talks related to cryptography, security, OPSEC and other projects
 https://github.com/freddymartinez9/securitytalks
 
-Don't let your user be a victim of their own action
+一个验证密码JS库，通过对比常见密码，提示密码问题
 https://github.com/kn9ts/dumb-passwords
 
 域渗透教程

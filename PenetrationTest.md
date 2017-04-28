@@ -23,13 +23,13 @@ https://github.com/PowerShellMafia/PowerSploit
 Powershell tools合集
 https://github.com/clymb3r/PowerShell
 
-msf
+msf-最强大的渗透平台
 https://github.com/rapid7/metasploit-framework
 
 Poc调用框架，可加载Pocsuite,Tangscan，Beebeeto等
 https://github.com/erevus-cn/pocscan
 
-Pocsuite an open-sourced remote vulnerability testing framework
+Pocsuite -开源的远程漏洞测试框架
 https://github.com/knownsec/Pocsuite
 
 The YAWAST Antecedent Web Application Security Toolkit 

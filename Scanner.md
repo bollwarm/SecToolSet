@@ -77,7 +77,7 @@ https://github.com/We5ter/Scanners-Box
 Fingerprints servers, finds exploits, scans WebDAV.
 https://github.com/Graph-X/davscan
 
-fast and friendly network scanner
+快捷友好的网络扫描器
 https://github.com/angryziber/ipscan
 
 A fast and modular scanner for Tor exit relays.

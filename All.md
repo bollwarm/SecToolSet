@@ -217,6 +217,9 @@ https://github.com/kolide/kolide-quickstart
 Vendor-Neutral Security Tool Automation Controller (over REST) 
 https://github.com/hakbot/hakbot-origin-controller
 
+All Day DevOps - Automated Infrastructure Security Monitoring and Defence (ELK + AWS Lambda) 
+https://github.com/appsecco/alldaydevops-aism
+
 Bachelor's Thesis (A blockchain approach to securing software packages).
 https://github.com/clawoflight/aursec
 

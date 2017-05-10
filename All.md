@@ -1018,6 +1018,9 @@ https://github.com/SecWiki/sec-chart/tree/294d7c1ff1eba297fa892dda08f3c05e90ed14
 A collection of talks related to cryptography, security, OPSEC and other projects
 https://github.com/freddymartinez9/securitytalks
 
+cis-benchmarks 常用服务器、数据库、中间件安全配置基线(英文pdf下载)
+https://www.cisecurity.org/cis-benchmarks/
+
 一个验证密码JS库，通过对比常见密码，提示密码问题
 https://github.com/kn9ts/dumb-passwords
 

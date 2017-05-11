@@ -75,6 +75,9 @@ https://github.com/iadgov/Maplesyrup
 KeyGen is a generator for keys and passwords. 
 https://github.com/offa/keygen
 
+AWS Big Brother is a tool to analyse IAM users 
+https://github.com/jae2/awsbigbrother
+
 sqli词法解析分析器
 https://github.com/client9/libinjection
 

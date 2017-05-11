@@ -72,6 +72,9 @@ https://github.com/lazywinadmin/Monitor-ADGroupMembership
 Assesses CPU security of embedded devices. iadgov 
 https://github.com/iadgov/Maplesyrup
 
+KeyGen is a generator for keys and passwords. 
+https://github.com/offa/keygen
+
 sqli词法解析分析器
 https://github.com/client9/libinjection
 

@@ -84,7 +84,7 @@ https://github.com/client9/libinjection
 Daily feed of bad IPs (with blacklist hit scores) 
 https://github.com/stamparm/ipsum
 
-[READ-ONLY] Subtree split of the Symfony Security Component
+Subtree split of the Symfony Security Component
 https://github.com/symfony/security
 
 CSRF Protector library: standalone library for CSRF mitigation 

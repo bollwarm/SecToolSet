@@ -111,6 +111,9 @@ https://github.com/biggiesmallsAG/nightHawkResponse
 secure-ls Secure localStorage data with high level of encryption and data compression.
 https://github.com/softvar/secure-ls
 
+A gitbook for doing a null Bangalore session on linux container security to discuss and teach namespaces, cgroups etc.
+https://github.com/makash/linux-container-security-docs
+
 https://github.com/FutureSharks/rpi-security
 A security system written in python to run on a Raspberry Pi with motion detection and mobile notifications
 

@@ -1045,7 +1045,7 @@ https://github.com/ClickSecurity/data_hacking
 mobile-security-wiki
 https://github.com/exploitprotocol/mobile-security-wiki
 
-Android Security Enhancement List
+安卓安全加固列表
 https://github.com/AndroidTamer/KnowledgeBase/tree/master/Documents
 
 书籍《reverse-engineering-for-beginners》
@@ -1075,7 +1075,7 @@ https://github.com/ctfs/write-ups-2016
 fbctf竞赛平台Demo
 https://github.com/facebook/fbctf
 
-ctf Resources
+ctf资源
 https://github.com/ctfs/resources
 
 Ctf solutions from p4 team https://p4.team

@@ -1015,7 +1015,7 @@ https://github.com/mushorg/conpot
 snowden-archive -- A collection of all documents leaked by former NSA contractor and whistleblower Edward Snowden. 
 https://github.com/iamcryptoki/snowden-archive
 
-Awesome Vehicle Security
+Awesome Vehicle Security 汽车安全合集包括文档、软硬件应用
 https://github.com/jaredthecoder/awesome-vehicle-security
 
 安全脑图合集
@@ -1087,10 +1087,10 @@ https://github.com/bayandin/awesome-awesomeness
 linux-kernel-exploitation A bunch of links related to Linux kernel fuzzing and exploitation 
 https://github.com/xairy/linux-kernel-exploitation
 
-mirror of Gera's Insecure Programming examples
+Gera安全例程镜像（http://community.coresecurity.com/~gera/InsecureProgramming/）
 https://github.com/deadbits/InsecureProgramming
 
-bash-handbook
+bash手册
 https://github.com/denysdovhan/bash-handbook
 
 git学习资料

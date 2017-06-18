@@ -46,25 +46,25 @@ https://github.com/cr0hn/enteletaor
 
 ### 缺陷测试 Fuzz:
 
-DotDotPwn - The Directory Traversal Fuzzer http://dotdotpwn.blogspot.com/
+DotDotPwn - 目录遍历Fuzzer http://dotdotpwn.blogspot.com/
 https://github.com/wireghoul/dotdotpwn
 
-FuzzLabs Fuzzing Framework https://dcnws.com
+FuzzLabs Fuzzing框架 https://dcnws.com
 https://github.com/keymandll/FuzzLabs
 
-Security oriented fuzzer with powerful analysis options.
+谷歌出品强大分析配置项目安全模糊测试组件
 https://github.com/google/honggfuzz
 
-Set of tests for fuzzing engines
+谷歌fuzzing引擎测试集
 https://github.com/google/fuzzer-test-suite
 
-Fuzzinator Random Testing Framework
+Fuzzinator随机测试框架
 https://github.com/renatahodovan/fuzzinator
 
 web fuzz 
 https://github.com/henshin/filebuster
 
-fuzzing framework
+fuzzing框架
 https://github.com/MozillaSecurity/peach
 
 fuddly: a fuzzing and data manipulation framework

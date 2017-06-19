@@ -1024,7 +1024,7 @@ https://github.com/phith0n/Mind-Map
 有关信息安全的一些流程图收集
 https://github.com/SecWiki/sec-chart/tree/294d7c1ff1eba297fa892dda08f3c05e90ed1428
 
-A collection of talks related to cryptography, security, OPSEC and other projects
+有关cryptography, security, OPSEC以及其他工程的演讲集
 https://github.com/freddymartinez9/securitytalks
 
 cis-benchmarks 常用服务器、数据库、中间件安全配置基线(英文pdf下载)
@@ -1042,7 +1042,7 @@ https://github.com/smartFlash/pySecurity
 data_hacking合集
 https://github.com/ClickSecurity/data_hacking
 
-mobile-security-wiki
+手机安全wiki
 https://github.com/exploitprotocol/mobile-security-wiki
 
 安卓安全加固列表
@@ -1084,7 +1084,7 @@ https://github.com/p4-team/ctf
 大礼包（什么都有）
 https://github.com/bayandin/awesome-awesomeness
 
-linux-kernel-exploitation A bunch of links related to Linux kernel fuzzing and exploitation 
+linux-kernel-exploitation Linux内核fuzzing和缺陷相关的资源
 https://github.com/xairy/linux-kernel-exploitation
 
 Gera安全例程镜像（http://community.coresecurity.com/~gera/InsecureProgramming/）
@@ -1117,12 +1117,12 @@ https://github.com/yangyangwithgnu/hardseed
 A full-featured home hosted Cloud Drive,
 https://github.com/zelon88/HRCloud2
 
-Minimalist cheat sheet for developpers to write secure code 
+撰写安全代码最小备忘单子
 https://github.com/GoSecure/security-cheat-sheet
 
 ### Python工具：
 
-A Security Framework for Python applications
+Python应用安全框架
 https://github.com/YosaiProject/yosai
 
 pyc反编译脚本

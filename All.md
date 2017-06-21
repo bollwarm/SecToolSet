@@ -107,22 +107,22 @@ https://github.com/delvelabs/vane
 安全行业从业人员自研开源扫描器合集
 https://github.com/We5ter/Scanners-Box
 
-Fingerprints servers, finds exploits, scans WebDAV.
+指纹服务，漏洞发现，WebDAV扫描
 https://github.com/Graph-X/davscan
 
 快捷友好的网络扫描器
 https://github.com/angryziber/ipscan
 
-A fast and modular scanner for Tor exit relays.
+扫描Tor exit relasy的模块
 https://github.com/NullHypothesis/exitmap
 
-DNS Monitoring Suite 
+DNS监控套件 
 https://github.com/reyjrar/DreamCatcher
 
-SSH-based "VPN for poors" 
+基于SSH的穷人vpn  
 https://github.com/ivanilves/xiringuito
 
-PERL script to enumerate security settings of an RDP Service (AKA Terminal Services) 
+perl脚本评估远程服务的安全设置 (AKA Terminal Services) 
 https://github.com/portcullislabs/rdp-sec-check
 
 ### Web扫描器
@@ -150,7 +150,7 @@ https://github.com/presidentbeef/brakeman
 网络空间指纹扫描器
 https://github.com/nanshihui/Scan-T
 
-web server scanner
+web服务扫描
 https://github.com/sullo/nikto
 
 web主机发现小工具
@@ -159,19 +159,19 @@ https://github.com/zer0h/httpscan
 web扫描器
 https://github.com/golismero/golismero
 
-A simple malware scanner
+一个简单web中间件扫描
 https://github.com/maxlabelle/WebMalwareScanner
 
 ruby源码扫描工具
 https://github.com/thesp0nge/dawnscanner
 
-Get Post参数扫描器
+Get、Post参数扫描器
 https://github.com/maK-/parameth
 
 路径扫描器
 https://github.com/stanislav-web/OpenDoor
 
-Web path scanner 
+Web路径扫描 
 https://github.com/maurosoria/dirsearch
 
 The FindBugs plugin for security audits of Java web applications and Android applications.

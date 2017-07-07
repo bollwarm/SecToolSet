@@ -949,43 +949,43 @@ https://github.com/n0tr00t/Sreg
 Github信息搜集，可实时扫描查询git最新上传有关邮箱账号密码信息
 https://github.com/sea-god/gitscan
 
-Taxonomies used in MISP taxonomy system and can be used by other information sharing tool. 
+用于MISP分类系统。
 https://github.com/MISP/misp-taxonomies
 
-RegEx Denial of Service (ReDos) Scanner https://github.com/jagracey/Regex-DoS
+RegEx 拒绝服务(ReDos)扫描器 https://github.com/jagracey/Regex-DoS
 https://github.com/jagracey/RegEx-DoS
 
-dataShark is a Security & Network Event Analytics Framework built on Apache Spark 
+dataShark 构建在Apache Spark的安全和网络事件分析框架
 https://github.com/makemytrip/dataShark
 
 github Repo信息搜集工具
 https://github.com/metac0rtex/GitHarvester
 
-CIF v3 -- the fastest way to consume threat intelligence 
+CIF v3 -- 安全威胁情报最快获取 
 https://github.com/csirtgadgets/bearded-avenger
 
-Improve your security and privacy by blocking ads, tracking and malware domains. 
+屏蔽广告，恶意扫描和非法域名的工具（hosts） 
 https://github.com/zant95/hBlock
 
-Dradis Framework: Colllaboration and reporting for IT Security teams
+Dradis Framework: IT安全团队协作和报告工具
 https://github.com/dradis/dradis-ce
 
-EggShell (formerly known as NeonEggShell) is an iOS and OS X surveillance tool written in python
+EggShell (也被正式称为NeonEggShell) 用python写的iOS，OS X 监控工具
 https://github.com/neoneggplant/EggShell
 
-HMAC timing attack's w/ statistical analysis http://eggie5.com/45-hmac-timing-attacks
+HMAC 时序攻击统计分析  http://eggie5.com/45-hmac-timing-attacks
 https://github.com/eggie5/hmac-timing-attacks
 
-AIL framework - Framework for Analysis of Information Leaks
+AIL framework - 弱点信息分析框架
 https://github.com/CIRCL/AIL-framework
 
 蜜罐资源合集
 https://github.com/paralax/awesome-honeypots
 
-Integrates OWASP Dependency-Check reports into SonarQube 
+OWASP依赖扫描报告转为SonarQube 
 https://github.com/stevespringett/dependency-check-sonar-plugin
 
-SBT Plugin for OWASP DependencyCheck.
+SBT插件用来进行OWASP依赖扫描
 https://github.com/albuch/sbt-dependency-check
 
 SSH蜜罐
@@ -1006,7 +1006,7 @@ https://github.com/jordan-wright/elastichoney
 Web蜜罐
 https://github.com/atiger77/Dionaea
 
-ICS/SCADA honeypot
+ICS/SCADA蜜罐
 https://github.com/mushorg/conpot
 
 

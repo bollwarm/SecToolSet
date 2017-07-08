@@ -141,7 +141,7 @@ https://github.com/stanislav-web/OpenDoor
 Web路径扫描 
 https://github.com/maurosoria/dirsearch
 
-The FindBugs plugin for security audits of Java web applications and Android applications.
+FindBugs插件用于Java web应用和安卓应用的安全审计
 https://github.com/find-sec-bugs/find-sec-bugs
 
 ### SSL类型扫描器

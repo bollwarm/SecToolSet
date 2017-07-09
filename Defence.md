@@ -9,19 +9,19 @@ https://github.com/thomaspatzke/WASE
 一款CS结构的web debuger
 https://github.com/Kozea/wdb
 
-recover information from deleted registers in sqlite databases.
+sqlite注册数据删除的恢复
 https://github.com/aramosf/recoversqlite/
 
 自动化的模板注入攻击检测工具
 https://github.com/epinna/tplmap
 
-Simple security surveillance script for linux distributions.
+简单的linux发行版安全监控脚本
 https://github.com/EgeBalci/The-Eye
 
 CIDRAM （无类别域间路由访问管理器）是一个PHP脚本，旨在保护网站途经阻止请求该从始发IP地址视为不良的流量来源.
 https://github.com/Maikuolan/CIDRAM
 
-Android-Vulnerabilities-Overview - An small overview of known Android vulnerabilities 
+Android-Vulnerabilities-Overview - 对已知安卓漏洞预览
 https://github.com/CHEF-KOCH/Android-Vulnerabilities-Overview
 
 Framework-agnostic package who provides powerful ACL abilities to Node.js
@@ -36,7 +36,7 @@ https://github.com/hakbot/hakbot-origin-controller
 All Day DevOps - Automated Infrastructure Security Monitoring and Defence (ELK + AWS Lambda) 
 https://github.com/appsecco/alldaydevops-aism
 
-Bachelor's Thesis (A blockchain approach to securing software packages).
+Bachelor's 'Thesis (A blockchain approach to securing software packages).
 https://github.com/clawoflight/aursec
 
 Secrets bridge - Secure build-time secrets injection for Docker 

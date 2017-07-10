@@ -57,7 +57,7 @@ https://github.com/sowish/LNScan
 集成Nmap的一款端口扫描器
 https://github.com/screetsec/Dracnmap
 
-Easy automated vulnerability scanning, reporting and analysis
+便捷的自动化漏洞扫描，报告和分析工具
 https://github.com/schubergphilis/Seccubus
 
 ### 子域名爆破扫描器
@@ -83,7 +83,7 @@ https://github.com/linuz/Sticky-Keys-Slayer
 网络基础设施渗透工具（集成nmap和hydra等）
 https://github.com/SECFORCE/sparta
 
-Fast SNMP brute force, enumeration, CISCO config downloader and password cracking script
+快速地SNMP抢注，枚举，CISCO配置下载，密码攻击脚本
 https://github.com/SECFORCE/SNMP-Brute
 
 linux漏洞扫描器
@@ -101,7 +101,7 @@ https://github.com/youngyangyang04/NoSQLAttack
 自动漏扫
 https://github.com/az0ne/AZScanner
 
-A GPL fork of the popular wordpress vulnerability scanner WPScan
+WPScan 漏洞扫描系统的一个fork
 https://github.com/delvelabs/vane
 
 安全行业从业人员自研开源扫描器合集
@@ -172,7 +172,7 @@ https://github.com/maK-/parameth
 https://github.com/stanislav-web/OpenDoor
 
 Web路径扫描 
-https://github.com/maurosoria/dirsearch
+https://github.com/maurosoria/dirsearc
 
 FindBugs插件用于Java web应用和安卓应用的安全审计
 https://github.com/find-sec-bugs/find-sec-bugs

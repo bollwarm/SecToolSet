@@ -997,7 +997,7 @@ thttps://github.com/micheloosterhof/cowrie
 SMTP蜜罐
 https://github.com/awhitehatter/mailoney
 
-Web Application honeypot
+Web应用蜜罐
 thttps://github.com/mushorg/glastopf
 
 数据库蜜罐

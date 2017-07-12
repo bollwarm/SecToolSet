@@ -256,16 +256,16 @@ https://github.com/lazywinadmin/Monitor-ADGroupMembership
 Assesses CPU security of embedded devices. iadgov 
 https://github.com/iadgov/Maplesyrup
 
-KeyGen is a generator for keys and passwords. 
+KeyGen 生成证书和密码 
 https://github.com/offa/keygen
 
-AWS Big Brother is a tool to analyse IAM users 
+AWS Big Brother 一个分析IAM用户的工具 
 https://github.com/jae2/awsbigbrother
 
 sqli词法解析分析器
 https://github.com/client9/libinjection
 
-Daily feed of bad IPs (with blacklist hit scores) 
+非法IP每日跟新（with blacklist hit scores) 
 https://github.com/stamparm/ipsum
 
 Subtree split of the Symfony Security Component

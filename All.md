@@ -320,13 +320,10 @@ https://github.com/Plazmaz/MongoDB-HoneyProxy
 web安全开发指南
 https://github.com/FallibleInc/security-guide-for-developers
 
-乌云知识库全部文章(失效)
-https://github.com/4ido10n/wooyun-drops-all-articles-package
-
 自动化代码审计工具
 https://github.com/wufeifei/cobra
 
-Grep rough audit - source code auditing tool http://www.justanotherhacker.com
+Grep rough audit - 源码审计工具 http://www.justanotherhacker.com
 https://github.com/wireghoul/graudit
 
 python编写的离线网络数据包分析器
@@ -431,22 +428,22 @@ https://github.com/aker-gateway/Aker
 Linux常见命令及部分安全软件使用命令列表
 https://github.com/andrewjkerr/security-cheatsheets
 
-ssrfDetector
+ssrfDetector ssrf探测器
 https://github.com/JacobReynolds/ssrfDetector
 
-fwd is a network port forwarder written in golang.
+fwd 用go开发的网络端口代理
 https://github.com/kintoandar/fwd
 
-Automatic CSRF protection for Symfony apps using AngularJS or AJA
+使用AngularJS和AJA的Symfony应用CSRF自动探测工具
 https://github.com/dunglas/DunglasAngularCsrfBundle
 
-A high performance DNS cache designed for Content Delivery Networks 
+设计用于CDN的高性能DNS缓存
 https://github.com/jedisct1/edgedns
 
-BleachBit system cleaner for Windows and Linux https://www.bleachbit.org
+BleachBit Windows和Linux系统清理器https://www.bleachbit.org
 https://github.com/bleachbit/bleachbit
 
-Universal Radio Hacker: investigate wireless protocols like a boss
+Universal Radio Hacker: 无线协议分析
 https://github.com/jopohl/urh
 
 PHP后门检测工具
@@ -455,7 +452,7 @@ https://github.com/yassineaddi/BackdoorMan.git
 Security auditing and hardening tool, for UNIX-based systems
 https://github.com/CISOfy/lynis
 
-Packaging audit toolkit using vulners.com vulnerability database 
+利用vulners.com漏洞数据库的包审计套件
 https://github.com/kreon/freeaudit
 
 垃圾邮件分析工具
@@ -476,55 +473,55 @@ https://github.com/Neohapsis/NeoPI
 webshell检测工具
 https://github.com/emposha/Shell-Detector
 
-Community-driven Rails Security Checklist.
+社区驱动的Rails安全检查列表
 https://github.com/eliotsykes/rails-security-checklist
 
-HTTP middleware for Go that facilitates some quick security wins. 
+GO HTTP中间件来推进快速安全开发
 https://github.com/unrolled/secure
 
-InSpec: Auditing and Testing Framework
+InSpec: 测试和审计框架
 https://github.com/chef/inspec
 
-Grunt task for retire.js. Scanner detecting the use of JavaScript libraries with known vulnerabilities.
+retire.js的自动扫描器，扫描探测常见的JS库漏洞
 https://github.com/RetireJS/grunt-retire
 
-Suricata is a network IDS, IPS and NSM engine
+Suricata 一个自由开源地，成熟、快速自动化的网络威胁探测引擎
 https://github.com/inliniac/suricata
 
-AWS security scanning checks 
+AWS安全扫描检查
 https://github.com/cloudsploit/scans
 
-aws-security-viz -- A tool to visualize aws security groups 
+aws-security-viz -- aws安全组可视化工具
 https://github.com/anaynayak/aws-security-viz
 
-secure interactive password manager using NACL and Go
+使用NACL和Go的安全交互密码管理
 https://github.com/johnathanhowell/masterkey
 
-Hound is a Git plugin that helps prevent sensitive data push to repository by sniffing potential
+Hound  Git插件通过探测阻止敏感信息被push到远程公有仓库导致信息泄密
 https://github.com/ezekg/git-hound
 
-HULK DoS tool ported to Go language from Python
+HULK DoS工具从Python迁移到Golang
 https://github.com/grafov/hulk
 
-大数据安全检测工
+大数据安全检测工具
 https://github.com/kotobukki/BigDataAudit
 
-pick -- A minimal password manager for OS X and Linux.
+pick --  Linux和OS X最小化密码管理工具
 https://github.com/bndw/pick
 
-Encrypted, taggable, searchable cloud storage 
+可搜索、标签化，加密的云存储
 https://tryingtobeawesome.com/cryptag/
 
-ElkarBackup is a free open-source backup solution based on RSync/RSnapshot
+ElkarBackup  一个基于RSync/RSnapshot的开源备份方案
 https://github.com/elkarbackup/elkarbackup
 
-This chef cookbook provides secure ssh-client and ssh-server configurations.
+ssh服务端和客户端安全配置的chef cookbook
 https://github.com/dev-sec/chef-ssh-hardening
 
-Second factor TOTP (RFC 6238) provider for Nextcloud
+Nextcloud 双因子TOTP (RFC 6238)
 https://github.com/nextcloud/twofactor_totp
 
-nixarmor is a linux hardening automation project 
+nixarmor Linux自动安全加固项目
 https://github.com/emirozer/nixarmor
 
 phpMusse 这是一个根据ClamAV的签名和其他签名在上传完成后来自动检测木马/病毒/恶意软件和其他可能威胁到您系统安全的文件的PHP脚本

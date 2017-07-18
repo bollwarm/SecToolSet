@@ -1,6 +1,6 @@
 ## 安全文档资料
 
-snowden-archive -- A collection of all documents leaked by former NSA contractor and whistleblower Edward Snowden. 
+snowden-archive -- NSA承包商Edward Snowden泄露文档合集
 https://github.com/iamcryptoki/snowden-archive
 
 Awesome Vehicle Security 汽车安全合集包括文档、软硬件应用

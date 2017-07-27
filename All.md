@@ -208,22 +208,22 @@ https://github.com/Maikuolan/CIDRAM
 Android-Vulnerabilities-Overview - 对已知安卓漏洞预览
 https://github.com/CHEF-KOCH/Android-Vulnerabilities-Overview
 
-Framework-agnostic package who provides powerful ACL abilities to Node.js
+Framework-agnostic包给Node.js提供强大的ACL能力
 https://github.com/Slynova-Org/node-fence
 
-Quickstart for self-hosted Kolide https://kolide.co
+快速启动kolide  Kolide https://kolide.co
 https://github.com/kolide/kolide-quickstart
 
 Vendor-Neutral Security Tool Automation Controller (over REST) 
 https://github.com/hakbot/hakbot-origin-controller
 
-All Day DevOps - Automated Infrastructure Security Monitoring and Defence (ELK + AWS Lambda) 
+全天候 DevOps - 安全监控和防御自动化架构(ELK + AWS Lambda) 
 https://github.com/appsecco/alldaydevops-aism
 
-Bachelor's 'Thesis (A blockchain approach to securing software packages).
+Bachelors  Thesis (A blockchain approach to securing software packages).
 https://github.com/clawoflight/aursec
 
-Secrets bridge - Secure build-time secrets injection for Docker 
+Secrets bridge - Docker 构建时安全 
 https://github.com/abourget/secrets-bridge
 
 This cookbook provides recipes for ensuring that a Windows 2012 R2 system is compliant with the DevSec Windows Baseline.
@@ -232,10 +232,10 @@ https://github.com/dev-sec/chef-windows-hardening
 Apache Block Bad Bots, Spam Referrer Blocker, Vulnerability Scanners, Malware, Adware, Ransomware, Malicious Sites, Wordpress Theme Detectors and Fail2Ban Jail for Repeat Offenders 
 https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 
-Jenkins plugin for the OWASP dependency-check. 
+Jenkins OWASP独立检查插件
 https://github.com/jeremylong/dependency-check-jenkins
 
-Brute Force Stop Plugin (for Joomla!) 
+Joomla强注防止插件
 https://github.com/codeling/bfstop
 
 A command-line tool that uses AWS KMS to encrypt secrets once, and decrypted them from multiple AWS regions. 

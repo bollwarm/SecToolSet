@@ -250,7 +250,7 @@ https://github.com/digsig-ng/linux-digsig
 DevSec MySQL Baseline - InSpec Profile http://dev-sec.io/
 https://github.com/dev-sec/mysql-baseline
 
-PowerShell script to monitor Active Directory groups and send an email when someone is changing the membership
+PowerShell脚本监控活动目录，当成员关系变更时候发邮件
 https://github.com/lazywinadmin/Monitor-ADGroupMembership
 
 Assesses CPU security of embedded devices. iadgov 

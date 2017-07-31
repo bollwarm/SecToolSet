@@ -247,7 +247,7 @@ https://github.com/mcginty/snow
 DigSig-ng is a Linux kernel security module providing RSA digital signature verification for ELF executables and shared libraries.
 https://github.com/digsig-ng/linux-digsig
 
-DevSec MySQL Baseline - InSpec Profile http://dev-sec.io/
+DevSec MySQL安全基线  http://dev-sec.io/
 https://github.com/dev-sec/mysql-baseline
 
 PowerShell脚本监控活动目录，当成员关系变更时候发邮件

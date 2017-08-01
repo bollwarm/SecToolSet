@@ -274,10 +274,10 @@ https://github.com/symfony/security
 CSRF Protector library: standalone library for CSRF mitigation 
 https://github.com/mebjas/CSRF-Protector-PHP
 
-Virus Total Public/Private/Intel API 
+VirusTotal公共，私有，网络接口
 https://github.com/blacktop/virustotal-api
 
-First 5 minutes on new servers. Secure your servers with single command - Ansible playbook
+新服务器的最初5分钟，用单行命令加固你的服务器 - Ansible playbook
 https://github.com/chhantyal/5minutes
 
 A toolbox to enforce firewall rules across multiple GCP projects. 

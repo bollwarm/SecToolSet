@@ -84,10 +84,10 @@ https://github.com/client9/libinjection
 非法IP每日跟新（with blacklist hit scores) 
 https://github.com/stamparm/ipsum
 
-Subtree split of the Symfony Security Component
+Symfon安全组件子库
 https://github.com/symfony/security
 
-CSRF Protector library: standalone library for CSRF mitigation 
+CSRF保护库: php预防CSRF类库
 https://github.com/mebjas/CSRF-Protector-PHP
 
 VirusTotal公共，私有，网络接口
@@ -99,7 +99,7 @@ https://github.com/chhantyal/5minutes
 A toolbox to enforce firewall rules across multiple GCP projects. 
 https://github.com/spotify/gcp-firewall-enforcer
 
-DevSec Linux Baseline - InSpec Profile http://dev-sec.io/
+Linux安全基线，支持puppet、chef和Ansible做安全加固 - InSpec Profile http://dev-sec.io/
 https://github.com/dev-sec/linux-baseline
 
 gps欺骗检测工具

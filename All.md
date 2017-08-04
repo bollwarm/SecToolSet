@@ -304,7 +304,7 @@ https://github.com/FutureSharks/rpi-security
 airgeddon -- linux下多用户的bash脚本无线网络审计
 https://github.com/v1s1t0r1sh3r3/airgeddon
 
-网页认证访问
+Laravel网页认证访问
 https://github.com/spatie/laravel-littlegatekeeper
 
 niginx安全配置chef bookbook
@@ -374,7 +374,7 @@ https://github.com/Netflix/Scumblr
 事件响应框架（focus on 远程取证）
 https://github.com/google/grr
 
-The Mozilla Defense Platform
+Mozilla防守平台
 https://github.com/mozilla/MozDef
 
 A formal semantics of the Linux netfilter iptables firewall. 

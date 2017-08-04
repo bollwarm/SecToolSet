@@ -108,22 +108,22 @@ https://github.com/zxsecurity/gpsnitch
 应急处置响应框架
 https://github.com/biggiesmallsAG/nightHawkResponse
 
-secure-ls Secure localStorage data with high level of encryption and data compression.
+secure-ls 高水平加密和数据压缩的本地安全存储
 https://github.com/softvar/secure-ls
 
-A gitbook for doing a null Bangalore session on linux container security to discuss and teach namespaces, cgroups etc.
+有关linux容器安全，命名空间，cgroups等等的gitbook
 https://github.com/makash/linux-container-security-docs
 
+python写的运行在树莓派上安防系统，可以进行运动检测，并通过手机告警
 https://github.com/FutureSharks/rpi-security
-A security system written in python to run on a Raspberry Pi with motion detection and mobile notifications
 
-airgeddon -- This is a multi-use bash script for Linux systems to audit wireless networks. 
+airgeddon -- linux下多用户的bash脚本无线网络审计
 https://github.com/v1s1t0r1sh3r3/airgeddon
 
-Protect pages from access with a universal username/password
+网页认证访问
 https://github.com/spatie/laravel-littlegatekeeper
 
-This chef cookbook provides secure nginx configurations. 
+niginx安全配置chef bookbook
 https://github.com/dev-sec/chef-nginx-hardening
 
 proxy poc implementation of STARTTLS stripping attacks 

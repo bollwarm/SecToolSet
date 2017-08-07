@@ -54,7 +54,7 @@ https://github.com/jeremylong/dependency-check-jenkins
 Joomla强注防止插件
 https://github.com/codeling/bfstop
 
-A command-line tool that uses AWS KMS to encrypt secrets once, and decrypted them from multiple AWS regions. 
+使用aws KMs的命令行加密工具，加密一次，可以在多区域的aws多实例中解密
 https://github.com/aol/mrcrypt
 
 Rust implementation of Noise 
@@ -129,7 +129,7 @@ https://github.com/dev-sec/chef-nginx-hardening
 proxy poc implementation of STARTTLS stripping attacks 
 https://github.com/tintinweb/striptls
 
-A honeypot proxy for mongodb. When run, this will proxy and log all traffic to a dummy mongodb server.
+mongodb代理蜜罐 
 https://github.com/Plazmaz/MongoDB-HoneyProxy
 
 

@@ -244,7 +244,7 @@ https://github.com/aol/mrcrypt
 Rust implementation of Noise 
 https://github.com/mcginty/snow
 
-DigSig-ng is a Linux kernel security module providing RSA digital signature verification for ELF executables and shared libraries.
+DigSig-ng 一个linux内核安全模块，为ELF可执行程序和共享库提供RSA数字签名验证
 https://github.com/digsig-ng/linux-digsig
 
 DevSec MySQL安全基线  http://dev-sec.io/
@@ -280,7 +280,7 @@ https://github.com/blacktop/virustotal-api
 新服务器的最初5分钟，用单行命令加固你的服务器 - Ansible playbook
 https://github.com/chhantyal/5minutes
 
-A toolbox to enforce firewall rules across multiple GCP projects. 
+扩多GCP项目的防火墙加强工具集
 https://github.com/spotify/gcp-firewall-enforcer
 
 Linux安全基线，支持puppet、chef和Ansible做安全加固 - InSpec Profile http://dev-sec.io/

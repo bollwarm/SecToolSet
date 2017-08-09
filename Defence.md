@@ -21,7 +21,7 @@ https://github.com/EgeBalci/The-Eye
 CIDRAM （无类别域间路由访问管理器）是一个PHP脚本，旨在保护网站途经阻止请求该从始发IP地址视为不良的流量来源.
 https://github.com/Maikuolan/CIDRAM
 
-Android-Vulnerabilities-Overview - 对已知安卓漏洞预览
+Android-Vulnerabilities-Overview - 已知安卓漏洞预览
 https://github.com/CHEF-KOCH/Android-Vulnerabilities-Overview
 
 Framework-agnostic包给Node.js提供强大的ACL能力
@@ -36,7 +36,7 @@ https://github.com/hakbot/hakbot-origin-controller
 全天候 DevOps - 安全监控和防御自动化架构(ELK + AWS Lambda) 
 https://github.com/appsecco/alldaydevops-aism
 
-Bachelors  Thesis (A blockchain approach to securing software packages).
+基于区块链的AUR安全层
 https://github.com/clawoflight/aursec
 
 Secrets bridge - Docker 构建时安全 

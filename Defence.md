@@ -69,7 +69,7 @@ https://github.com/dev-sec/mysql-baseline
 PowerShell脚本监控活动目录，当成员关系变更时候发邮件
 https://github.com/lazywinadmin/Monitor-ADGroupMembership
 
-Assesses CPU security of embedded devices. iadgov 
+评估嵌入式设备CPU的安全性
 https://github.com/iadgov/Maplesyrup
 
 KeyGen 生成证书和密码 
@@ -193,7 +193,7 @@ https://github.com/google/grr
 Mozilla防守平台
 https://github.com/mozilla/MozDef
 
-A formal semantics of the Linux netfilter iptables firewall. 
+iptables 防火墙规则集分析验证
 https://github.com/diekmann/Iptables_Semantics
 
 综合主机监控检测平台（包含主机防火墙，日志监控，SIEM等）
@@ -205,10 +205,10 @@ https://github.com/Yelp/osxcollector
 分布式实时数字取证系统
 https://github.com/mozilla/mig
 
-Microsoft &amp; Unix 文件系统及硬盘取证工具
+Microsoft及Unix文件系统及硬盘取证工具
 https://github.com/sleuthkit/sleuthkit
 
-Open Source Security Compliance Solution
+开源安全合规解决方案
 https://github.com/OpenSCAP/openscap
 
 开源准实时日志采集器
@@ -223,10 +223,10 @@ https://github.com/Microsoft/perfview
 威胁情报资源
 https://github.com/hslatman/awesome-threat-intelligence
 
-tool for ssh server auditing
+SSH服务审计工具
 https://github.com/arthepsy/ssh-audit
 
-A Python library and command line tools to provide interactive log visualization
+Python库和命令行工具，提供交互式日志可视化
 https://github.com/keithjjones/visualize_logs
 
 一个僵尸网络分析框架
@@ -238,7 +238,7 @@ https://github.com/lightbulb-framework/lightbulb-framework
 1000个php代码审计案例
 https://github.com/Xyntax/1000php
 
-基于 python 的 Linux ssh 跳板机/堡垒机设置工具
+基于Python的Linux ssh跳板机/堡垒机设置工具
 https://github.com/aker-gateway/Aker
 
 Linux常见命令及部分安全软件使用命令列表
@@ -265,7 +265,7 @@ https://github.com/jopohl/urh
 PHP后门检测工具
 https://github.com/yassineaddi/BackdoorMan.git
 
-Security auditing and hardening tool, for UNIX-based systems
+Unix系操作系统安全审计和加固工具
 https://github.com/CISOfy/lynis
 
 利用vulners.com漏洞数据库的包审计套件

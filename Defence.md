@@ -157,7 +157,7 @@ https://github.com/codejanus/ToolSuite
 巡风 --一款适用于企业内网的漏洞快速应急，巡航扫描系统。
 https://github.com/ysrc/xunfeng
  
-Safely expose Elasticsearch REST API directly to the public
+Elasticsearch API安全发布到公网插件
 https://github.com/sscarduzio/elasticsearch-readonlyrest-plugin
 
 apache实时日志分析器（on Telegram, Zabbix and Syslog/SIEM）
@@ -340,5 +340,5 @@ https://github.com/nextcloud/twofactor_totp
 nixarmor Linux自动安全加固项目
 https://github.com/emirozer/nixarmor
 
-phpMusse 这是一个根据ClamAV的签名和其他签名在上传完成后来自动检测木马/病毒/恶意软件和其他可能威胁到您系统安全的文件的PHP脚本
+phpMusse 这是一个根据ClamAV的签名和其他签名在上传完成后来自动检测木马/病毒/恶意软件和其他可能威胁系统安全的文件的PHP脚本
 https://github.com/Maikuolan/phpMussel/

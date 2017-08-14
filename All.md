@@ -184,7 +184,7 @@ https://github.com/rbsec/sslscan
 
 ## 安全防守：
 
-Security list for fun and profit
+安全项目列表
 https://github.com/zbetcheckin/Security_list
 
 web索引及日志搜索工具
@@ -226,10 +226,10 @@ https://github.com/clawoflight/aursec
 Secrets bridge - Docker 构建时安全 
 https://github.com/abourget/secrets-bridge
 
-This cookbook provides recipes for ensuring that a Windows 2012 R2 system is compliant with the DevSec Windows Baseline.
+Windows 2012 R2 兼容DevSec Windows基线的cookbook 
 https://github.com/dev-sec/chef-windows-hardening
 
-Apache Block Bad Bots, Spam Referrer Blocker, Vulnerability Scanners, Malware, Adware, Ransomware, Malicious Sites, Wordpress Theme Detectors and Fail2Ban Jail for Repeat Offenders 
+Apache防御模块，支持漏洞扫描,防恶意软件,防广告, 防勒索软件, 防恶意站点, Wordpress主题探测和Fail2Ban Jail等。 
 https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 
 Jenkins OWASP独立检查插件

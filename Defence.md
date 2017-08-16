@@ -57,7 +57,7 @@ https://github.com/codeling/bfstop
 使用aws KMs的命令行加密工具，加密一次，可以在多区域的aws多实例中解密
 https://github.com/aol/mrcrypt
 
-Rust implementation of Noise 
+噪声协议的Rust实现
 https://github.com/mcginty/snow
 
 DigSig-ng 一个linux内核安全模块，为ELF可执行程序和共享库提供RSA数字签名验证

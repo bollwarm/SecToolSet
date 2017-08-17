@@ -1014,6 +1014,9 @@ https://github.com/mushorg/conpot
 
 ## 安全文档资料
 
+黑客成长技术清单
+https://github.com/carpedm20/awesome-hacking
+
 snowden-archive -- NSA承包商Edward Snowden泄露文档合集
 https://github.com/iamcryptoki/snowden-archive
 
@@ -1034,6 +1037,9 @@ https://www.cisecurity.org/cis-benchmarks/
 
 一个验证密码JS库，通过对比常见密码，提示密码问题
 https://github.com/kn9ts/dumb-passwords
+
+网络安全AI信息：相关研究的数据集、论文、书籍、演讲等 
+https://github.com/jivoi/awesome-ml-for-cybersecurity
 
 域渗透教程
 https://github.com/l3m0n/pentest_study
@@ -1056,44 +1062,36 @@ https://github.com/veficos/reverse-engineering-for-beginners
 一些信息安全标准及设备配置
 https://github.com/luyg24/IT_security
 
+2013-2017年各类安全大会演讲视频集 
+https://github.com/PaulSec/awesome-sec-talks
+
+
 APT相关笔记
 https://github.com/kbandla/APTnotes
 
 Kcon资料
 https://github.com/knownsec/KCon
 
-ctf及黑客资源合集
-https://github.com/bt3gl/My-Gray-Hacker-Resources
-
-ctf和安全工具大合集
-https://github.com/zardus/ctf-tools
-
-《DO NOT FUCK WITH A HACKER》
-https://github.com/citypw/DNFWAH
-
-近年ctf writeup大全
-https://github.com/ctfs/write-ups-2016
-
-fbctf竞赛平台Demo
-https://github.com/facebook/fbctf
-
-ctf资源
-https://github.com/ctfs/resources
-
-Ctf solutions from p4 team https://p4.team
-https://github.com/p4-team/ctf
-
-大礼包（什么都有）
+安全大礼包（大杂烩）
 https://github.com/bayandin/awesome-awesomeness
 
-linux-kernel-exploitation Linux内核fuzzing和缺陷相关的资源
-https://github.com/xairy/linux-kernel-exploitation
+各种信息安全公开课、培训信息 
+https://github.com/onlurking/awesome-infosec
+
+零碎的GitHub安全项目汇总，涉及PWND、PowerShell、CTF、恶意软件等 
+https://github.com/FuzzySecurity/Resource-List
 
 Gera安全例程镜像（http://community.coresecurity.com/~gera/InsecureProgramming/）
 https://github.com/deadbits/InsecureProgramming
 
-bash手册
-https://github.com/denysdovhan/bash-handbook
+That Doesnt Suck安全指南
+https://github.com/rmusser01/Infosec_Reference
+
+Shell命令行、工具、指南列表集
+https://github.com/alebcay/awesome-shell
+
+That Doesnt Suck安全指南 
+https://github.com/rmusser01/Infosec_Reference
 
 git学习资料
 https://github.com/xirong/my-git
@@ -1121,6 +1119,9 @@ https://github.com/zelon88/HRCloud2
 
 撰写安全代码最小备忘单子
 https://github.com/GoSecure/security-cheat-sheet
+
+关于系统、数据库、IDE、编程语言等方面的免费书 
+https://github.com/EbookFoundation/free-programming-books/
 
 ### Python工具：
 
@@ -1176,3 +1177,32 @@ https://github.com/vinta/awesome-python
 
 python资源大全
 https://github.com/jobbole/awesome-python-cn
+
+## 安全竞赛 （CTF夺标大赛）
+
+CTF及黑客资源合集
+https://github.com/bt3gl/My-Gray-Hacker-Resources
+
+CTF和安全工具大合集
+https://github.com/zardus/ctf-tools
+
+《DO NOT FUCK WITH A HACKER》
+https://github.com/citypw/DNFWAH
+
+近年CTF writeup大全
+https://github.com/ctfs/write-ups-2016
+
+脸谱CTF竞赛平台Demo
+https://github.com/facebook/fbctf
+
+CTF框架、类库、资源、软件和教程列表
+https://github.com/apsdehal/awesome-ctf
+
+CTF资源
+https://github.com/ctfs/resources
+
+p4团队的CTF解决方案 https://p4.team
+https://github.com/p4-team/ctf
+
+ctftools 在线CTF信息网站，包括资源下载、在线工具、信息blog等
+https://www.ctftools.com

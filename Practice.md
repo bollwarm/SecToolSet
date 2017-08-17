@@ -1,9 +1,14 @@
 
 ## 漏洞利用& 实战练习平台：
 
+信息安全初步集：包括信息安全博客、认证、课程、社区、播客、工具等 
+https://github.com/gradiuscypher/infosec_getting_started
+
 WebGoat漏洞练习环境
 https://github.com/WebGoat/WebGoat
+
 https://github.com/WebGoat/WebGoat-Legacy
+
 https://github.com/RandomStorm/DVWA
 
 数据库注入练习平台 
@@ -26,7 +31,6 @@ https://github.com/MyKings/docker-vulnerability-environment
 
 黑客技术训练环境
 https://github.com/joe-shenouda/awesome-cyber-skills
-
 
 web及app渗透训练平台
 https://github.com/OWASP/SecurityShepherd

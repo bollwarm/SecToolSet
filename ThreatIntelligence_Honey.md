@@ -1,5 +1,19 @@
 ## 威胁情报&蜜罐：
 
+常见IOC资源、工具 
+https://github.com/sroberts/awesome-iocs
+
+数字取证的常见工具资源 
+https://github.com/Cugu/awesome-forensics
+
+开源情报:各种开源情报来源 
+https://github.com/jivoi/awesome-osint
+
+帮助安全分析师和数字取证人员 
+https://github.com/meirwah/awesome-incident-response
+
+ThreatHunter攻略-帮助安全分析师利用Sysmon和Windows Events日志来进行事件分析，涉及Splunk、ELK、Sigma、GrayLog等工具 
+https://github.com/VVard0g/ThreatHunter-Playbook
 
 社工插件，可查找以email、phone、username的注册的所有网站账号信息
 https://github.com/n0tr00t/Sreg
@@ -37,14 +51,16 @@ https://github.com/eggie5/hmac-timing-attacks
 AIL framework - 弱点信息分析框架
 https://github.com/CIRCL/AIL-framework
 
-蜜罐资源合集
-https://github.com/paralax/awesome-honeypots
-
-OWASP依赖扫描报告转为SonarQube 
+OWASP依赖扫描报告转为SonarQube
 https://github.com/stevespringett/dependency-check-sonar-plugin
 
 SBT插件用来进行OWASP依赖扫描
 https://github.com/albuch/sbt-dependency-check
+
+### 蜜罐集 
+
+蜜罐资源合集
+https://github.com/paralax/awesome-honeypots
 
 SSH蜜罐
 https://github.com/desaster/kippo

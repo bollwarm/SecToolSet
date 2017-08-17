@@ -18,6 +18,8 @@
 
 [0x07 安全文档资料](SecurityDoucument.md)
 
+[0x07 安全竞赛(CTF夺标大赛)](CTF.md)
+
 [0x11 所有内容](All.md)
 
 ## 乌云镜像

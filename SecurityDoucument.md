@@ -99,6 +99,15 @@ https://github.com/rmusser01/Infosec_Reference
 安全测试人员进行评估检查需要用到的技能
 https://github.com/danielmiessler/SecLists
 
+射频资源集合，包括SDR、GSM、3G、4G LTE、NFC、RFID、ZigBee等 
+https://github.com/cn0xroot/RFSec-ToolKit
+
+车辆安全的学习资源、项目、软硬件、汽车黑客案例、Twitter follower列表等 
+https://github.com/jaredmichaelsmith/awesome-vehicle-security
+
+包括工具、蜜罐、数据、警报和新闻、会议各种工控安全等 
+https://github.com/hslatman/awesome-industrial-control-system-security
+
 git学习资料
 https://github.com/xirong/my-git
 

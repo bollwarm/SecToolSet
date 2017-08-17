@@ -2,7 +2,7 @@
 
 ## 主要内容：
 
-[0x00 漏洞利用&实战练习平台](Practice.md)
+[0x00 漏洞利用实战练习&CTF安全竞赛](Practice_CTF.md)
 
 [0x01 安全扫描器](Scanner.md)
 
@@ -17,8 +17,6 @@
 [0x06 威胁情报&蜜罐](ThreatIntelligence_Honey.md)
 
 [0x07 安全文档资料](SecurityDoucument.md)
-
-[0x08 安全竞赛(CTF夺标大赛)](CTF.md)
 
 [0x11 所有内容](All.md)
 

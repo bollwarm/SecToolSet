@@ -680,9 +680,6 @@ https://github.com/brianwrf/hackUtils
 web渗透小工具大合集
 https://github.com/rootphantomer/hack_tools_for_me
 
-awesome-iot-hacks -- A curated list of IoT space hacks in security vulnerabilities 
-https://github.com/nebgnahz/awesome-iot-hacks
-
 detectem - detect software and its version on websites. 
 https://github.com/spectresearch/detectem
 
@@ -796,9 +793,6 @@ https://github.com/intrepidusgroup/mallory
 
 wifi钓鱼
 https://github.com/sophron/wifiphisher
-
-PENTEST-WIKI is a free online security knowledge library for pentesters
-https://github.com/nixawk/pentest-wiki
 
 XSS数据接收平台
 https://github.com/firesunCN/BlueLotus_XSSReceiver
@@ -1092,7 +1086,7 @@ SMTP蜜罐
 https://github.com/awhitehatter/mailoney
 
 Web应用蜜罐
-thttps://github.com/mushorg/glastopf
+https://github.com/mushorg/glastopf
 
 数据库蜜罐
 https://github.com/jordan-wright/elastichoney
@@ -1201,6 +1195,12 @@ https://github.com/rmusser01/Infosec_Reference
 Shell命令行、工具、指南列表集
 https://github.com/alebcay/awesome-shell
 
+<<DO NOT FUCK WITH A HACKER>>电子杂志，分享同领域黑客关注的东西和黑客生活,已出版4期（截止2015）
+https://github.com/citypw/DNFWAH
+
+安全知识库，包括网络分析、Web应用、开源情报、漏洞分析、编程开发等
+https://github.com/nixawk/pentest-wiki
+
 That Doesnt Suck安全指南 
 https://github.com/rmusser01/Infosec_Reference
 
@@ -1213,10 +1213,13 @@ https://github.com/cn0xroot/RFSec-ToolKit
 车辆安全的学习资源、项目、软硬件、汽车黑客案例、Twitter follower列表等 
 https://github.com/jaredmichaelsmith/awesome-vehicle-security
 
+聚合大量IoT破解案例，如RFID、门铃、中控、可穿戴等 
+https://github.com/nebgnahz/awesome-iot-hacks
+
 包括工具、蜜罐、数据、警报和新闻、会议各种工控安全等 
 https://github.com/hslatman/awesome-industrial-control-system-security
 
-git学习资料
+GIT学习资料
 https://github.com/xirong/my-git
 
 安卓开源代码解析
@@ -1306,14 +1309,11 @@ https://github.com/jobbole/awesome-python-cn
 
 ## 安全竞赛 （CTF夺标大赛）
 
-CTF及黑客资源合集
+灰帽子资源集,包括CTF、密码学、Linux攻击、USB攻击、漏洞等
 https://github.com/bt3gl/My-Gray-Hacker-Resources
 
 CTF和安全工具大合集
 https://github.com/zardus/ctf-tools
-
-《DO NOT FUCK WITH A HACKER》
-https://github.com/citypw/DNFWAH
 
 近年CTF writeup大全
 https://github.com/ctfs/write-ups-2016

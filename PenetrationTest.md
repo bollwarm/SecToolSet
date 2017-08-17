@@ -130,9 +130,6 @@ https://github.com/brianwrf/hackUtils
 web渗透小工具大合集
 https://github.com/rootphantomer/hack_tools_for_me
 
-awesome-iot-hacks -- A curated list of IoT space hacks in security vulnerabilities 
-https://github.com/nebgnahz/awesome-iot-hacks
-
 detectem - detect software and its version on websites. 
 https://github.com/spectresearch/detectem
 
@@ -246,9 +243,6 @@ https://github.com/intrepidusgroup/mallory
 
 wifi钓鱼
 https://github.com/sophron/wifiphisher
-
-PENTEST-WIKI is a free online security knowledge library for pentesters
-https://github.com/nixawk/pentest-wiki
 
 XSS数据接收平台
 https://github.com/firesunCN/BlueLotus_XSSReceiver

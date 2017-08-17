@@ -1,14 +1,11 @@
 
 ## 安全竞赛 （CTF夺标大赛）
 
-CTF及黑客资源合集
+灰帽子资源集,包括CTF、密码学、Linux攻击、USB攻击、漏洞等
 https://github.com/bt3gl/My-Gray-Hacker-Resources
 
 CTF和安全工具大合集
 https://github.com/zardus/ctf-tools
-
-《DO NOT FUCK WITH A HACKER》
-https://github.com/citypw/DNFWAH
 
 近年CTF writeup大全
 https://github.com/ctfs/write-ups-2016

@@ -93,6 +93,12 @@ https://github.com/rmusser01/Infosec_Reference
 Shell命令行、工具、指南列表集
 https://github.com/alebcay/awesome-shell
 
+<<DO NOT FUCK WITH A HACKER>>电子杂志，分享同领域黑客关注的东西和黑客生活,已出版4期（截止2015）
+https://github.com/citypw/DNFWAH
+
+安全知识库，包括网络分析、Web应用、开源情报、漏洞分析、编程开发等
+https://github.com/nixawk/pentest-wiki
+
 That Doesnt Suck安全指南 
 https://github.com/rmusser01/Infosec_Reference
 
@@ -105,10 +111,13 @@ https://github.com/cn0xroot/RFSec-ToolKit
 车辆安全的学习资源、项目、软硬件、汽车黑客案例、Twitter follower列表等 
 https://github.com/jaredmichaelsmith/awesome-vehicle-security
 
+聚合大量IoT破解案例，如RFID、门铃、中控、可穿戴等 
+https://github.com/nebgnahz/awesome-iot-hacks
+
 包括工具、蜜罐、数据、警报和新闻、会议各种工控安全等 
 https://github.com/hslatman/awesome-industrial-control-system-security
 
-git学习资料
+GIT学习资料
 https://github.com/xirong/my-git
 
 安卓开源代码解析

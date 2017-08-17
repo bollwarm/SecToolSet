@@ -1,5 +1,8 @@
 ## 威胁情报&蜜罐：
 
+威胁情报资源
+https://github.com/hslatman/awesome-threat-intelligence
+
 常见IOC资源、工具 
 https://github.com/sroberts/awesome-iocs
 
@@ -83,4 +86,6 @@ https://github.com/atiger77/Dionaea
 ICS/SCADA蜜罐
 https://github.com/mushorg/conpot
 
+MongoDB代理蜜罐
+https://github.com/Plazmaz/MongoDB-HoneyProx
 

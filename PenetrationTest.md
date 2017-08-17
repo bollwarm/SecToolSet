@@ -9,13 +9,20 @@ https://github.com/putterpanda/mimikittenz
 fireeye红军渗透工具
 
 https://github.com/chango77747/AdEnumerator
+
 https://github.com/Raikia/CredNinja
+
 https://github.com/ChrisTruncer/WMIOps
+
 https://github.com/ChrisTruncer/EyeWitness
+
 https://github.com/ChrisTruncer/Egress-Assess
 
 windows渗透神器
 https://github.com/gentilkiwi/mimikatz
+
+在线渗透测试资源、Shellcode开发、开源情报资源、社会工程资源等 
+https://github.com/enaqx/awesome-pentest
 
 Powershell渗透库合集
 https://github.com/PowerShellMafia/PowerSploit
@@ -23,7 +30,7 @@ https://github.com/PowerShellMafia/PowerSploit
 Powershell tools合集
 https://github.com/clymb3r/PowerShell
 
-msf-最强大的渗透平台
+MSF--最强大的渗透平台
 https://github.com/rapid7/metasploit-framework
 
 Poc调用框架，可加载Pocsuite,Tangscan，Beebeeto等
@@ -41,6 +48,9 @@ https://github.com/n0tr00t/Beebeeto-framework
 一个用Node.js编写的Web安全测试框架
 https://github.com/zhuyingda/veneno
 
+常见的渗透测试/安全Cheatsheet
+https://github.com/jshaw87/Cheatsheets
+
 Message Queue & Broker Injection tool that implements attacks to Redis, RabbitMQ and ZeroMQ.
 https://github.com/cr0hn/enteletaor
 
@@ -52,7 +62,7 @@ https://github.com/wireghoul/dotdotpwn
 FuzzLabs Fuzzing框架 https://dcnws.com
 https://github.com/keymandll/FuzzLabs
 
-谷歌出品强大分析配置项目安全模糊测试组件
+谷歌出品强大分析配置项目fuzzing组件
 https://github.com/google/honggfuzz
 
 谷歌fuzzing引擎测试集
@@ -61,8 +71,11 @@ https://github.com/google/fuzzer-test-suite
 Fuzzinator随机测试框架
 https://github.com/renatahodovan/fuzzinator
 
-web fuzz 
-https://github.com/henshin/filebuster
+各种fuzzing图书、课程、工具、教程和易受攻击应用集合
+https://github.com/secfigo/Awesome-Fuzzing
+
+Linux内核fuzzing和缺陷相关的资源
+https://github.com/xairy/linux-kernel-exploitation
 
 fuzzing框架
 https://github.com/MozillaSecurity/peach
@@ -88,14 +101,14 @@ https://github.com/fuzzing/MFFA
 A tool to fuzz Intent Android
 https://github.com/MindMac/IntentFuzzer
 
-Fuzzing资源
+Fuzzing数据集
 https://github.com/MozillaSecurity/fuzzdata
 
-Web向Fuzz工具
+WebFuzz工具
 https://github.com/xmendez/wfuzz
 
-HTTP暴力破解，撞库攻击脚本
-https://github.com/lijiejie/htpwdScan
+web fuzz
+https://github.com/henshin/filebuster
 
 AFL的Android移植版本
 https://github.com/ele7enxxh/android-afl
@@ -106,7 +119,7 @@ https://github.com/dyjakan/interpreter-bugs
 Fuzzapi is a tool used for REST API pentesting and uses API_Fuzzer gem
 https://github.com/lalithr95/fuzzapi
 
-###WEB渗透:
+### WEB渗透:
 
 webshell大合集
 https://github.com/tennc/webshell
@@ -147,14 +160,11 @@ https://github.com/beefproject/beef
 自动化绕过WAF脚本
 https://github.com/khalilbijjou/WAFNinja
 
-https://github.com/jkbrzt/httpie
 http命令行客户端，可以从命令行构造发送各种http请求（类似于Curl）
+https://github.com/jkbrzt/httpie
 
-https://github.com/firebug/firebug
 浏览器调试利器
-
-https://github.com/SpiderLabs/ModSecurity
-一款开源WAF
+https://github.com/firebug/firebug
 
 WAF绕过检测工具
 https://github.com/owtf/wafbypasser
@@ -201,7 +211,6 @@ https://github.com/xl7dev/BurpSuite/tree/master/Extender
 一个用来辅助WP渗透测试的ruby框架
 https://github.com/rastating/wordpress-exploit-framework/
 
-
 .DS_store文件泄露利用脚本
 https://github.com/lijiejie/ds_store_exp
 
@@ -220,11 +229,15 @@ https://github.com/diogo-fernan/malsub
 XSS与CSRF工具
 https://github.com/evilcos/xssor
 
-###中间人攻击框架
+### 中间人攻击
 
+中间人攻击框架
 https://github.com/secretsquirrel/the-backdoor-factory
+
 https://github.com/secretsquirrel/BDFProxy
+
 https://github.com/byt3bl33d3r/MITMf
+
 Inject code, jam wifi, and spy on wifi users
 https://github.com/DanMcInerney/LANs.py
 
@@ -243,10 +256,16 @@ https://github.com/firesunCN/BlueLotus_XSSReceiver
 XSS与CSRF工具
 https://github.com/evilcos/xssor
 
-###暴力破解
+### 暴力破解
 
 密码破解工具
 https://github.com/shinnok/johnny
 
 本地存储的各类密码提取利器
 https://github.com/AlessandroZ/LaZagne
+
+HTTP暴力破解，撞库攻击脚本
+https://github.com/lijiejie/htpwdScan
+
+超过80GB密码库总结出的字典项目 
+https://github.com/berzerk0/Probable-Wordlists

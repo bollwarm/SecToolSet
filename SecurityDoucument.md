@@ -9,6 +9,12 @@ https://github.com/iamcryptoki/snowden-archive
 Awesome Vehicle Security 汽车安全合集包括文档、软硬件应用
 https://github.com/jaredthecoder/awesome-vehicle-security
 
+Awesome Security——一个社区驱动的知名安全资源分类集合
+https://github.com/sbilly/awesome-security
+
+应用程序安全的资源列表
+https://github.com/paragonie/awesome-appsec
+
 安全脑图合集
 https://github.com/phith0n/Mind-Map
 
@@ -39,8 +45,14 @@ https://github.com/ClickSecurity/data_hacking
 手机安全wiki
 https://github.com/exploitprotocol/mobile-security-wiki
 
-安卓安全加固列表
-https://github.com/AndroidTamer/KnowledgeBase/tree/master/Documents
+Web安全入门各种书籍、文档、工具
+https://github.com/infoslack/awesome-web-hacking
+
+各种Android工具、报告/研究/书籍、漏洞/利用代码等资源
+https://github.com/ashishb/android-security-awesome
+
+恶意软件集、开源威胁情报、检测、沙箱等 
+https://github.com/rshipp/awesome-malware-analysis
 
 书籍《reverse-engineering-for-beginners》
 https://github.com/veficos/reverse-engineering-for-beginners
@@ -51,6 +63,11 @@ https://github.com/luyg24/IT_security
 2013-2017年各类安全大会演讲视频集 
 https://github.com/PaulSec/awesome-sec-talks
 
+社工资源集——仅供网络安全人员、渗透测试人员在受控环境用于教育用途
+https://github.com/v2-dev/awesome-social-engineering
+
+密码学的理论、工具、框架、资源等
+https://github.com/sobolevn/awesome-cryptography
 
 APT相关笔记
 https://github.com/kbandla/APTnotes
@@ -79,6 +96,9 @@ https://github.com/alebcay/awesome-shell
 That Doesnt Suck安全指南 
 https://github.com/rmusser01/Infosec_Reference
 
+安全测试人员进行评估检查需要用到的技能
+https://github.com/danielmiessler/SecLists
+
 git学习资料
 https://github.com/xirong/my-git
 
@@ -87,6 +107,9 @@ https://github.com/android-cn/android-open-project-analysis
 
 JS 正则表达式库（用于简化构造复杂的JS正则表达式）
 https://github.com/VerbalExpressions/JSVerbalExpressions
+
+PHP生成安全随机数、加密数据、检查漏洞等类库
+https://github.com/ziadoz/awesome-php#security
 
 科学上网工具
 https://github.com/XX-net/XX-Net

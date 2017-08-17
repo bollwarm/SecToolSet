@@ -193,6 +193,7 @@ https://github.com/rbsec/sslscan
 
 ## 安全防守：
 
+
 安全项目列表
 https://github.com/zbetcheckin/Security_list
 
@@ -228,6 +229,25 @@ https://github.com/hakbot/hakbot-origin-controller
 
 全天候 DevOps - 安全监控和防御自动化架构(ELK + AWS Lambda) 
 https://github.com/appsecco/alldaydevops-aism
+
+
+安全开发运维</a>：devsecops.org社区贡献的权威devsecops工具列表
+https://github.com/devsecops/awesome-devsecops
+
+API安全检查清单</a>：当你设计、测试、发布API时，需要核对的安全细节清单 
+https://github.com/shieldfy/API-Security-Checklist/blob/master/README-zh.md
+
+Pcaptools</a>：流量处理的命令集、捕获工具、分析检查、DNS配置等工具资源 
+https://github.com/caesar0301/awesome-pcaptools
+
+安卓安全加固列表
+https://github.com/AndroidTamer/KnowledgeBase/tree/master/Documents
+
+OS X和iOS安全</a>：OS X和iOS安全工具集合
+https://github.com/ashishb/osx-and-ios-security-awesome
+
+一款开源WAF
+https://github.com/SpiderLabs/ModSecurity
 
 基于区块链的AUR安全层
 https://github.com/clawoflight/aursec
@@ -295,7 +315,7 @@ https://github.com/spotify/gcp-firewall-enforcer
 Linux安全基线，支持puppet、chef和Ansible做安全加固 - InSpec Profile http://dev-sec.io/
 https://github.com/dev-sec/linux-baseline
 
-gps欺骗检测工具
+GPS欺骗检测工具
 https://github.com/zxsecurity/gpsnitch
 
 应急处置响应框架
@@ -321,10 +341,6 @@ https://github.com/dev-sec/chef-nginx-hardening
 
 proxy poc implementation of STARTTLS stripping attacks 
 https://github.com/tintinweb/striptls
-
-mongodb代理蜜罐 
-https://github.com/Plazmaz/MongoDB-HoneyProxy
-
 
 web安全开发指南
 https://github.com/FallibleInc/security-guide-for-developers
@@ -412,9 +428,6 @@ https://github.com/goldshtn/etrace
 
 CPU及内存相关性能分析工具
 https://github.com/Microsoft/perfview
-
-威胁情报资源
-https://github.com/hslatman/awesome-threat-intelligence
 
 SSH服务审计工具
 https://github.com/arthepsy/ssh-audit
@@ -524,13 +537,13 @@ https://tryingtobeawesome.com/cryptag/
 ElkarBackup  一个基于RSync/RSnapshot的开源备份方案
 https://github.com/elkarbackup/elkarbackup
 
-ssh服务端和客户端安全配置的chef cookbook
+SSH服务端和客户端安全配置的chef cookbook
 https://github.com/dev-sec/chef-ssh-hardening
 
 Nextcloud 双因子TOTP (RFC 6238)
 https://github.com/nextcloud/twofactor_totp
 
-nixarmor Linux自动安全加固项目
+Nixarmor Linux自动安全加固项目
 https://github.com/emirozer/nixarmor
 
 phpMusse 这是一个根据ClamAV的签名和其他签名在上传完成后来自动检测木马/病毒/恶意软件和其他可能威胁系统安全的文件的PHP脚本
@@ -546,13 +559,20 @@ https://github.com/putterpanda/mimikittenz
 fireeye红军渗透工具
 
 https://github.com/chango77747/AdEnumerator
+
 https://github.com/Raikia/CredNinja
+
 https://github.com/ChrisTruncer/WMIOps
+
 https://github.com/ChrisTruncer/EyeWitness
+
 https://github.com/ChrisTruncer/Egress-Assess
 
 windows渗透神器
 https://github.com/gentilkiwi/mimikatz
+
+在线渗透测试资源、Shellcode开发、开源情报资源、社会工程资源等 
+https://github.com/enaqx/awesome-pentest
 
 Powershell渗透库合集
 https://github.com/PowerShellMafia/PowerSploit
@@ -560,7 +580,7 @@ https://github.com/PowerShellMafia/PowerSploit
 Powershell tools合集
 https://github.com/clymb3r/PowerShell
 
-msf-最强大的渗透平台
+MSF--最强大的渗透平台
 https://github.com/rapid7/metasploit-framework
 
 Poc调用框架，可加载Pocsuite,Tangscan，Beebeeto等
@@ -578,6 +598,9 @@ https://github.com/n0tr00t/Beebeeto-framework
 一个用Node.js编写的Web安全测试框架
 https://github.com/zhuyingda/veneno
 
+常见的渗透测试/安全Cheatsheet
+https://github.com/jshaw87/Cheatsheets
+
 Message Queue & Broker Injection tool that implements attacks to Redis, RabbitMQ and ZeroMQ.
 https://github.com/cr0hn/enteletaor
 
@@ -589,7 +612,7 @@ https://github.com/wireghoul/dotdotpwn
 FuzzLabs Fuzzing框架 https://dcnws.com
 https://github.com/keymandll/FuzzLabs
 
-谷歌出品强大分析配置项目安全模糊测试组件
+谷歌出品强大分析配置项目fuzzing组件
 https://github.com/google/honggfuzz
 
 谷歌fuzzing引擎测试集
@@ -598,8 +621,11 @@ https://github.com/google/fuzzer-test-suite
 Fuzzinator随机测试框架
 https://github.com/renatahodovan/fuzzinator
 
-web fuzz 
-https://github.com/henshin/filebuster
+各种fuzzing图书、课程、工具、教程和易受攻击应用集合
+https://github.com/secfigo/Awesome-Fuzzing
+
+Linux内核fuzzing和缺陷相关的资源
+https://github.com/xairy/linux-kernel-exploitation
 
 fuzzing框架
 https://github.com/MozillaSecurity/peach
@@ -625,14 +651,14 @@ https://github.com/fuzzing/MFFA
 A tool to fuzz Intent Android
 https://github.com/MindMac/IntentFuzzer
 
-Fuzzing资源
+Fuzzing数据集
 https://github.com/MozillaSecurity/fuzzdata
 
-Web向Fuzz工具
+WebFuzz工具
 https://github.com/xmendez/wfuzz
 
-HTTP暴力破解，撞库攻击脚本
-https://github.com/lijiejie/htpwdScan
+web fuzz
+https://github.com/henshin/filebuster
 
 AFL的Android移植版本
 https://github.com/ele7enxxh/android-afl
@@ -643,7 +669,7 @@ https://github.com/dyjakan/interpreter-bugs
 Fuzzapi is a tool used for REST API pentesting and uses API_Fuzzer gem
 https://github.com/lalithr95/fuzzapi
 
-###WEB渗透:
+### WEB渗透:
 
 webshell大合集
 https://github.com/tennc/webshell
@@ -684,14 +710,11 @@ https://github.com/beefproject/beef
 自动化绕过WAF脚本
 https://github.com/khalilbijjou/WAFNinja
 
-https://github.com/jkbrzt/httpie
 http命令行客户端，可以从命令行构造发送各种http请求（类似于Curl）
+https://github.com/jkbrzt/httpie
 
-https://github.com/firebug/firebug
 浏览器调试利器
-
-https://github.com/SpiderLabs/ModSecurity
-一款开源WAF
+https://github.com/firebug/firebug
 
 WAF绕过检测工具
 https://github.com/owtf/wafbypasser
@@ -738,7 +761,6 @@ https://github.com/xl7dev/BurpSuite/tree/master/Extender
 一个用来辅助WP渗透测试的ruby框架
 https://github.com/rastating/wordpress-exploit-framework/
 
-
 .DS_store文件泄露利用脚本
 https://github.com/lijiejie/ds_store_exp
 
@@ -757,11 +779,15 @@ https://github.com/diogo-fernan/malsub
 XSS与CSRF工具
 https://github.com/evilcos/xssor
 
-###中间人攻击框架
+### 中间人攻击
 
+中间人攻击框架
 https://github.com/secretsquirrel/the-backdoor-factory
+
 https://github.com/secretsquirrel/BDFProxy
+
 https://github.com/byt3bl33d3r/MITMf
+
 Inject code, jam wifi, and spy on wifi users
 https://github.com/DanMcInerney/LANs.py
 
@@ -780,13 +806,19 @@ https://github.com/firesunCN/BlueLotus_XSSReceiver
 XSS与CSRF工具
 https://github.com/evilcos/xssor
 
-###暴力破解
+### 暴力破解
 
 密码破解工具
 https://github.com/shinnok/johnny
 
 本地存储的各类密码提取利器
 https://github.com/AlessandroZ/LaZagne
+
+HTTP暴力破解，撞库攻击脚本
+https://github.com/lijiejie/htpwdScan
+
+超过80GB密码库总结出的字典项目 
+https://github.com/berzerk0/Probable-Wordlists
 ## 漏洞库及工具（POC，EXP）
 
 Snyk漏洞库
@@ -849,7 +881,35 @@ https://github.com/XcodeGhostSource/XcodeGhost
 scap安全指导
 https://github.com/OpenSCAP/scap-security-guide
 
-###EXP编写框架及工具：
+相对偏学术方向，有不少书籍、会议、报告等推荐 
+https://github.com/re-pronin/awesome-vulnerability-research
+
+偏Web向的常见漏洞类型案例指导
+https://github.com/ngalongc/bug-bounty-reference
+
+13年到现在数十个CVE漏洞的PoC 
+https://github.com/qazbnm456/awesome-cve-poc
+
+恶意软件脚本集 
+https://github.com/seifreed/malware-scripts
+
+一大波常见Web攻击Payloads 
+https://github.com/foospidy/payloads
+
+常见Web攻击Payloads 
+https://github.com/swisskyrepo/PayloadsAllTheThings
+
+OS X命令行、PowerShell命令行、Google Dorks、Shodan、exploit开发、Java反序列化等列表
+https://github.com/coreb1t/awesome-pentest-cheat-sheets
+
+
+### EXP编写框架及工具：
+
+漏洞赏金计划集合和著名赏金猎人博客列表 
+https://github.com/djadmin/awesome-bug-bounty
+
+Exploit开发学习资源 
+https://github.com/FabioBaroni/awesome-exploit-development
 
 二进制EXP编写工具
 https://github.com/t00sh/rop-tool
@@ -928,6 +988,15 @@ https://github.com/ChiChou/etacsufbo
 隐写检测工具
 https://github.com/abeluck/stegdetect
 
+针对各种编程语言的静态分析工具、linters、代码质量检查等 
+https://github.com/mre/awesome-static-analysis
+
+关于逆向的图书、培训、实战、工具等 
+https://github.com/tylerhalfpop/awesome-reversing
+
+常见软件、类库、书籍、技术分析、开发等
+https://github.com/onethawt/reverseengineering-reading-list
+
 nary Analysis Platform
 https://github.com/BinaryAnalysisPlatform/bap
 
@@ -947,6 +1016,9 @@ ICS Security Tools, Tips, and Trade
 https://github.com/ITI/ICS-Security-Tools
 
 ## 威胁情报&蜜罐：
+
+威胁情报资源
+https://github.com/hslatman/awesome-threat-intelligence
 
 常见IOC资源、工具 
 https://github.com/sroberts/awesome-iocs
@@ -1031,6 +1103,8 @@ https://github.com/atiger77/Dionaea
 ICS/SCADA蜜罐
 https://github.com/mushorg/conpot
 
+MongoDB代理蜜罐
+https://github.com/Plazmaz/MongoDB-HoneyProx
 
 ## 安全文档资料
 
@@ -1042,6 +1116,12 @@ https://github.com/iamcryptoki/snowden-archive
 
 Awesome Vehicle Security 汽车安全合集包括文档、软硬件应用
 https://github.com/jaredthecoder/awesome-vehicle-security
+
+Awesome Security——一个社区驱动的知名安全资源分类集合
+https://github.com/sbilly/awesome-security
+
+应用程序安全的资源列表
+https://github.com/paragonie/awesome-appsec
 
 安全脑图合集
 https://github.com/phith0n/Mind-Map
@@ -1073,8 +1153,14 @@ https://github.com/ClickSecurity/data_hacking
 手机安全wiki
 https://github.com/exploitprotocol/mobile-security-wiki
 
-安卓安全加固列表
-https://github.com/AndroidTamer/KnowledgeBase/tree/master/Documents
+Web安全入门各种书籍、文档、工具
+https://github.com/infoslack/awesome-web-hacking
+
+各种Android工具、报告/研究/书籍、漏洞/利用代码等资源
+https://github.com/ashishb/android-security-awesome
+
+恶意软件集、开源威胁情报、检测、沙箱等 
+https://github.com/rshipp/awesome-malware-analysis
 
 书籍《reverse-engineering-for-beginners》
 https://github.com/veficos/reverse-engineering-for-beginners
@@ -1085,6 +1171,11 @@ https://github.com/luyg24/IT_security
 2013-2017年各类安全大会演讲视频集 
 https://github.com/PaulSec/awesome-sec-talks
 
+社工资源集——仅供网络安全人员、渗透测试人员在受控环境用于教育用途
+https://github.com/v2-dev/awesome-social-engineering
+
+密码学的理论、工具、框架、资源等
+https://github.com/sobolevn/awesome-cryptography
 
 APT相关笔记
 https://github.com/kbandla/APTnotes
@@ -1113,6 +1204,9 @@ https://github.com/alebcay/awesome-shell
 That Doesnt Suck安全指南 
 https://github.com/rmusser01/Infosec_Reference
 
+安全测试人员进行评估检查需要用到的技能
+https://github.com/danielmiessler/SecLists
+
 git学习资料
 https://github.com/xirong/my-git
 
@@ -1121,6 +1215,9 @@ https://github.com/android-cn/android-open-project-analysis
 
 JS 正则表达式库（用于简化构造复杂的JS正则表达式）
 https://github.com/VerbalExpressions/JSVerbalExpressions
+
+PHP生成安全随机数、加密数据、检查漏洞等类库
+https://github.com/ziadoz/awesome-php#security
 
 科学上网工具
 https://github.com/XX-net/XX-Net
@@ -1220,6 +1317,9 @@ https://github.com/apsdehal/awesome-ctf
 
 CTF资源
 https://github.com/ctfs/resources
+
+CTF从入门到了解各种工具 
+https://github.com/SandySekharan/CTF-tool
 
 p4团队的CTF解决方案 https://p4.team
 https://github.com/p4-team/ctf

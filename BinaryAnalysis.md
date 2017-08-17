@@ -63,6 +63,15 @@ https://github.com/ChiChou/etacsufbo
 隐写检测工具
 https://github.com/abeluck/stegdetect
 
+针对各种编程语言的静态分析工具、linters、代码质量检查等 
+https://github.com/mre/awesome-static-analysis
+
+关于逆向的图书、培训、实战、工具等 
+https://github.com/tylerhalfpop/awesome-reversing
+
+常见软件、类库、书籍、技术分析、开发等
+https://github.com/onethawt/reverseengineering-reading-list
+
 nary Analysis Platform
 https://github.com/BinaryAnalysisPlatform/bap
 

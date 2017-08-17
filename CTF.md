@@ -22,6 +22,9 @@ https://github.com/apsdehal/awesome-ctf
 CTF资源
 https://github.com/ctfs/resources
 
+CTF从入门到了解各种工具 
+https://github.com/SandySekharan/CTF-tool
+
 p4团队的CTF解决方案 https://p4.team
 https://github.com/p4-team/ctf
 

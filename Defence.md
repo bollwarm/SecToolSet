@@ -1,5 +1,6 @@
 ## 安全防守：
 
+
 安全项目列表
 https://github.com/zbetcheckin/Security_list
 
@@ -35,6 +36,25 @@ https://github.com/hakbot/hakbot-origin-controller
 
 全天候 DevOps - 安全监控和防御自动化架构(ELK + AWS Lambda) 
 https://github.com/appsecco/alldaydevops-aism
+
+
+安全开发运维</a>：devsecops.org社区贡献的权威devsecops工具列表
+https://github.com/devsecops/awesome-devsecops
+
+API安全检查清单</a>：当你设计、测试、发布API时，需要核对的安全细节清单 
+https://github.com/shieldfy/API-Security-Checklist/blob/master/README-zh.md
+
+Pcaptools</a>：流量处理的命令集、捕获工具、分析检查、DNS配置等工具资源 
+https://github.com/caesar0301/awesome-pcaptools
+
+安卓安全加固列表
+https://github.com/AndroidTamer/KnowledgeBase/tree/master/Documents
+
+OS X和iOS安全</a>：OS X和iOS安全工具集合
+https://github.com/ashishb/osx-and-ios-security-awesome
+
+一款开源WAF
+https://github.com/SpiderLabs/ModSecurity
 
 基于区块链的AUR安全层
 https://github.com/clawoflight/aursec
@@ -102,7 +122,7 @@ https://github.com/spotify/gcp-firewall-enforcer
 Linux安全基线，支持puppet、chef和Ansible做安全加固 - InSpec Profile http://dev-sec.io/
 https://github.com/dev-sec/linux-baseline
 
-gps欺骗检测工具
+GPS欺骗检测工具
 https://github.com/zxsecurity/gpsnitch
 
 应急处置响应框架
@@ -128,10 +148,6 @@ https://github.com/dev-sec/chef-nginx-hardening
 
 proxy poc implementation of STARTTLS stripping attacks 
 https://github.com/tintinweb/striptls
-
-mongodb代理蜜罐 
-https://github.com/Plazmaz/MongoDB-HoneyProxy
-
 
 web安全开发指南
 https://github.com/FallibleInc/security-guide-for-developers
@@ -219,9 +235,6 @@ https://github.com/goldshtn/etrace
 
 CPU及内存相关性能分析工具
 https://github.com/Microsoft/perfview
-
-威胁情报资源
-https://github.com/hslatman/awesome-threat-intelligence
 
 SSH服务审计工具
 https://github.com/arthepsy/ssh-audit
@@ -331,13 +344,13 @@ https://tryingtobeawesome.com/cryptag/
 ElkarBackup  一个基于RSync/RSnapshot的开源备份方案
 https://github.com/elkarbackup/elkarbackup
 
-ssh服务端和客户端安全配置的chef cookbook
+SSH服务端和客户端安全配置的chef cookbook
 https://github.com/dev-sec/chef-ssh-hardening
 
 Nextcloud 双因子TOTP (RFC 6238)
 https://github.com/nextcloud/twofactor_totp
 
-nixarmor Linux自动安全加固项目
+Nixarmor Linux自动安全加固项目
 https://github.com/emirozer/nixarmor
 
 phpMusse 这是一个根据ClamAV的签名和其他签名在上传完成后来自动检测木马/病毒/恶意软件和其他可能威胁系统安全的文件的PHP脚本

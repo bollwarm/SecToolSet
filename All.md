@@ -101,6 +101,7 @@ https://github.com/schubergphilis/Seccubus
 ### 子域名爆破扫描器
 
 https://github.com/aboul3la/Sublist3r
+
 https://github.com/TheRook/subbrute
 
 信息探测及扫描工具（DNS及邮件枚举等）
@@ -188,16 +189,16 @@ https://github.com/presidentbeef/brakeman
 网络空间指纹扫描器
 https://github.com/nanshihui/Scan-T
 
-web服务扫描
+WEB服务扫描
 https://github.com/sullo/nikto
 
-web主机发现小工具
+WEB主机发现小工具
 https://github.com/zer0h/httpscan
 
-web扫描器
+WEB扫描器
 https://github.com/golismero/golismero
 
-一个简单web中间件扫描
+一个简单WEB中间件扫描
 https://github.com/maxlabelle/WebMalwareScanner
 
 ruby源码扫描工具
@@ -209,7 +210,7 @@ https://github.com/maK-/parameth
 路径扫描器
 https://github.com/stanislav-web/OpenDoor
 
-Web路径扫描 
+WEB路径扫描 
 https://github.com/maurosoria/dirsearc
 
 FindBugs插件用于Java web应用和安卓应用的安全审计
@@ -218,6 +219,7 @@ https://github.com/find-sec-bugs/find-sec-bugs
 ### SSL类型扫描器
 
 https://github.com/shawarkhanethicalhacker/BruteXSS
+
 https://github.com/rbsec/sslscan
 
 ## 安全防守：

@@ -100,9 +100,13 @@ https://github.com/portcullislabs/rdp-sec-check
 
 ### Web扫描器
 
-网站指纹识别工具，用来检测网站CMS类型，所采用的博客系统类型，JS库，web服务器，甚至版本号，email地址，web框架等
+WEB应用攻击预防和审计框架，开源WEB漏洞扫描
 https://github.com/andresriancho/w3af
+
+WEB路径扫描
 https://github.com/maurosoria/dirsearch
+
+网站指纹识别工具，用来检测网站CMS类型，所采用的博客系统类型，JS库，web服务器，甚至版本号，email地址，web框架等
 https://github.com/urbanadventurer/whatweb
 
 一款爬虫框架，用来检测网站是否被恶意攻击过

@@ -66,18 +66,21 @@ ctftools 在线CTF信息网站，包括资源下载、在线工具、信息blog�
 https://www.ctftools.com
 ## 安全扫描器：
 
-### 端口扫描器Nmap
+### 端口扫描器
 
+扫描神器Nmap
 https://github.com/nmap/nmap
 
+基于WEB的内网扫描
 https://github.com/SkyLined/LocalNetworkScanner
 
+子域名扫描工具
 https://github.com/lijiejie/subDomainsBrute
 
-https://github.com/jh00nbr/Routerhunter-2.0
-
+BBScan是一个迷你的信息泄漏批量扫描脚本
 https://github.com/lijiejie/BBScan
 
+探测Waf产品的指纹信息
 https://github.com/EnableSecurity/wafw00f
 
 基于端口的漏扫及CVE关联

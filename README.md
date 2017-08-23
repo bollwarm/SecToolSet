@@ -1,4 +1,4 @@
-## sectoolset -- 搜集的Github关于安全工具集合
+## sectoolset -- Github关于安全工具集合
 
 ## 主要内容：
 
@@ -26,4 +26,4 @@
 
 ## License
 
-Licensed under [Apache License 2.0](LICENSE).
+Licensed under [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0.html).

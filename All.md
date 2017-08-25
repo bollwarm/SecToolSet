@@ -35,7 +35,6 @@ https://github.com/joe-shenouda/awesome-cyber-skills
 web及app渗透训练平台
 https://github.com/OWASP/SecurityShepherd
 
-
 ### 安全竞赛 （CTF夺标大赛）
 
 灰帽子资源集,包括CTF、密码学、Linux攻击、USB攻击、漏洞等
@@ -1278,10 +1277,7 @@ https://github.com/east520/AutoGetRedEnv
 微信抢红包插件（安卓版）
 https://github.com/geeeeeeeeek/WeChatLuckyMoney
 
-神器
-https://github.com/yangyangwithgnu/hardseed
-
-A full-featured home hosted Cloud Drive,
+全功能私有云云平台
 https://github.com/zelon88/HRCloud2
 
 撰写安全代码最小备忘单子

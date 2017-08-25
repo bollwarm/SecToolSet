@@ -35,7 +35,6 @@ https://github.com/joe-shenouda/awesome-cyber-skills
 web及app渗透训练平台
 https://github.com/OWASP/SecurityShepherd
 
-
 ### 安全竞赛 （CTF夺标大赛）
 
 灰帽子资源集,包括CTF、密码学、Linux攻击、USB攻击、漏洞等

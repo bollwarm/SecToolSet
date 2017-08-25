@@ -138,10 +138,7 @@ https://github.com/east520/AutoGetRedEnv
 微信抢红包插件（安卓版）
 https://github.com/geeeeeeeeek/WeChatLuckyMoney
 
-神器
-https://github.com/yangyangwithgnu/hardseed
-
-A full-featured home hosted Cloud Drive,
+全功能私有云云平台
 https://github.com/zelon88/HRCloud2
 
 撰写安全代码最小备忘单子

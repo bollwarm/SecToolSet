@@ -1134,7 +1134,7 @@ ICS/SCADA蜜罐
 https://github.com/mushorg/conpot
 
 MongoDB代理蜜罐
-https://github.com/Plazmaz/MongoDB-HoneyProx
+https://github.com/Plazmaz/MongoDB-HoneyProxy
 
 ## 安全文档资料
 

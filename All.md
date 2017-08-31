@@ -1270,12 +1270,6 @@ https://github.com/ziadoz/awesome-php#security
 科学上网工具
 https://github.com/XX-net/XX-Net
 
-微信自动抢红包动态库
-https://github.com/east520/AutoGetRedEnv
-
-微信抢红包插件（安卓版）
-https://github.com/geeeeeeeeek/WeChatLuckyMoney
-
 全功能私有云云平台
 https://github.com/zelon88/HRCloud2
 
@@ -1299,7 +1293,7 @@ https://github.com/jameslyons/pycipher
 可视化python性能分析工具
 https://github.com/nvdv/vprof
 
-Flask  HTTP authentication
+Flask认证
 https://github.com/miguelgrinberg/Flask-HTTPAuth
 
 ViperMonkey A VBA parser and emulation engine to analyze malicious macros. 

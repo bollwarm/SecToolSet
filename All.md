@@ -1174,7 +1174,7 @@ https://github.com/jivoi/awesome-ml-for-cybersecurity
 域渗透教程
 https://github.com/l3m0n/pentest_study
 
-python security教程（原文链接http//www.primalsecurity.net/tutorials/python-tutorials/
+python security教程（原文链接http//www.primalsecurity.net/tutorials/python-tutorials/)
 https://github.com/smartFlash/pySecurity
 
 data_hacking合集
@@ -1296,7 +1296,7 @@ https://github.com/nvdv/vprof
 Flask认证
 https://github.com/miguelgrinberg/Flask-HTTPAuth
 
-ViperMonkey A VBA parser and emulation engine to analyze malicious macros. 
+ViperMonkey,VBA解析和模拟机，用来分析非法宏代码
 https://github.com/decalage2/ViperMonkey
 
 ### Python编程资料

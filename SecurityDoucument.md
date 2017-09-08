@@ -21,6 +21,9 @@ https://github.com/phith0n/Mind-Map
 有关信息安全的一些流程图收集
 https://github.com/SecWiki/sec-chart/tree/294d7c1ff1eba297fa892dda08f3c05e90ed1428
 
+在学习Software安全的过程中整合的一些资料
+https://github.com/CHYbeta/Software-Security-Learning
+
 有关cryptography, security, OPSEC以及其他工程的演讲集
 https://github.com/freddymartinez9/securitytalks
 

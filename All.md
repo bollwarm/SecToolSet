@@ -637,7 +637,10 @@ https://github.com/zhuyingda/veneno
 常见的渗透测试/安全Cheatsheet
 https://github.com/jshaw87/Cheatsheets
 
-Message Queue & Broker Injection tool that implements attacks to Redis, RabbitMQ and ZeroMQ.
+渗透脚本集合包括backdoor，exploit，fuzzing，note，misc，powershell
+https://github.com/Ridter/Pentest
+
+消息队列和中间人注入工具，可以用于攻击 Redis, RabbitMQ和ZeroMQ。
 https://github.com/cr0hn/enteletaor
 
 ### 缺陷测试 Fuzz:

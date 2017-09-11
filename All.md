@@ -46,6 +46,9 @@ https://github.com/zardus/ctf-tools
 近年CTF writeup大全
 https://github.com/ctfs/write-ups-2016
 
+HITB CTF 2017 Pwn题研究
+http://0x48.pw/2017/08/29/0x49
+
 脸谱CTF竞赛平台Demo
 https://github.com/facebook/fbctf
 

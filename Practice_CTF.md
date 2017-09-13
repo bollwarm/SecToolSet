@@ -55,6 +55,9 @@ https://github.com/facebook/fbctf
 CTF框架、类库、资源、软件和教程列表
 https://github.com/apsdehal/awesome-ctf
 
+CTF的题集
+https://github.com/Hcamael/CTF_repo
+
 CTF资源
 https://github.com/ctfs/resources
 

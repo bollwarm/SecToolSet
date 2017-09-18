@@ -1249,7 +1249,7 @@ https://github.com/citypw/DNFWAH
 安全知识库，包括网络分析、Web应用、开源情报、漏洞分析、编程开发等
 https://github.com/nixawk/pentest-wiki
 
-That Doesnt Suck安全指南 
+ThatDoesntSuck安全指南 
 https://github.com/rmusser01/Infosec_Reference
 
 安全测试人员进行评估检查需要用到的技能

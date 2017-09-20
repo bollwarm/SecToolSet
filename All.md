@@ -274,7 +274,7 @@ https://github.com/hakbot/hakbot-origin-controller
 https://github.com/appsecco/alldaydevops-aism
 
 
-安全开发运维</a>：devsecops.org社区贡献的权威devsecops工具列表
+安全开发运维：devsecops.org社区贡献的权威devsecops工具列表
 https://github.com/devsecops/awesome-devsecops
 
 API安全检查清单</a>：当你设计、测试、发布API时，需要核对的安全细节清单 
@@ -414,9 +414,6 @@ https://github.com/sscarduzio/elasticsearch-readonlyrest-plugin
 
 apache实时日志分析器（on Telegram, Zabbix and Syslog/SIEM）
 https://github.com/mthbernardes/ARTLAS
-
-Destroy-Windows-10-Spying
-https://github.com/Nummer/Destroy-Windows-10-Spying
 
 PHP代码审计扫描器
 https://github.com/pwnsdx/BadCode

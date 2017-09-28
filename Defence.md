@@ -290,7 +290,8 @@ https://github.com/yassineaddi/BackdoorMan
 安全程序和漏洞管理工具
 https://github.com/OWASP/django-DefectDojo
 
-HaboMalHunter是哈勃分析系统 (https://habo.qq.com) 的开源子项目，用于Linux平台下进行自动化分析、文件安全性检测的开源工具
+HaboMalHunter是哈勃分析系统 (https://habo.qq.com) 的开源子项目，
+用于Linux平台下进行自动化分析、文件安全性检测的开源工具
 https://github.com/Tencent/HaboMalHunte
 
 混淆代码检测工具
@@ -350,5 +351,6 @@ https://github.com/nextcloud/twofactor_totp
 Nixarmor Linux自动安全加固项目
 https://github.com/emirozer/nixarmor
 
-phpMusse 这是一个根据ClamAV的签名和其他签名在上传完成后来自动检测木马/病毒/恶意软件和其他可能威胁系统安全的文件的PHP脚本
+phpMusse 这是一个根据ClamAV的签名和其他签名在上传完成
+后来自动检测木马/病毒/恶意软件和其他可能威胁系统安全的文件的PHP脚本
 https://github.com/Maikuolan/phpMussel/

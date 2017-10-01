@@ -418,7 +418,7 @@ https://github.com/mthbernardes/ARTLAS
 PHP代码审计扫描器
 https://github.com/pwnsdx/BadCode
 
-linux下恶意代码检测包
+linux恶意代码检测包
 https://github.com/rfxn/linux-malware-detect
 
 操作系统运行指标可视化框架

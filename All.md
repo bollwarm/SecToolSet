@@ -587,8 +587,7 @@ https://github.com/nextcloud/twofactor_totp
 Nixarmor Linux自动安全加固项目
 https://github.com/emirozer/nixarmor
 
-phpMusse 这是一个根据ClamAV的签名和其他签名在上传完成
-后来自动检测木马/病毒/恶意软件和其他可能威胁系统安全的文件的PHP脚本
+phpMusse 这是一个根据ClamAV的签名和其他签名对上传文件自动检测的PHP脚本
 https://github.com/Maikuolan/phpMussel/
 ## 渗透测试
 

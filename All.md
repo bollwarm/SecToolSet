@@ -1152,10 +1152,10 @@ https://github.com/carpedm20/awesome-hacking
 snowden-archive -- NSA承包商Edward Snowden泄露文档合集
 https://github.com/iamcryptoki/snowden-archive
 
-Awesome Vehicle Security 汽车安全合集包括文档、软硬件应用
+Awesome-Vehicle-Security 汽车安全合集包括文档、软硬件应用
 https://github.com/jaredthecoder/awesome-vehicle-security
 
-Awesome Security——一个社区驱动的知名安全资源分类集合
+Awesome-Security——一个社区驱动的知名安全资源分类集合
 https://github.com/sbilly/awesome-security
 
 应用程序安全的资源列表

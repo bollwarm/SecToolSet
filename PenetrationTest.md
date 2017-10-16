@@ -59,7 +59,7 @@ https://github.com/cr0hn/enteletaor
 
 ### 缺陷测试 Fuzz:
 
-DotDotPwn - 目录遍历Fuzzer http://dotdotpwn.blogspot.com/
+DotDotPwn - 目录遍历Fuzzer(http://dotdotpwn.blogspot.com/)
 https://github.com/wireghoul/dotdotpwn
 
 FuzzLabs Fuzzing框架 https://dcnws.com
@@ -86,22 +86,22 @@ https://github.com/MozillaSecurity/peach
 fuddly: a fuzzing and data manipulation framework
 https://github.com/k0retux/fuddly
 
-A general-purpose, easy-to-use fuzzer with interesting analysis options.
+通用，易于使用的，可自选兴趣选项分析的fuzer
 https://github.com/google/honggfuzz
 
-Extension library for the Kitty fuzzing framework 
+Kitty fuzzing框架扩展库 
 https://github.com/cisco-sas/katnip
 
 API Fuzzer which allows to fuzz request attributes using common pentesting techniques and lists vulnerabilities 
 https://github.com/lalithr95/API-fuzzer
 
-Reveal encrypted files stored on a filesystem. 
+找出文件系统存存储的加密文件
 https://github.com/antagon/TCHunt-ng
 
-Media Fuzzing Framework for Android
+安卓媒体Fuzzing框架
 https://github.com/fuzzing/MFFA
 
-A tool to fuzz Intent Android
+安卓fuzz工具
 https://github.com/MindMac/IntentFuzzer
 
 Fuzzing数据集

@@ -193,7 +193,7 @@ https://github.com/byt3bl33d3r/gcat
 burp instruder payloads collection
 https://github.com/1N3/IntruderPayloads
 
-A Blind SQL Injection Exploitation Tool
+SQL盲注利用工具
 https://github.com/Neohapsis/bbqsql
 
 Script for doing evil stuff to Redis servers (for education purposes only). 

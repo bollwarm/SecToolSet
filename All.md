@@ -814,7 +814,7 @@ https://github.com/firesunCN/BlueLotus_XSSReceiver
 A fastTLS scanner ( non-blocking, event-driven ) https://prbinu.github.io/tls-scan
 https://github.com/prbinu/tls-scan
 
-A Python RESTful API framework for online malware and URL analysis services. 
+一个Python RESTful接口框架，用于提供在线恶意软件和URL分析服务
 https://github.com/diogo-fernan/malsub
 
 XSS与CSRF工具
@@ -829,7 +829,7 @@ https://github.com/secretsquirrel/BDFProxy
 
 https://github.com/byt3bl33d3r/MITMf
 
-Inject code, jam wifi, and spy on wifi users
+代码注入,wifi jam以及wifi用户探测
 https://github.com/DanMcInerney/LANs.py
 
 可扩展的中间人代理工具

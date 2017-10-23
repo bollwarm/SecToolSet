@@ -781,7 +781,7 @@ https://github.com/Veil-Framework/Veil-Evasion
 用gmail充当C&amp;C服务器的后门
 https://github.com/byt3bl33d3r/gcat
 
-burp instruder payloads collection
+burp教学payloads集合
 https://github.com/1N3/IntruderPayloads
 
 SQL盲注利用工具
@@ -790,10 +790,7 @@ https://github.com/Neohapsis/bbqsql
 Script for doing evil stuff to Redis servers (for education purposes only). 
 https://github.com/matiasinsaurralde/evilredis
 
-antSword
-https://github.com/antoor/antSword/releases
-
-A Powershell client for dnscat2, an encrypted DNS command and control tool.
+dnscat2的Powershell客户端,加密的DNS命令和控制工具
 https://github.com/lukebaggett/dnscat2-powershell
 
 burp插件收集项目

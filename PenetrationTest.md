@@ -217,7 +217,7 @@ https://github.com/stasinopoulos/commix
 XSS数据接收平台
 https://github.com/firesunCN/BlueLotus_XSSReceiver
 
-A fastTLS scanner ( non-blocking, event-driven ) https://prbinu.github.io/tls-scan
+一个快速的TLS扫描器( non-blocking, event-driven ) https://prbinu.github.io/tls-scan
 https://github.com/prbinu/tls-scan
 
 一个Python RESTful接口框架，用于提供在线恶意软件和URL分析服务

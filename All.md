@@ -17,6 +17,9 @@ https://github.com/Audi-1/sqli-labs
 用node编写的漏洞练习平台，like OWASP Node Goat
 https://github.com/cr0hn/vulnerable-node
 
+基于https://www.exploit-db.com/的漏洞场景还原
+https://github.com/havysec/vulnerable-scene
+
 Ruby编写的一款工具，生成含漏洞的虚拟机
 https://github.com/cliffe/secgen
 

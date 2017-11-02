@@ -391,6 +391,9 @@ https://github.com/FallibleInc/security-guide-for-developers
 自动化代码审计工具
 https://github.com/wufeifei/cobra
 
+白盒源代码审计工具(cobra分支)
+https://github.com/LoRexxar/Cobra-W
+
 Grep rough audit - 源码审计工具 http://www.justanotherhacker.com
 https://github.com/wireghoul/graudit
 

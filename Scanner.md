@@ -157,6 +157,12 @@ https://github.com/maurosoria/dirsearc
 FindBugs插件用于Java web应用和安卓应用的安全审计
 https://github.com/find-sec-bugs/find-sec-bugs
 
+GitHub敏感信息扫描工具
+https://github.com/repoog/GitPrey
+
+GitLeak 是一个从 Github 上查找密码信息的小工具 
+https://github.com/5alt/GitLeak
+
 ### SSL类型扫描器
 
 https://github.com/shawarkhanethicalhacker/BruteXSS

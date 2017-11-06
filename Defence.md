@@ -161,6 +161,9 @@ https://github.com/LoRexxar/Cobra-W
 Grep rough audit - 源码审计工具 http://www.justanotherhacker.com
 https://github.com/wireghoul/graudit
 
+AWS云基础设施安全审计工具
+https://github.com/SecurityFTW/cs-suite
+
 python编写的离线网络数据包分析器
 https://github.com/HatBoy/Pcap-Analyzer
 

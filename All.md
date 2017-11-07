@@ -1266,6 +1266,9 @@ https://github.com/rmusser01/Infosec_Reference
 安全测试人员进行评估检查需要用到的技能
 https://github.com/danielmiessler/SecLists
 
+WeReport: 渗透报告自动化生成平台
+https://github.com/bugsafe/WeReport
+
 射频资源集合，包括SDR、GSM、3G、4G LTE、NFC、RFID、ZigBee等 
 https://github.com/cn0xroot/RFSec-ToolKit
 

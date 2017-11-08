@@ -169,6 +169,9 @@ https://github.com/NullHypothesis/exitmap
 DNS监控套件 
 https://github.com/reyjrar/DreamCatcher
 
+AIRMASTER: 红蓝对抗中对过期域名发现和利用
+https://github.com/t94j0/AIRMASTER
+
 基于SSH的穷人vpn  
 https://github.com/ivanilves/xiringuito
 

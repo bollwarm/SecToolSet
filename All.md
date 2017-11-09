@@ -1197,6 +1197,12 @@ https://github.com/kn9ts/dumb-passwords
 网络安全AI信息：相关研究的数据集、论文、书籍、演讲等 
 https://github.com/jivoi/awesome-ml-for-cybersecurity
 
+ACM CCS 2017 会议集 
+https://dl.acm.org/citation.cfm?id=3133956
+
+2017 IEEE Cybersecurity Development (SecDev大会录用论文)
+http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=8071083
+
 域渗透教程
 https://github.com/l3m0n/pentest_study
 

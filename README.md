@@ -1,4 +1,4 @@
-## sectoolset -- Github关于安全工具集合
+## sectoolset -- Github安全相关工具集合
 
 ## 主要内容：
 

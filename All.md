@@ -463,6 +463,9 @@ https://github.com/google/grr
 Mozilla防守平台
 https://github.com/mozilla/MozDef
 
+强大的观察分析引擎 https://thehive-project.org
+https://github.com/CERT-BDF/Cortex
+
 iptables 防火墙规则集分析验证
 https://github.com/diekmann/Iptables_Semantics
 

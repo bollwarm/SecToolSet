@@ -60,6 +60,9 @@ https://github.com/stevespringett/dependency-check-sonar-plugin
 SBT插件用来进行OWASP依赖扫描
 https://github.com/albuch/sbt-dependency-check
 
+Maltrail——非法流量检测系统
+https://github.com/stamparm/maltrail
+
 ### 蜜罐集 
 
 蜜罐资源合集

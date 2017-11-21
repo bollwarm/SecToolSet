@@ -142,6 +142,9 @@ https://github.com/opennota/hydra
 数据库注入工具
 https://github.com/sqlmapproject/sqlmap
 
+通过控制台管理网站
+https://github.com/WangYihang/Webshell-Sniper
+
 SQLiScanner -- Automatic SQL injection with Charles and sqlmap api
 https://github.com/0xbug/SQLiScanner
 

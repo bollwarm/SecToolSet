@@ -9,6 +9,9 @@ https://github.com/sroberts/awesome-iocs
 数字取证的常见工具资源 
 https://github.com/Cugu/awesome-forensics
 
+Ethereum Scam Database诈骗数据库溯新查询
+https://github.com/MrLuit/EtherScamDB
+
 开源情报:各种开源情报来源 
 https://github.com/jivoi/awesome-osint
 

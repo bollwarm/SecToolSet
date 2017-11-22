@@ -40,6 +40,9 @@ https://github.com/OWASP/SecurityShepherd
 
 ### 安全竞赛 （CTF夺标大赛）
 
+HCTF2017题目及解析
+https://github.com/vidar-team/HCTF2017
+
 灰帽子资源集,包括CTF、密码学、Linux攻击、USB攻击、漏洞等
 https://github.com/bt3gl/My-Gray-Hacker-Resources
 

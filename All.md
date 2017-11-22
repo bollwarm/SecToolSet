@@ -1329,6 +1329,9 @@ https://github.com/GoSecure/security-cheat-sheet
 关于系统、数据库、IDE、编程语言等方面的免费书 
 https://github.com/EbookFoundation/free-programming-books/
 
+渗透和开发小技巧
+https://github.com/3gstudent/Pentest-and-Development-Tips
+
 ### Python工具：
 
 Python应用安全框架

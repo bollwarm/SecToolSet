@@ -1307,6 +1307,12 @@ https://github.com/bugsafe/WeReport
 射频资源集合，包括SDR、GSM、3G、4G LTE、NFC、RFID、ZigBee等 
 https://github.com/cn0xroot/RFSec-ToolKit
 
+学习Web/Cloud/Docker 安全、渗透测试、安全建设笔记
+https://github.com/JnuSimba/MiscSecNotes
+
+安全文章收集
+https://github.com/tom0li/collection-document
+
 车辆安全的学习资源、项目、软硬件、汽车黑客案例、Twitter follower列表等 
 https://github.com/jaredmichaelsmith/awesome-vehicle-security
 

@@ -198,6 +198,9 @@ https://github.com/urbanadventurer/whatweb
 一款爬虫框架，用来检测网站是否被恶意攻击过
 https://github.com/ciscocsirt/malspider
 
+AWVS10.5 data/script/目录下的脚本docode
+https://github.com/bollwarm/awvs_script_decode 
+
 wordpress漏洞扫描器
 https://github.com/wpscanteam/wpscan
 

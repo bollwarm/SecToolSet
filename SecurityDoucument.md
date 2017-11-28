@@ -126,6 +126,9 @@ https://github.com/JnuSimba/MiscSecNotes
 安全文章收集
 https://github.com/tom0li/collection-document
 
+Linux 安全时记录笔记
+https://github.com/JnuSimba/LinuxSecNotes
+
 车辆安全的学习资源、项目、软硬件、汽车黑客案例、Twitter follower列表等 
 https://github.com/jaredmichaelsmith/awesome-vehicle-security
 

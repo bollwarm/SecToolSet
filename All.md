@@ -856,6 +856,9 @@ https://github.com/diogo-fernan/malsub
 XSS与CSRF工具
 https://github.com/evilcos/xssor
 
+暴力攻击字典生成工具
+https://github.com/LandGrey/pydictor
+
 ### 中间人攻击
 
 中间人攻击框架

@@ -132,6 +132,9 @@ https://github.com/JnuSimba/LinuxSecNotes
 Android 安全笔记
 https://github.com/JnuSimba/AndroidSecNotes
 
+Android应用安全的众测list
+https://github.com/B3nac/Android-Reports-and-Resources
+
 车辆安全的学习资源、项目、软硬件、汽车黑客案例、Twitter follower列表等 
 https://github.com/jaredmichaelsmith/awesome-vehicle-security
 

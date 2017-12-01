@@ -132,6 +132,9 @@ https://github.com/JnuSimba/LinuxSecNotes
 Android 安全笔记
 https://github.com/JnuSimba/AndroidSecNotes
 
+安全技能树小密圈2017精选
+https://github.com/h4ck0ne/security_circle_2017
+
 Android应用安全的众测list
 https://github.com/B3nac/Android-Reports-and-Resources
 

@@ -687,6 +687,9 @@ https://github.com/Ridter/Pentest
 消息队列和中间人注入工具，可以用于攻击 Redis, RabbitMQ和ZeroMQ。
 https://github.com/cr0hn/enteletaor
 
+WPA2 KRACK攻击验证脚本集
+https://github.com/vanhoefm/krackattacks-scripts
+
 ### 缺陷测试 Fuzz:
 
 DotDotPwn - 目录遍历Fuzzer(http://dotdotpwn.blogspot.com/)

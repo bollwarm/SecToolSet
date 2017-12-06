@@ -1,5 +1,11 @@
 ## 安全文档资料
 
+Awesome-Hacking黑客、渗透，安全研究文档集
+https://github.com/Hack-with-Github/Awesome-Hacking
+
+黑客必读电子书
+https://github.com/Hack-with-Github/Free-Security-eBooks
+
 黑客成长技术清单
 https://github.com/carpedm20/awesome-hacking
 

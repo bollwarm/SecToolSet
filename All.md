@@ -219,6 +219,9 @@ https://github.com/presidentbeef/brakeman
 网络空间指纹扫描器
 https://github.com/nanshihui/Scan-T
 
+xsec-proxy-scanner是一款速度超快、小巧的代理扫描器
+https://github.com/netxfly/xsec-proxy-scanner
+
 WEB服务扫描
 https://github.com/sullo/nikto
 

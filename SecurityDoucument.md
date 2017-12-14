@@ -200,6 +200,9 @@ https://github.com/miguelgrinberg/Flask-HTTPAuth
 ViperMonkey,VBA解析和模拟机，用来分析非法宏代码
 https://github.com/decalage2/ViperMonkey
 
+XLearning是一款支持多种机器学习、深度学习框架调度系统.
+https://github.com/Qihoo360/XLearning/
+
 ### Python编程资料
 
 python 正则表达式库（用于简化构造复杂的python正则表达式）

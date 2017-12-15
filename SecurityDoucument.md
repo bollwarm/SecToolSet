@@ -203,6 +203,9 @@ https://github.com/decalage2/ViperMonkey
 XLearning是一款支持多种机器学习、深度学习框架调度系统.
 https://github.com/Qihoo360/XLearning/
 
+一些资源和工具里list
+https://github.com/pe3zx/my-awesome
+
 ### Python编程资料
 
 python 正则表达式库（用于简化构造复杂的python正则表达式）

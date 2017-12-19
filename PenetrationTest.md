@@ -77,6 +77,9 @@ https://github.com/google/honggfuzz
 谷歌fuzzing引擎测试集
 https://github.com/google/fuzzer-test-suite
 
+可扩展地Fuzzing框架
+https://github.com/IOActive/XDiFF
+
 Fuzzinator随机测试框架
 https://github.com/renatahodovan/fuzzinator
 

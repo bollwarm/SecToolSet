@@ -66,6 +66,9 @@ https://github.com/albuch/sbt-dependency-check
 Maltrail——非法流量检测系统
 https://github.com/stamparm/maltrail
 
+net-creds:从网络嗅探或Pcap 文件提取敏感数据的工具 
+https://github.com/DanMcInerney/net-creds
+
 ### 蜜罐集 
 
 蜜罐资源合集

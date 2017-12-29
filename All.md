@@ -910,6 +910,9 @@ https://github.com/lijiejie/htpwdScan
 https://github.com/berzerk0/Probable-Wordlists
 ## 漏洞库及工具（POC，EXP）
 
+漏洞研究集合 
+https://github.com/sergey-pronin/Awesome-Vulnerability-Research
+
 Snyk漏洞库
 https://github.com/snyk/vulndb
 
@@ -1173,6 +1176,9 @@ https://github.com/albuch/sbt-dependency-check
 
 Maltrail——非法流量检测系统
 https://github.com/stamparm/maltrail
+
+net-creds:从网络嗅探或Pcap 文件提取敏感数据的工具 
+https://github.com/DanMcInerney/net-creds
 
 ### 蜜罐集 
 

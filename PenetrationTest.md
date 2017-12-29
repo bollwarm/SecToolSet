@@ -241,6 +241,9 @@ https://github.com/evilcos/xssor
 暴力攻击字典生成工具
 https://github.com/LandGrey/pydictor
 
+利用深度神经网络tensorflow 对14亿文本密码分析
+https://github.com/philipperemy/tensorflow-1.4-billion-password-analysis
+
 ### 中间人攻击
 
 中间人攻击框架

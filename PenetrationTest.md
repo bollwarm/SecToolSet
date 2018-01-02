@@ -42,7 +42,10 @@ https://github.com/erevus-cn/pocscan
 Pocsuite -开源的远程漏洞测试框架
 https://github.com/knownsec/Pocsuite
 
-The YAWAST Antecedent Web Application Security Toolkit 
+fsociety黑客工具集——渗透测试框架 
+https://github.com/Manisso/fsociety
+
+YAWAST Web应用安全套件
 https://github.com/adamcaudill/yawast
 
 Beebeeto是由众多安全研究人员所共同维护的一个规范化POC/EXP平台

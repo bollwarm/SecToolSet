@@ -24,7 +24,9 @@
 
 [乌云镜像,估计被河*蟹](http://wy.hx99.net/)
 
-## Intel CPU 漏洞相关 (Meltdown_Spectre.md)
+## Intel CPU 漏洞相关 
+
+[Meltdown & Spectre](Meltdown_Spectre.md)
 
 ## License
 

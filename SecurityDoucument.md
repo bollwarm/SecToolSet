@@ -206,6 +206,9 @@ https://github.com/Qihoo360/XLearning/
 一些资源和工具里list
 https://github.com/pe3zx/my-awesome
 
+Tensorflow实战学习笔记 
+https://github.com/MachineLP/Tensorflow-
+
 ### Python编程资料
 
 python 正则表达式库（用于简化构造复杂的python正则表达式）

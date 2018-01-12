@@ -255,6 +255,9 @@ https://github.com/repoog/GitPrey
 GitLeak 是一个从 Github 上查找密码信息的小工具 
 https://github.com/5alt/GitLeak
 
+一款兼容bugscan插件的扫描器 
+https://github.com/boy-hack/w9scan
+
 ### SSL类型扫描器
 
 https://github.com/shawarkhanethicalhacker/BruteXSS

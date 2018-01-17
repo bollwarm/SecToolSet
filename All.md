@@ -14,6 +14,9 @@ https://github.com/RandomStorm/DVWA
 DoraBox,多拉盒 - 掌握常见漏洞攻防
 https://github.com/gh0stkey/DoraBox
 
+ 一个功能很全的CTF平台
+https://github.com/zjlywjh001/PhrackCTF-Platform-Team
+
 数据库注入练习平台 
 https://github.com/Audi-1/sqli-labs
 

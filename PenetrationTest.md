@@ -148,6 +148,9 @@ https://github.com/brianwrf/hackUtils
 web渗透小工具大合集
 https://github.com/rootphantomer/hack_tools_for_me
 
+web敏感目录、信息泄漏批量扫描脚本，结合爬虫、目录深度遍历。 
+https://github.com/blackye/webdirdig
+
 detectem - detect software and its version on websites. 
 https://github.com/spectresearch/detectem
 

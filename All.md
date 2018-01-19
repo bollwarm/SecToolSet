@@ -1403,6 +1403,9 @@ https://github.com/hslatman/awesome-industrial-control-system-security
 GIT学习资料
 https://github.com/xirong/my-git
 
+计算机科学视频教程集
+https://github.com/Developer-Y/cs-video-courses
+
 安卓开源代码解析
 https://github.com/android-cn/android-open-project-analysis
 

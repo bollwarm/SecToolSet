@@ -269,7 +269,6 @@ https://github.com/rbsec/sslscan
 
 ## 安全防守：
 
-
 安全项目列表
 https://github.com/zbetcheckin/Security_list
 
@@ -305,7 +304,6 @@ https://github.com/hakbot/hakbot-origin-controller
 
 全天候 DevOps - 安全监控和防御自动化架构(ELK + AWS Lambda) 
 https://github.com/appsecco/alldaydevops-aism
-
 
 安全开发运维：devsecops.org社区贡献的权威devsecops工具列表
 https://github.com/devsecops/awesome-devsecops
@@ -631,6 +629,9 @@ https://github.com/nextcloud/twofactor_totp
 
 Nixarmor Linux自动安全加固项目
 https://github.com/emirozer/nixarmor
+
+SaaS型初创企业安全101
+https://github.com/forter/security-101-for-saas-startups/tree/chinese
 
 phpMusse 这是一个根据ClamAV的签名和其他签名对上传文件自动检测的PHP脚本
 https://github.com/Maikuolan/phpMussel/

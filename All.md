@@ -917,6 +917,9 @@ https://github.com/firesunCN/BlueLotus_XSSReceiver
 XSS与CSRF工具
 https://github.com/evilcos/xssor
 
+Vegile - Ghost In The Shell 进程隐藏和防止被杀的工具
+https://github.com/Screetsec/Vegile
+
 ### 暴力破解
 
 密码破解工具

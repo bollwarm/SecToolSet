@@ -54,6 +54,9 @@ https://github.com/ashishb/osx-and-ios-security-awesome
 一款开源WAF
 https://github.com/SpiderLabs/ModSecurity
 
+开源WAF，基于web日志进行非法访问渗透探测，并进行统计分析，设置阈值封禁
+https://github.com/bollwarm/App-Waf
+
 基于区块链的AUR安全层
 https://github.com/clawoflight/aursec
 
@@ -233,6 +236,9 @@ https://github.com/sleuthkit/sleuthkit
 
 开源安全合规解决方案
 https://github.com/OpenSCAP/openscap
+
+JVM沙箱容器，一种JVM的非侵入式运行期AOP解决方案
+https://github.com/alibaba/jvm-sandbox
 
 开源准实时日志采集器
 https://github.com/wgliang/logcool

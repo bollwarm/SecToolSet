@@ -942,7 +942,7 @@ https://github.com/lijiejie/htpwdScan
 
 超过80GB密码库总结出的字典项目 
 https://github.com/berzerk0/Probable-Wordlists
-## 漏洞库及工具（POC，EXP）
+## 漏洞库及利用工具（POC，EXP）
 
 ### Meltdown(熔毁)和Spectre(幽灵)相关
 
@@ -960,6 +960,9 @@ https://github.com/hannob/meltdownspectre-patches
 
 SpecuCheck meltdownspectre win下检查工具 
 https://github.com/ionescu007/SpecuCheck
+
+Linux本地root提权
+https://github.com/5H311-1NJ3C706/local-root-exploits
 
 漏洞研究集合 
 https://github.com/sergey-pronin/Awesome-Vulnerability-Research

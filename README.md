@@ -10,7 +10,7 @@
 
 [0x03 渗透测试](PenetrationTest.md)
 
-[0x04 漏洞库及工具（POC，EXP)](ProofofConcept_Exploit.md)
+[0x04 漏洞库及利用工具（POC，EXP)](ProofofConcept_Exploit.md)
 
 [0x05 二进制及代码分析工具](BinaryAnalysis.md)
 
@@ -24,7 +24,9 @@
 
 [乌云镜像,估计被河*蟹](http://wy.hx99.net/)
 
-## Intel CPU 漏洞相关 
+## 近期安全热点Hot 
+
+[linux Libc Realpath缓冲区下溢漏洞(CVE–2018–1000001)](http://ijz.me/?p=1006)
 
 [Meltdown & Spectre](Meltdown_Spectre.md)
 

@@ -153,6 +153,21 @@ https://github.com/nebgnahz/awesome-iot-hacks
 包括工具、蜜罐、数据、警报和新闻、会议各种工控安全等 
 https://github.com/hslatman/awesome-industrial-control-system-security
 
+📚 List of awesome university courses for learning Computer Science! 
+https://github.com/prakhar1989/awesome-courses
+
+💻 An awesome & curated list of best applications and tools for Windows. 
+https://github.com/Awesome-Windows/Awesome
+
+Curated list of awesome lists 
+https://github.com/sindresorhus/awesome
+
+生信，大数据，机器学习，各种程序语言等等资源集合
+https://github.com/shenwei356/awesome
+
+🍻 awesome cheatsheet 
+https://github.com/detailyang/awesome-cheatsheet
+
 GIT学习资料
 https://github.com/xirong/my-git
 

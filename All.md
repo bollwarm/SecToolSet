@@ -1231,6 +1231,9 @@ https://github.com/albuch/sbt-dependency-check
 Maltrail——非法流量检测系统
 https://github.com/stamparm/maltrail
 
+Logstash 日志安全攻击分析插件
+https://github.com/anbai-inc/AttackFilter
+
 net-creds:从网络嗅探或Pcap 文件提取敏感数据的工具 
 https://github.com/DanMcInerney/net-creds
 

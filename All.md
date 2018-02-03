@@ -365,6 +365,7 @@ https://github.com/dev-sec/mysql-baseline
 PowerShell脚本监控活动目录，当成员关系变更时候发邮件
 https://github.com/lazywinadmin/Monitor-ADGroupMembership
 
+
 评估嵌入式设备CPU的安全性
 https://github.com/iadgov/Maplesyrup
 
@@ -1433,7 +1434,7 @@ https://github.com/sindresorhus/awesome
 生信，大数据，机器学习，各种程序语言等等资源集合
 https://github.com/shenwei356/awesome
 
-🍻 awesome cheatsheet 
+awesome cheatsheet 
 https://github.com/detailyang/awesome-cheatsheet
 
 GIT学习资料

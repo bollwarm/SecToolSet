@@ -165,7 +165,7 @@ https://github.com/sindresorhus/awesome
 生信，大数据，机器学习，各种程序语言等等资源集合
 https://github.com/shenwei356/awesome
 
-🍻 awesome cheatsheet 
+awesome cheatsheet 
 https://github.com/detailyang/awesome-cheatsheet
 
 GIT学习资料

@@ -168,7 +168,7 @@ https://github.com/shenwei356/awesome
 awesome cheatsheet 
 https://github.com/detailyang/awesome-cheatsheet
 
-GIT学习资料
+Git学习资料
 https://github.com/xirong/my-git
 
 计算机科学视频教程集
@@ -202,6 +202,9 @@ https://github.com/3gstudent/Pentest-and-Development-Tips
 
 Python应用安全框架
 https://github.com/YosaiProject/yosai
+
+python安全和代码审计相关资料收集
+https://github.com/bit4woo/python_sec
 
 pyc反编译脚本
 https://github.com/gstarnberger/uncompyle

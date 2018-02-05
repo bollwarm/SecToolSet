@@ -113,6 +113,9 @@ https://github.com/portcullislabs/rdp-sec-check
 Joy思科开源的网络包扑捉、网络流量分析、网络研究取证及安全监控的工具。
 https://github.com/cisco/joy
 
+web日志扫描工具
+https://github.com/apxar/xlog
+
 ### Web扫描器
 
 WEB应用攻击预防和审计框架，开源WEB漏洞扫描

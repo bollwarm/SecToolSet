@@ -44,6 +44,9 @@ https://github.com/joe-shenouda/awesome-cyber-skills
 web及app渗透训练平台
 https://github.com/OWASP/SecurityShepherd
 
+injectify 生成一个便捷的高级中间人攻击Web站点
+https://github.com/samdenty99/injectify
+
 ### 安全竞赛 （CTF夺标大赛）
 
 HCTF2017题目及解析

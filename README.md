@@ -26,6 +26,8 @@
 
 ## 近期安全热点Hot 
 
+2017年安全行业年度报告汇总  (https://www.sec-wiki.com/topic/81)
+
 [linux Libc Realpath缓冲区下溢漏洞(CVE–2018–1000001)](http://ijz.me/?p=1006)
 
 [Meltdown & Spectre](Meltdown_Spectre.md)

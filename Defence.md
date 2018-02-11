@@ -39,10 +39,10 @@ https://github.com/appsecco/alldaydevops-aism
 安全开发运维：devsecops.org社区贡献的权威devsecops工具列表
 https://github.com/devsecops/awesome-devsecops
 
-API安全检查清单</a>：当你设计、测试、发布API时，需要核对的安全细节清单 
+API安全检查清单：当你设计、测试、发布API时，需要核对的安全细节清单 
 https://github.com/shieldfy/API-Security-Checklist/blob/master/README-zh.md
 
-Pcaptools</a>：流量处理的命令集、捕获工具、分析检查、DNS配置等工具资源 
+Pcaptools：流量处理的命令集、捕获工具、分析检查、DNS配置等工具资源 
 https://github.com/caesar0301/awesome-pcaptools
 
 安卓安全加固列表
@@ -89,7 +89,6 @@ https://github.com/dev-sec/mysql-baseline
 
 PowerShell脚本监控活动目录，当成员关系变更时候发邮件
 https://github.com/lazywinadmin/Monitor-ADGroupMembership
-
 
 评估嵌入式设备CPU的安全性
 https://github.com/iadgov/Maplesyrup
@@ -276,6 +275,9 @@ https://github.com/JacobReynolds/ssrfDetector
 
 fwd 用go开发的网络端口代理
 https://github.com/kintoandar/fwd
+
+dev-sec安全基线和加固脚本
+https://github.com/dev-sec
 
 使用AngularJS和AJA的Symfony应用CSRF自动探测工具
 https://github.com/dunglas/DunglasAngularCsrfBundle

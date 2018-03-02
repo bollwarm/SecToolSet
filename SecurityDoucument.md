@@ -168,6 +168,9 @@ https://github.com/shenwei356/awesome
 awesome cheatsheet 
 https://github.com/detailyang/awesome-cheatsheet
 
+比特币的最佳集合
+https://github.com/kennethreitz/awesome-coins
+
 Git学习资料
 https://github.com/xirong/my-git
 

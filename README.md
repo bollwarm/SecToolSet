@@ -24,7 +24,9 @@
 
 [乌云镜像,估计被河*蟹](http://wy.hx99.net/)
 
-## 近期安全热点Hot 
+## 近期安全热点Hot
+
+AMD Zen 爆漏洞: [白皮书](https://safefirmware.com/amdflaws_whitepaper.pdf) [视频介绍](http://www.365yg.com/item/6532610911461442052/) 
 
 2017年安全行业年度报告汇总  (https://www.sec-wiki.com/topic/81)
 

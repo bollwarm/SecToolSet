@@ -72,6 +72,12 @@ https://github.com/anbai-inc/AttackFilter
 net-creds:从网络嗅探或Pcap 文件提取敏感数据的工具 
 https://github.com/DanMcInerney/net-creds
 
+开源的恶意代码查杀引擎,模式匹配是瑞士军刀（支持二进制）
+https://github.com/VirusTotal/yara
+
+Klara 基于Rara引擎的威胁情报恶意代码发现辅助项目
+https://github.com/KasperskyLab/klara
+
 ### 蜜罐集 
 
 蜜罐资源合集

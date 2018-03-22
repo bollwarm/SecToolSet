@@ -1246,6 +1246,12 @@ https://github.com/anbai-inc/AttackFilter
 net-creds:从网络嗅探或Pcap 文件提取敏感数据的工具 
 https://github.com/DanMcInerney/net-creds
 
+开源的恶意代码查杀引擎,模式匹配是瑞士军刀（支持二进制）
+https://github.com/VirusTotal/yara
+
+Klara 基于Rara引擎的威胁情报恶意代码发现辅助项目
+https://github.com/KasperskyLab/klara
+
 ### 蜜罐集 
 
 蜜罐资源合集
@@ -1430,6 +1436,9 @@ https://github.com/nebgnahz/awesome-iot-hacks
 包括工具、蜜罐、数据、警报和新闻、会议各种工控安全等 
 https://github.com/hslatman/awesome-industrial-control-system-security
 
+数字取证论文集合(摄像头特征) 
+https://github.com/NetSecLab/Paper_for_Digital_Forensics
+
 📚 List of awesome university courses for learning Computer Science! 
 https://github.com/prakhar1989/awesome-courses
 
@@ -1444,6 +1453,9 @@ https://github.com/shenwei356/awesome
 
 awesome cheatsheet 
 https://github.com/detailyang/awesome-cheatsheet
+
+比特币的最佳集合
+https://github.com/kennethreitz/awesome-coins
 
 Git学习资料
 https://github.com/xirong/my-git

@@ -26,7 +26,9 @@
 
 ## 近期安全热点Hot
 
-AMD Zen 爆漏洞: [白皮书](https://safefirmware.com/amdflaws_whitepaper.pdf) [视频介绍](http://www.365yg.com/item/6532610911461442052/) 
+Linux内核BPF漏洞CVE-2017-16995可实现本地提权，影响Ubuntu（http://www.freebuf.com/column/165887.html）
+
+AMD Zen 爆漏洞[可能是炒作](http://www.freebuf.com/column/165321.html)
 
 2017年安全行业年度报告汇总  (https://www.sec-wiki.com/topic/81)
 

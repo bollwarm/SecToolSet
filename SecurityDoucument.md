@@ -153,6 +153,9 @@ https://github.com/nebgnahz/awesome-iot-hacks
 包括工具、蜜罐、数据、警报和新闻、会议各种工控安全等 
 https://github.com/hslatman/awesome-industrial-control-system-security
 
+数字取证论文集合(摄像头特征) 
+https://github.com/NetSecLab/Paper_for_Digital_Forensics
+
 📚 List of awesome university courses for learning Computer Science! 
 https://github.com/prakhar1989/awesome-courses
 

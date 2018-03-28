@@ -78,6 +78,9 @@ https://github.com/VirusTotal/yara
 Klara 基于Rara引擎的威胁情报恶意代码发现辅助项目
 https://github.com/KasperskyLab/klara
 
+awesome-yara YARA规则、工具和相关信息集。
+https://github.com/InQuest/awesome-yara
+
 ### 蜜罐集 
 
 蜜罐资源合集

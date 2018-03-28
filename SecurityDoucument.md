@@ -135,6 +135,9 @@ https://github.com/tom0li/collection-document
 Linux 安全时记录笔记
 https://github.com/JnuSimba/LinuxSecNotes
 
+信息安全从业者书单推荐
+https://github.com/riusksk/secbook
+
 Android 安全笔记
 https://github.com/JnuSimba/AndroidSecNotes
 

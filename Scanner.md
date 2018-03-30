@@ -160,6 +160,9 @@ https://github.com/zer0h/httpscan
 WEB扫描器
 https://github.com/golismero/golismero
 
+web应用安全扫描器
+https://github.com/taipan-scanner/Taipan
+
 一个简单WEB中间件扫描
 https://github.com/maxlabelle/WebMalwareScanner
 

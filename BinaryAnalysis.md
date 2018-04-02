@@ -36,6 +36,9 @@ https://github.com/longld/peda
 对BillGates Linux Botnet系木马活动的监控工具
 https://github.com/ValdikSS/billgates-botnet-tracker
 
+Adhrit开源的安卓APK逆向和分析工具
+https://github.com/abhi-r3v0/Adhrit/ 
+
 Assesses CPU security of embedded devices. iadgov 
 https://github.com/iadgov/Maplesyrup
 

@@ -116,6 +116,9 @@ https://github.com/cisco/joy
 web日志扫描工具
 https://github.com/apxar/xlog
 
+自动扫描内网数据库扫描脚本(mysql、mssql、oracle、postgresql、redis、mongodb、memcached、elasticsearch)，包含未授权访问及常规弱口令检测
+https://github.com/se55i0n/DBScanner
+
 ### Web扫描器
 
 WEB应用攻击预防和审计框架，开源WEB漏洞扫描

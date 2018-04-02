@@ -268,6 +268,9 @@ https://github.com/mahmoud/boltons
 python爬虫系统
 https://github.com/binux/pyspider
 
+ScrapedIn，LinkedIn爬虫
+https://github.com/dchrastil/ScrapedIn
+
 ctf向 python工具包
 https://github.com/P1kachu/v0lt
 

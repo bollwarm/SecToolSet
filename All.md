@@ -202,6 +202,9 @@ https://github.com/cisco/joy
 web日志扫描工具
 https://github.com/apxar/xlog
 
+自动扫描内网数据库扫描脚本(mysql、mssql、oracle、postgresql、redis、mongodb、memcached、elasticsearch)，包含未授权访问及常规弱口令检测
+https://github.com/se55i0n/DBScanner
+
 ### Web扫描器
 
 WEB应用攻击预防和审计框架，开源WEB漏洞扫描
@@ -1121,6 +1124,9 @@ https://github.com/longld/peda
 对BillGates Linux Botnet系木马活动的监控工具
 https://github.com/ValdikSS/billgates-botnet-tracker
 
+Adhrit开源的安卓APK逆向和分析工具
+https://github.com/abhi-r3v0/Adhrit/ 
+
 Assesses CPU security of embedded devices. iadgov 
 https://github.com/iadgov/Maplesyrup
 
@@ -1556,6 +1562,9 @@ https://github.com/mahmoud/boltons
 
 python爬虫系统
 https://github.com/binux/pyspider
+
+ScrapedIn，LinkedIn爬虫
+https://github.com/dchrastil/ScrapedIn
 
 ctf向 python工具包
 https://github.com/P1kachu/v0lt

@@ -26,11 +26,9 @@
 
 ## 近期安全热点Hot
 
+Cisco 智能安装客户端远程执行漏洞(http://kuaibao.qq.com/s/20180408A0HQY700)
+
 Linux内核BPF漏洞CVE-2017-16995可实现本地提权，影响Ubuntu（http://www.freebuf.com/column/165887.html）
-
-AMD Zen 爆漏洞[可能是炒作](http://www.freebuf.com/column/165321.html)
-
-2017年安全行业年度报告汇总  (https://www.sec-wiki.com/topic/81)
 
 [linux Libc Realpath缓冲区下溢漏洞(CVE–2018–1000001)](http://ijz.me/?p=1006)
 

@@ -28,9 +28,6 @@
 
 Cisco 智能安装客户端远程执行漏洞(http://kuaibao.qq.com/s/20180408A0HQY700)
 
-Linux内核BPF漏洞CVE-2017-16995可实现本地提权，影响Ubuntu（http://www.freebuf.com/column/165887.html）
-
-[linux Libc Realpath缓冲区下溢漏洞(CVE–2018–1000001)](http://ijz.me/?p=1006)
 
 [Meltdown & Spectre](Meltdown_Spectre.md)
 

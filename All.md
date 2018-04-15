@@ -1163,6 +1163,9 @@ https://github.com/tylerhalfpop/awesome-reversing
 常见软件、类库、书籍、技术分析、开发等
 https://github.com/onethawt/reverseengineering-reading-list
 
+awesome-firmware-security是一个平台固件资源的列表，立足于安全和测试
+https://github.com/PreOS-Security/awesome-firmware-security
+
 nary Analysis Platform
 https://github.com/BinaryAnalysisPlatform/bap
 

@@ -168,6 +168,9 @@ https://github.com/Awesome-Windows/Awesome
 Curated list of awesome lists 
 https://github.com/sindresorhus/awesome
 
+Awesome & Interesting Talks concerning Programming 
+https://github.com/hellerve/programming-talks#creative-coding
+
 生信，大数据，机器学习，各种程序语言等等资源集合
 https://github.com/shenwei356/awesome
 

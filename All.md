@@ -1252,6 +1252,9 @@ https://github.com/albuch/sbt-dependency-check
 Maltrail——非法流量检测系统
 https://github.com/stamparm/maltrail
 
+Seebug、structs、cve漏洞实时监控推送系统🔦
+https://github.com/FortuneC00kie/bug-monitor
+
 Logstash 日志安全攻击分析插件
 https://github.com/anbai-inc/AttackFilter
 
@@ -1465,6 +1468,9 @@ https://github.com/Awesome-Windows/Awesome
 
 Curated list of awesome lists 
 https://github.com/sindresorhus/awesome
+
+Awesome & Interesting Talks concerning Programming 
+https://github.com/hellerve/programming-talks#creative-coding
 
 生信，大数据，机器学习，各种程序语言等等资源集合
 https://github.com/shenwei356/awesome

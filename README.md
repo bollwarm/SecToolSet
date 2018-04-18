@@ -28,7 +28,6 @@
 
 Cisco 智能安装客户端远程执行漏洞(http://kuaibao.qq.com/s/20180408A0HQY700)
 
-
 [Meltdown & Spectre](Meltdown_Spectre.md)
 
 ## License

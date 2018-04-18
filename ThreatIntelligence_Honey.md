@@ -66,6 +66,9 @@ https://github.com/albuch/sbt-dependency-check
 Maltrail——非法流量检测系统
 https://github.com/stamparm/maltrail
 
+Seebug、structs、cve漏洞实时监控推送系统🔦
+https://github.com/FortuneC00kie/bug-monitor
+
 Logstash 日志安全攻击分析插件
 https://github.com/anbai-inc/AttackFilter
 

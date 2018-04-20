@@ -413,6 +413,9 @@ https://github.com/dev-sec/linux-baseline
 GPS欺骗检测工具
 https://github.com/zxsecurity/gpsnitch
 
+A tool for identifying misconfigured CloudFront domains
+https://github.com/MindPointGroup/cloudfrunt
+
 应急处置响应框架
 https://github.com/biggiesmallsAG/nightHawkResponse
 

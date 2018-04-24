@@ -47,6 +47,9 @@ https://github.com/OWASP/SecurityShepherd
 injectify 生成一个便捷的高级中间人攻击Web站点
 https://github.com/samdenty99/injectify
 
+针对ctf线下赛流量抓取(php)、真实环境流量抓取分析的工具 
+https://github.com/wupco/weblogger
+
 ### 安全竞赛 （CTF夺标大赛）
 
 HCTF2017题目及解析
@@ -278,6 +281,9 @@ https://github.com/5alt/GitLeak
 
 一款兼容bugscan插件的扫描器 
 https://github.com/boy-hack/w9scan
+
+Go AST Scanner 
+https://github.com/GoASTScanner/gas
 
 ### SSL类型扫描器
 
@@ -1068,7 +1074,6 @@ https://github.com/swisskyrepo/PayloadsAllTheThings
 OS X命令行、PowerShell命令行、Google Dorks、Shodan、exploit开发、Java反序列化等列表
 https://github.com/coreb1t/awesome-pentest-cheat-sheets
 
-
 ### EXP编写框架及工具：
 
 漏洞赏金计划集合和著名赏金猎人博客列表 
@@ -1076,6 +1081,9 @@ https://github.com/djadmin/awesome-bug-bounty
 
 Exploit开发学习资源 
 https://github.com/FabioBaroni/awesome-exploit-development
+
+mimic is a tool for covert execution on Linux x86_64.
+https://github.com/emptymonkey/mimic
 
 二进制EXP编写工具
 https://github.com/t00sh/rop-tool
@@ -1351,6 +1359,9 @@ https://dl.acm.org/citation.cfm?id=3133956
 
 2017 IEEE Cybersecurity Development (SecDev大会录用论文)
 http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=8071083
+
+Golang for Security Professionals 
+https://github.com/parsiya/Hacking-with-Go
 
 域渗透教程
 https://github.com/l3m0n/pentest_study

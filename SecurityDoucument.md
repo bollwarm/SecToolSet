@@ -48,6 +48,9 @@ https://dl.acm.org/citation.cfm?id=3133956
 2017 IEEE Cybersecurity Development (SecDev大会录用论文)
 http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=8071083
 
+Golang for Security Professionals 
+https://github.com/parsiya/Hacking-with-Go
+
 域渗透教程
 https://github.com/l3m0n/pentest_study
 

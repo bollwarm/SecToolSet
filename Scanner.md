@@ -193,6 +193,9 @@ https://github.com/5alt/GitLeak
 一款兼容bugscan插件的扫描器 
 https://github.com/boy-hack/w9scan
 
+Go AST Scanner 
+https://github.com/GoASTScanner/gas
+
 ### SSL类型扫描器
 
 https://github.com/shawarkhanethicalhacker/BruteXSS

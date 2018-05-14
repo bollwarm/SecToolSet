@@ -654,6 +654,9 @@ https://github.com/bndw/pick
 可搜索、标签化，加密的云存储
 https://tryingtobeawesome.com/cryptag/
 
+悟空API网关 开源版
+https://github.com/eolinker/GoKu-API-Gateway
+
 ElkarBackup  一个基于RSync/RSnapshot的开源备份方案
 https://github.com/elkarbackup/elkarbackup
 
@@ -1067,6 +1070,9 @@ https://github.com/seifreed/malware-scripts
 
 一大波常见Web攻击Payloads 
 https://github.com/foospidy/payloads
+
+后门仓库，包括各语言直接绑定和反射式的后门,后门加密以及Stager
+https://github.com/0x00-0x00/ShellPop
 
 常见Web攻击Payloads 
 https://github.com/swisskyrepo/PayloadsAllTheThings

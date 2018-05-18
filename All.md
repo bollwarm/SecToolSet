@@ -1123,6 +1123,9 @@ https://github.com/programa-stic/barf-project
 二进制分析工具
 https://github.com/devttys0/binwalk
 
+关于软件虚拟化保护（如VMProtect）的资料
+https://github.com/lmy375/awesome-vmp
+
 系统扫描器，用于寻找程序和库然后收集他们的依赖关系，链接等信息
 https://github.com/quarkslab/binmap
 

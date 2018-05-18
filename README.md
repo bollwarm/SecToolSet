@@ -26,7 +26,9 @@
 
 ## 近期安全热点Hot
 
-Cisco 智能安装客户端远程执行漏洞(http://kuaibao.qq.com/s/20180408A0HQY700)
+[Redhat dhcp客户端漏洞 DynoRoot CVE-2018-1111](https://dynoroot.ninja/)
+
+[Cisco 智能安装客户端远程执行漏洞](http://kuaibao.qq.com/s/20180408A0HQY700)
 
 [Meltdown & Spectre](Meltdown_Spectre.md)
 

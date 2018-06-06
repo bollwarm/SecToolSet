@@ -26,7 +26,7 @@
 
 ## 近期安全热点Hot
 
-[CVE-2018-11235：git爆递归clone严重漏洞致任意代码执行] (http://www.freebuf.com/column/173372.html)
+[Git爆递归clone严重漏洞致任意代码执行 CVE-2018-11235](http://www.freebuf.com/column/173372.html)
 
 [Redhat dhcp客户端漏洞 DynoRoot CVE-2018-1111](https://dynoroot.ninja/)
 

@@ -26,9 +26,9 @@
 
 ## 近期安全热点Hot
 
-[Redhat dhcp客户端漏洞 DynoRoot CVE-2018-1111](https://dynoroot.ninja/)
+[CVE-2018-11235：git爆递归clone严重漏洞致任意代码执行] (http://www.freebuf.com/column/173372.html)
 
-[Cisco 智能安装客户端远程执行漏洞](http://kuaibao.qq.com/s/20180408A0HQY700)
+[Redhat dhcp客户端漏洞 DynoRoot CVE-2018-1111](https://dynoroot.ninja/)
 
 [Meltdown & Spectre](Meltdown_Spectre.md)
 

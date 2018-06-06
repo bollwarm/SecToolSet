@@ -32,11 +32,17 @@ https://github.com/wilson9x1/fenghuangscanner_v3
 内部网络扫描器
 https://github.com/sowish/LNScan
 
+通过扫描全网绕过CDN获取网站IP地址
+https://github.com/boy-hack/w8fuckcdn
+
 集成Nmap的一款端口扫描器
 https://github.com/screetsec/Dracnmap
 
 便捷的自动化漏洞扫描，报告和分析工具
 https://github.com/schubergphilis/Seccubus
+
+对公网IP列表进行端口服务扫描，发现周期内的端口服务变化情况和弱口令安全风险 
+https://github.com/grayddq/PublicMonitors
 
 ### 子域名爆破扫描器
 

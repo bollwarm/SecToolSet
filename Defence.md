@@ -219,6 +219,9 @@ https://github.com/google/grr
 Mozilla防守平台
 https://github.com/mozilla/MozDef
 
+企业内网安全管理平台，包含资产管理，漏洞管理，账号管理，知识库管、安全扫描自动化功能
+https://github.com/qianniaoge/-SecurityManageFramwork
+
 强大的观察分析引擎 https://thehive-project.org
 https://github.com/CERT-BDF/Cortex
 

@@ -183,6 +183,12 @@ https://github.com/shenwei356/awesome
 awesome cheatsheet 
 https://github.com/detailyang/awesome-cheatsheet
 
+iOS hack资料
+https://github.com/Siguza/ios-resources
+
+Green-hat-suite is a tool to make meterpreter evade antivirus 
+https://github.com/Green-m/green-hat-suite
+
 比特币的最佳集合
 https://github.com/kennethreitz/awesome-coins
 

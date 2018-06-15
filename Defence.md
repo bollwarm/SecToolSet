@@ -126,8 +126,11 @@ https://github.com/dev-sec/linux-baseline
 GPS欺骗检测工具
 https://github.com/zxsecurity/gpsnitch
 
-A tool for identifying misconfigured CloudFront domains
+CloudFront域名误配置检查工具
 https://github.com/MindPointGroup/cloudfrunt
+
+Cyber瑞士军刀：加解密、编码、压缩以及数据分析的web应用。 
+https://github.com/gchq/CyberChef
 
 应急处置响应框架
 https://github.com/biggiesmallsAG/nightHawkResponse

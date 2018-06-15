@@ -425,8 +425,11 @@ https://github.com/dev-sec/linux-baseline
 GPS欺骗检测工具
 https://github.com/zxsecurity/gpsnitch
 
-A tool for identifying misconfigured CloudFront domains
+CloudFront域名误配置检查工具
 https://github.com/MindPointGroup/cloudfrunt
+
+Cyber瑞士军刀：加解密、编码、压缩以及数据分析的web应用。 
+https://github.com/gchq/CyberChef
 
 应急处置响应框架
 https://github.com/biggiesmallsAG/nightHawkResponse
@@ -1518,6 +1521,12 @@ https://github.com/shenwei356/awesome
 
 awesome cheatsheet 
 https://github.com/detailyang/awesome-cheatsheet
+
+iOS hack资料
+https://github.com/Siguza/ios-resources
+
+Green-hat-suite is a tool to make meterpreter evade antivirus 
+https://github.com/Green-m/green-hat-suite
 
 比特币的最佳集合
 https://github.com/kennethreitz/awesome-coins

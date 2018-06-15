@@ -162,6 +162,9 @@ https://github.com/hslatman/awesome-industrial-control-system-security
 数字取证论文集合(摄像头特征) 
 https://github.com/NetSecLab/Paper_for_Digital_Forensics
 
+渗透测试技巧
+https://github.com/xssfile/Attack-data
+
 📚 List of awesome university courses for learning Computer Science! 
 https://github.com/prakhar1989/awesome-courses
 

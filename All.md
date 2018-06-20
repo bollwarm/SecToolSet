@@ -300,7 +300,7 @@ https://github.com/shawarkhanethicalhacker/BruteXSS
 
 https://github.com/rbsec/sslscan
 
-## 安全防守：
+Defence.md## 安全防守：
 
 安全项目列表
 https://github.com/zbetcheckin/Security_list
@@ -496,6 +496,9 @@ https://github.com/mthbernardes/ARTLAS
 
 PHP代码审计扫描器
 https://github.com/pwnsdx/BadCode
+
+PHP代码审计sublime插件：🐛 AFind-PHP-Vulnerabilities
+https://github.com/WangYihang/Find-PHP-Vulnerabilities
 
 linux恶意代码检测包
 https://github.com/rfxn/linux-malware-detect
@@ -1533,6 +1536,9 @@ https://github.com/Green-m/green-hat-suite
 
 比特币的最佳集合
 https://github.com/kennethreitz/awesome-coins
+
+architect-awesome:后端架构师技术图谱 
+https://github.com/xingshaocheng/architect-awesome
 
 Git学习资料
 https://github.com/xirong/my-git

@@ -192,6 +192,9 @@ https://github.com/Green-m/green-hat-suite
 比特币的最佳集合
 https://github.com/kennethreitz/awesome-coins
 
+architect-awesome:后端架构师技术图谱 
+https://github.com/xingshaocheng/architect-awesome
+
 Git学习资料
 https://github.com/xirong/my-git
 

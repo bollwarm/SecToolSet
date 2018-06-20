@@ -1,4 +1,4 @@
-## 安全防守：
+Defence.md## 安全防守：
 
 安全项目列表
 https://github.com/zbetcheckin/Security_list
@@ -194,6 +194,9 @@ https://github.com/mthbernardes/ARTLAS
 
 PHP代码审计扫描器
 https://github.com/pwnsdx/BadCode
+
+PHP代码审计sublime插件：🐛 AFind-PHP-Vulnerabilities
+https://github.com/WangYihang/Find-PHP-Vulnerabilities
 
 linux恶意代码检测包
 https://github.com/rfxn/linux-malware-detect

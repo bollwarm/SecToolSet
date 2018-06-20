@@ -50,6 +50,9 @@ https://github.com/samdenty99/injectify
 针对ctf线下赛流量抓取(php)、真实环境流量抓取分析的工具 
 https://github.com/wupco/weblogger
 
+permeate:一个用于渗透透测试演练的WEB系统,用于提升寻找网站能力,也可以用于web安全教学
+https://github.com/78778443/permeate
+
 ### 安全竞赛 （CTF夺标大赛）
 
 HCTF2017题目及解析

@@ -140,6 +140,9 @@ https://github.com/dyjakan/interpreter-bugs
 Fuzzapi is a tool used for REST API pentesting and uses API_Fuzzer gem
 https://github.com/lalithr95/fuzzapi
 
+Test Blue Team detections without running any attack. 
+https://github.com/n0dec/MalwLess
+
 ### WEB渗透:
 
 webshell大合集

@@ -189,6 +189,9 @@ https://github.com/Siguza/ios-resources
 Green-hat-suite is a tool to make meterpreter evade antivirus 
 https://github.com/Green-m/green-hat-suite
 
+慢雾安全团队知识库
+https://github.com/slowmist/Knowledge-Base/
+
 比特币的最佳集合
 https://github.com/kennethreitz/awesome-coins
 

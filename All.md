@@ -32,6 +32,9 @@ https://github.com/cliffe/secgen
 metasploitable3
 https://github.com/rapid7/metasploitable3/
 
+pentesterlab渗透测试在线练习
+https://pentesterlab.com/exercises/
+
 轻量web漏洞演示平台
 https://github.com/stamparm/DSVW
 
@@ -43,6 +46,9 @@ https://github.com/joe-shenouda/awesome-cyber-skills
 
 web及app渗透训练平台
 https://github.com/OWASP/SecurityShepherd
+
+DevSecOps技能训练营
+https://github.com/devsecops/bootcamp
 
 injectify 生成一个便捷的高级中间人攻击Web站点
 https://github.com/samdenty99/injectify

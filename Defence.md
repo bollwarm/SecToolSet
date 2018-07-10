@@ -1,4 +1,4 @@
-Defence.md## 安全防守：
+## 安全防守：
 
 安全项目列表
 https://github.com/zbetcheckin/Security_list
@@ -203,6 +203,9 @@ https://github.com/rfxn/linux-malware-detect
 
 操作系统运行指标可视化框架
 https://github.com/facebook/osquery
+
+Log-Killer 服务器日志清理工具，支持window（bat）和linux（php）脚本
+https://github.com/Rizer0/Log-killer
 
 Mac OS下取证工具
 https://github.com/jipegit/OSXAuditor

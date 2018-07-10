@@ -306,7 +306,7 @@ https://github.com/shawarkhanethicalhacker/BruteXSS
 
 https://github.com/rbsec/sslscan
 
-Defence.md## 安全防守：
+## 安全防守：
 
 安全项目列表
 https://github.com/zbetcheckin/Security_list
@@ -511,6 +511,9 @@ https://github.com/rfxn/linux-malware-detect
 
 操作系统运行指标可视化框架
 https://github.com/facebook/osquery
+
+Log-Killer 服务器日志清理工具，支持window（bat）和linux（php）脚本
+https://github.com/Rizer0/Log-killer
 
 Mac OS下取证工具
 https://github.com/jipegit/OSXAuditor
@@ -1186,6 +1189,9 @@ https://github.com/mike01/pypacker
 Windows driver and usermode interface which can hide objects of file-system and registry, protect processes and etc
 https://github.com/JKornev/hidden
 
+IoTSecurityNAT IoT安全测试系统，方便快速接入各种设备，进行安全测试。
+https://github.com/3rdbody/IoTSecurityNAT
+
 木马配置参数提取工具
 https://github.com/kevthehermit/RATDecoders
 
@@ -1375,6 +1381,9 @@ https://github.com/sbilly/awesome-security
 应用程序安全的资源列表
 https://github.com/paragonie/awesome-appsec
 
+DFTimewolf A framework for orchestrating forensic collection, processing and data export.
+https://github.com/log2timeline/dftimewolf
+
 安全脑图合集
 https://github.com/phith0n/Mind-Map
 
@@ -1534,6 +1543,9 @@ https://github.com/hellerve/programming-talks#creative-coding
 生信，大数据，机器学习，各种程序语言等等资源集合
 https://github.com/shenwei356/awesome
 
+图书配套代码 精通渗透测试机器学习 Mastering Machine Learning for Penetration Testing, published by Packt 
+https://github.com/PacktPublishing/Mastering-Machine-Learning-for-Penetration-Testing
+
 awesome cheatsheet 
 https://github.com/detailyang/awesome-cheatsheet
 
@@ -1545,6 +1557,9 @@ https://github.com/Green-m/green-hat-suite
 
 慢雾安全团队知识库
 https://github.com/slowmist/Knowledge-Base/
+
+BlockChain-Security-List 区块链加密币安全列表 (reverse, exploit, fuzz..)
+https://github.com/im-bug/BlockChain-Security-List
 
 比特币的最佳集合
 https://github.com/kennethreitz/awesome-coins

@@ -185,6 +185,9 @@ https://github.com/codejanus/ToolSuite
 
 巡风 --一款适用于企业内网的漏洞快速应急，巡航扫描系统。
 https://github.com/ysrc/xunfeng
+
+Fuxi-Scanner 是一款开源的网络安全检测工具，适用于中小型企业对企业信息系统进行安全巡航检测
+https://github.com/jeffzh3ng/Fuxi-Scanner
  
 Elasticsearch API安全发布到公网插件
 https://github.com/sscarduzio/elasticsearch-readonlyrest-plugin

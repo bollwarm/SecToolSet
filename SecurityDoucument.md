@@ -240,6 +240,9 @@ https://github.com/smile0304/Technical_Article_Spider/
 渗透和开发小技巧
 https://github.com/3gstudent/Pentest-and-Development-Tips
 
+🚀苹果macOS 开源应用集
+https://github.com/serhii-londar/open-source-mac-os-apps#games
+
 ### Python工具：
 
 Python应用安全框架

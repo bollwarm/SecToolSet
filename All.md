@@ -17,6 +17,12 @@ https://github.com/gh0stkey/DoraBox
  一个功能很全的CTF平台
 https://github.com/zjlywjh001/PhrackCTF-Platform-Team
 
+upload-labs很全的上传上传漏洞的靶场
+https://github.com/c0ny1/upload-labs
+
+跟踪真实漏洞相关靶场环境搭建
+https://github.com/yaofeifly/Vub_ENV
+ 
 数据库注入练习平台 
 https://github.com/Audi-1/sqli-labs
 
@@ -385,6 +391,9 @@ https://github.com/codeling/bfstop
 
 使用aws KMs的命令行加密工具，加密一次，可以在多区域的aws多实例中解密
 https://github.com/aol/mrcrypt
+
+互联网漏洞管理、资产管理、任务扫描、todoLIST 
+https://github.com/RASSec/A_Scan_Framework
 
 噪声协议的Rust实现
 https://github.com/mcginty/snow
@@ -1167,6 +1176,9 @@ https://github.com/lmy375/awesome-vmp
 
 系统扫描器，用于寻找程序和库然后收集他们的依赖关系，链接等信息
 https://github.com/quarkslab/binmap
+
+A Qt and C++ GUI for radare2 reverse engineering framework 
+https://github.com/radareorg/cutter
 
 rp++ is a full-cpp written tool that aims to find ROP sequences in PE/Elf/Mach-O.
 https://github.com/0vercl0k/rp

@@ -78,6 +78,9 @@ https://github.com/codeling/bfstop
 使用aws KMs的命令行加密工具，加密一次，可以在多区域的aws多实例中解密
 https://github.com/aol/mrcrypt
 
+互联网漏洞管理、资产管理、任务扫描、todoLIST 
+https://github.com/RASSec/A_Scan_Framework
+
 噪声协议的Rust实现
 https://github.com/mcginty/snow
 

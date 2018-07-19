@@ -24,6 +24,9 @@ https://github.com/lmy375/awesome-vmp
 系统扫描器，用于寻找程序和库然后收集他们的依赖关系，链接等信息
 https://github.com/quarkslab/binmap
 
+A Qt and C++ GUI for radare2 reverse engineering framework 
+https://github.com/radareorg/cutter
+
 rp++ is a full-cpp written tool that aims to find ROP sequences in PE/Elf/Mach-O.
 https://github.com/0vercl0k/rp
 

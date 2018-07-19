@@ -917,6 +917,9 @@ https://github.com/WallbreakerTeam/TomcatBrute
 通过调用sqlmap api，自动检测sqli的代理
 https://github.com/fengxuangit/Fox-scan/
 
+CMS探测和利用套件，能探测20多种cms，同时对wp，Joomla, Drupadl进行深度渗透
+https://github.com/Tuhinshubhra/CMSeeK 
+
 免杀payload生成器
 https://github.com/Veil-Framework/Veil-Evasion
 

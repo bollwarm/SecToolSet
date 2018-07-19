@@ -275,7 +275,13 @@ https://github.com/pe3zx/my-awesome
 Tensorflow实战学习笔记 
 https://github.com/MachineLP/Tensorflow-
 
-### Python编程资料
+### 编程资料
+
+An extensive list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc. 
+https://github.com/lk-geimfari/awesomo
+
+A curated list of Rust code and resources.
+https://github.com/rust-unofficial/awesome-rust
 
 python 正则表达式库（用于简化构造复杂的python正则表达式）
 https://github.com/VerbalExpressions/PythonVerbalExpressions

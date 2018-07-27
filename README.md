@@ -22,9 +22,15 @@
 
 ## 乌云镜像
 
-[乌云镜像,估计被河*蟹](http://wy.hx99.net/)
+[乌云镜像](http://wooyun.jozxing.cc/)
 
-## 近期安全热点Hot
+[乌云镜像](http://wooyun.webbaozi.com)
+
+[乌云镜像,河*蟹](http://wy.hx99.net/)
+
+## 近期安全热点
+
+[Jenkins 任意文件读取漏洞(CVE-2018-1999002)分析](https://paper.seebug.org/648/)
 
 [Git爆递归clone严重漏洞致任意代码执行 CVE-2018-11235](http://www.freebuf.com/column/173372.html)
 

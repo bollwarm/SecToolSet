@@ -275,6 +275,9 @@ https://github.com/pe3zx/my-awesome
 Tensorflow实战学习笔记 
 https://github.com/MachineLP/Tensorflow-
 
+声音可视化工具集
+https://github.com/willianjusten/awesome-audio-visualization
+
 ### 编程资料
 
 An extensive list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc. 

@@ -306,6 +306,9 @@ https://github.com/boy-hack/w9scan
 Go AST Scanner 
 https://github.com/GoASTScanner/gas
 
+侦察和信息收集安全工具
+https://github.com/evyatarmeged/Raccoon
+
 ### SSL类型扫描器
 
 https://github.com/shawarkhanethicalhacker/BruteXSS
@@ -1652,6 +1655,9 @@ https://github.com/pe3zx/my-awesome
 
 Tensorflow实战学习笔记 
 https://github.com/MachineLP/Tensorflow-
+
+声音可视化工具集
+https://github.com/willianjusten/awesome-audio-visualization
 
 ### 编程资料
 

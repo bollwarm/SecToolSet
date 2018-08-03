@@ -303,8 +303,8 @@ https://github.com/5alt/GitLeak
 一款兼容bugscan插件的扫描器 
 https://github.com/boy-hack/w9scan
 
-Go AST Scanner 
-https://github.com/GoASTScanner/gas
+Golang安全扫描
+https://github.com/securego/gosec
 
 侦察和信息收集安全工具
 https://github.com/evyatarmeged/Raccoon
@@ -1569,6 +1569,9 @@ https://github.com/PacktPublishing/Mastering-Machine-Learning-for-Penetration-Te
 
 awesome cheatsheet 
 https://github.com/detailyang/awesome-cheatsheet
+
+机器学习和安全
+https://github.com/13o-bbr-bbq/machine_learning_security
 
 iOS hack资料
 https://github.com/Siguza/ios-resources

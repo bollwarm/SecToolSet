@@ -189,6 +189,9 @@ https://github.com/PacktPublishing/Mastering-Machine-Learning-for-Penetration-Te
 awesome cheatsheet 
 https://github.com/detailyang/awesome-cheatsheet
 
+机器学习和安全
+https://github.com/13o-bbr-bbq/machine_learning_security
+
 iOS hack资料
 https://github.com/Siguza/ios-resources
 

@@ -1,4 +1,4 @@
-## 安全文档资料
+# 安全文档资料
 
 Awesome-Hacking黑客、渗透，安全研究文档集
 https://github.com/Hack-with-Github/Awesome-Hacking
@@ -230,6 +230,9 @@ https://github.com/XX-net/XX-Net
 
 全功能私有云云平台
 https://github.com/zelon88/HRCloud2
+
+亚马逊云服务AWS实践指南
+https://github.com/open-guides/og-aws
 
 撰写安全代码最小备忘单子
 https://github.com/GoSecure/security-cheat-sheet

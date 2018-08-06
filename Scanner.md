@@ -202,12 +202,14 @@ https://github.com/boy-hack/w9scan
 Golang安全扫描
 https://github.com/securego/gosec
 
+Golang写的命令行工具发现git仓库中不小心泄露的密码，私有证书等
+https://github.com/UKHomeOffice/repo-security-scanner
+
 侦察和信息收集安全工具
 https://github.com/evyatarmeged/Raccoon
 
 ### SSL类型扫描器
 
-https://github.com/shawarkhanethicalhacker/BruteXSS
-
+sslscan tests SSL/TLS enabled services to discover supported cipher suites 
 https://github.com/rbsec/sslscan
 

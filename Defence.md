@@ -379,6 +379,9 @@ https://github.com/bndw/pick
 可搜索、标签化，加密的云存储
 https://tryingtobeawesome.com/cryptag/
 
+MITRE攻击框架对应的Linux Auditd 审计规则
+https://github.com/bfuzzy/auditd-attack
+
 悟空API网关 开源版
 https://github.com/eolinker/GoKu-API-Gateway
 

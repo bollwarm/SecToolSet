@@ -306,13 +306,15 @@ https://github.com/boy-hack/w9scan
 Golang安全扫描
 https://github.com/securego/gosec
 
+Golang写的命令行工具发现git仓库中不小心泄露的密码，私有证书等
+https://github.com/UKHomeOffice/repo-security-scanner
+
 侦察和信息收集安全工具
 https://github.com/evyatarmeged/Raccoon
 
 ### SSL类型扫描器
 
-https://github.com/shawarkhanethicalhacker/BruteXSS
-
+sslscan tests SSL/TLS enabled services to discover supported cipher suites 
 https://github.com/rbsec/sslscan
 
 ## 安全防守：
@@ -695,6 +697,9 @@ https://github.com/bndw/pick
 
 可搜索、标签化，加密的云存储
 https://tryingtobeawesome.com/cryptag/
+
+MITRE攻击框架对应的Linux Auditd 审计规则
+https://github.com/bfuzzy/auditd-attack
 
 悟空API网关 开源版
 https://github.com/eolinker/GoKu-API-Gateway
@@ -1379,7 +1384,7 @@ https://github.com/mushorg/conpot
 MongoDB代理蜜罐
 https://github.com/Plazmaz/MongoDB-HoneyProxy
 
-## 安全文档资料
+# 安全文档资料
 
 Awesome-Hacking黑客、渗透，安全研究文档集
 https://github.com/Hack-with-Github/Awesome-Hacking
@@ -1611,6 +1616,9 @@ https://github.com/XX-net/XX-Net
 
 全功能私有云云平台
 https://github.com/zelon88/HRCloud2
+
+亚马逊云服务AWS实践指南
+https://github.com/open-guides/og-aws
 
 撰写安全代码最小备忘单子
 https://github.com/GoSecure/security-cheat-sheet

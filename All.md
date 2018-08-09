@@ -1672,6 +1672,9 @@ https://github.com/willianjusten/awesome-audio-visualization
 
 ### 编程资料
 
+多个语言简明教程
+http://xahlee.info/comp/comp_lang_tutorials_index.html
+
 An extensive list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc. 
 https://github.com/lk-geimfari/awesomo
 

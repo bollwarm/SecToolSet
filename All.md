@@ -1491,7 +1491,7 @@ https://github.com/onlurking/awesome-infosec
 零碎的GitHub安全项目汇总，涉及PWND、PowerShell、CTF、恶意软件等 
 https://github.com/FuzzySecurity/Resource-List
 
-Gera安全例程镜像（http://community.coresecurity.com/~gera/InsecureProgramming/）
+Gera安全例程镜像
 https://github.com/deadbits/InsecureProgramming
 
 That Doesnt Suck安全指南
@@ -1554,6 +1554,12 @@ https://github.com/NetSecLab/Paper_for_Digital_Forensics
 渗透测试技巧
 https://github.com/xssfile/Attack-data
 
+Spring Security provides security services for the Spring IO Platform. Spring Security 5.0 requires Spring 5.0 as a minimum and also requires Java 8.
+https://github.com/spring-projects/spring-security
+
+Support for adding OAuth1(a) and OAuth2 features (consumer and provider) for Spring web applications.
+https://github.com/spring-projects/spring-security-oauth
+
 📚 List of awesome university courses for learning Computer Science! 
 https://github.com/prakhar1989/awesome-courses
 
@@ -1569,7 +1575,7 @@ https://github.com/hellerve/programming-talks#creative-coding
 生信，大数据，机器学习，各种程序语言等等资源集合
 https://github.com/shenwei356/awesome
 
-图书配套代码 精通渗透测试机器学习 Mastering Machine Learning for Penetration Testing, published by Packt 
+图书配套代码 精通渗透测试机器学习
 https://github.com/PacktPublishing/Mastering-Machine-Learning-for-Penetration-Testing
 
 awesome cheatsheet 

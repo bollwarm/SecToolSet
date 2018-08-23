@@ -30,6 +30,8 @@
 
 ## 近期安全热点
 
+[2018 Blackhat 工具集](BlackHat2018.md)
+
 [Intel 最新漏洞L1 Terminal Fault](http://baijiahao.baidu.com/builder/preview/s?id=1608836610578459632)
 
 [CVE-2018-5390：Linux内核暴SegmentSmack漏洞可导致远程DoS攻击](http://www.freebuf.com/column/180232.html)

@@ -87,6 +87,30 @@ https://github.com/InQuest/awesome-yara
 scylla: 人性化智能IP代理池 
 https://github.com/imWildCat/scylla
 
+用于机器学习模型的对抗鲁棒性工具箱
+https://github.com/IBM/adversarial-robustness-toolbox
+
+射箭：开源漏洞评估和管理
+https://github.com/archerysec/archerysec
+
+A fork and successor of the Sulley Fuzzing Framework 
+https://github.com/jtpereyda/boofuzz
+
+BTA is an open-source Active Directory security audit framework
+https://github.com/airbus-seclab/bta
+
+深度利用
+https://github.com/13o-bbr-bbq/machine_learning_security/tree/master/DeepExploit
+
+Halcyon IDE：Nmap脚本开发IDE
+https://github.com/s4n7h0/Halcyon
+
+SimpleRisk资源
+https://github.com/simplerisk
+
+TROMMEL:Sift Through Embedded Device Files to Identify Potential Vulnerable Indicators 
+https://github.com/CERTCC/trommel
+
 ### 蜜罐集 
 
 蜜罐资源合集

@@ -262,6 +262,24 @@ https://github.com/LandGrey/pydictor
 利用深度神经网络tensorflow 对14亿文本密码分析
 https://github.com/philipperemy/tensorflow-1.4-billion-password-analysis
 
+ModSecurity—Web应用程序防火墙(支持nginx、iis、apache)
+https://github.com/SpiderLabs/ModSecurity
+
+Astra：REST API的自动安全测试
+https://github.com/flipkart-incubator/Astra
+
+Burp Replicator：自动化复杂漏洞的复制
+https://github.com/PortSwigger/replicator
+
+OWASP进攻性Web测试框架
+https://github.com/owtf/owtf
+
+OWASP JoomScan项目
+https://github.com/rezasp/joomscan
+
+WSSAT Web服务安全评估工具
+https://github.com/YalcinYolalan/WSSAT
+
 ### 中间人攻击
 
 中间人攻击框架

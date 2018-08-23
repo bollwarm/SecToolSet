@@ -985,6 +985,24 @@ https://github.com/LandGrey/pydictor
 利用深度神经网络tensorflow 对14亿文本密码分析
 https://github.com/philipperemy/tensorflow-1.4-billion-password-analysis
 
+ModSecurity—Web应用程序防火墙(支持nginx、iis、apache)
+https://github.com/SpiderLabs/ModSecurity
+
+Astra：REST API的自动安全测试
+https://github.com/flipkart-incubator/Astra
+
+Burp Replicator：自动化复杂漏洞的复制
+https://github.com/PortSwigger/replicator
+
+OWASP进攻性Web测试框架
+https://github.com/owtf/owtf
+
+OWASP JoomScan项目
+https://github.com/rezasp/joomscan
+
+WSSAT Web服务安全评估工具
+https://github.com/YalcinYolalan/WSSAT
+
 ### 中间人攻击
 
 中间人攻击框架
@@ -1355,6 +1373,30 @@ https://github.com/InQuest/awesome-yara
 scylla: 人性化智能IP代理池 
 https://github.com/imWildCat/scylla
 
+用于机器学习模型的对抗鲁棒性工具箱
+https://github.com/IBM/adversarial-robustness-toolbox
+
+射箭：开源漏洞评估和管理
+https://github.com/archerysec/archerysec
+
+A fork and successor of the Sulley Fuzzing Framework 
+https://github.com/jtpereyda/boofuzz
+
+BTA is an open-source Active Directory security audit framework
+https://github.com/airbus-seclab/bta
+
+深度利用
+https://github.com/13o-bbr-bbq/machine_learning_security/tree/master/DeepExploit
+
+Halcyon IDE：Nmap脚本开发IDE
+https://github.com/s4n7h0/Halcyon
+
+SimpleRisk资源
+https://github.com/simplerisk
+
+TROMMEL:Sift Through Embedded Device Files to Identify Potential Vulnerable Indicators 
+https://github.com/CERTCC/trommel
+
 ### 蜜罐集 
 
 蜜罐资源合集
@@ -1559,6 +1601,11 @@ https://github.com/spring-projects/spring-security
 
 Support for adding OAuth1(a) and OAuth2 features (consumer and provider) for Spring web applications.
 https://github.com/spring-projects/spring-security-oauth
+
+Iptables Essentials: Common Firewall Rules and Commands. 
+https://github.com/trimstray/iptables-essentials#manuals-howtos-tutorials
+
+## 学习资料
 
 📚 List of awesome university courses for learning Computer Science! 
 https://github.com/prakhar1989/awesome-courses

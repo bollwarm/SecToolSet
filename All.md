@@ -445,6 +445,9 @@ https://github.com/spotify/gcp-firewall-enforcer
 Linux安全基线，支持puppet、chef和Ansible做安全加固 - InSpec Profile http://dev-sec.io/
 https://github.com/dev-sec/linux-baseline
 
+Nginx配置分析工具，防止错误配置，并实现自动缺陷检测
+https://github.com/yandex/gixy
+
 GPS欺骗检测工具
 https://github.com/zxsecurity/gpsnitch
 

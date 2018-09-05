@@ -225,6 +225,12 @@ https://github.com/ysrc/Liudao
 360数据库流量审计MySQL Sniffer
 https://github.com/Qihoo360/mysql-sniffer
 
+强大的mongodb数据库审计和渗透工具
+https://github.com/stampery/mongoaudit
+
+基于Inception开发的MySQL数据库审核平台，支持审核、执行、备份、回滚、钉钉推送、mysql、redis、mongodb查询等功能
+https://github.com/lazzyfu/AuditSQL
+
 恶意代码分析系统
 https://github.com/cuckoosandbox/cuckoo
 

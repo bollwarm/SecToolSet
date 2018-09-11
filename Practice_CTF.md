@@ -102,3 +102,6 @@ https://github.com/p4-team/ctf
 
 ctftools 在线CTF信息网站，包括资源下载、在线工具、信息blog等
 https://www.ctftools.com
+
+🔐 All Security Engineering Resources
+https://github.com/brianlam38/Sec-Dump/

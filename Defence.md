@@ -54,6 +54,9 @@ https://github.com/ashishb/osx-and-ios-security-awesome
 一款开源WAF
 https://github.com/SpiderLabs/ModSecurity
 
+Useful for bug bounties, CTF-style challenges, penetration testing.
+https://github.com/brianlam38/Sec-Cheatsheets
+
 开源WAF，基于web日志进行非法访问渗透探测，并进行统计分析，设置阈值封禁
 https://github.com/bollwarm/App-Waf
 

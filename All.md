@@ -366,6 +366,9 @@ https://github.com/shieldfy/API-Security-Checklist/blob/master/README-zh.md
 Pcaptools：流量处理的命令集、捕获工具、分析检查、DNS配置等工具资源 
 https://github.com/caesar0301/awesome-pcaptools
 
+Capturing, analysing and responding to cyber attacks 
+https://github.com/cybermaggedon/cyberprobe
+
 安卓安全加固列表
 https://github.com/AndroidTamer/KnowledgeBase/tree/master/Documents
 
@@ -1348,6 +1351,9 @@ https://github.com/metac0rtex/GitHarvester
 CIF v3 -- 安全威胁情报最快获取 
 https://github.com/csirtgadgets/bearded-avenger
 
+使用CNN进行样本恶意动态行为检测
+https://github.com/zwq0320/malicious_dynamic_behavior_detection_by_cnn
+
 屏蔽广告，恶意扫描和非法域名的工具（hosts） 
 https://github.com/zant95/hBlock
 
@@ -1362,6 +1368,9 @@ https://github.com/eggie5/hmac-timing-attacks
 
 AIL framework - 弱点信息分析框架
 https://github.com/CIRCL/AIL-framework
+
+w11scan是一款分布式的WEB指纹识别系统（包括CMS识别、js框架、组件容器、代码语言、WAF等等）
+https://github.com/boy-hack/w11scan
 
 OWASP依赖扫描报告转为SonarQube
 https://github.com/stevespringett/dependency-check-sonar-plugin

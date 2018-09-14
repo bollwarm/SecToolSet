@@ -72,7 +72,7 @@ https://github.com/vanhoefm/krackattacks-scripts
 越过(WAF)和 XSS过滤的pyton脚本集
 https://github.com/frizb/Bypassing-Web-Application-Firewalls
 
-### 缺陷测试 Fuzz:
+### Fuzz测试:
 
 DotDotPwn - 目录遍历Fuzzer(http://dotdotpwn.blogspot.com/)
 https://github.com/wireghoul/dotdotpwn

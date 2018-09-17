@@ -196,6 +196,9 @@ https://github.com/find-sec-bugs/find-sec-bugs
 GitHub敏感信息扫描工具
 https://github.com/repoog/GitPrey
 
+mozilla的GitHub配置信息检查工具和程序集
+https://github.com/mozilla-services/GitHub-Audit
+
 GitLeak 是一个从 Github 上查找密码信息的小工具 
 https://github.com/5alt/GitLeak
 

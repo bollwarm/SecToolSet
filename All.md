@@ -1640,6 +1640,12 @@ https://github.com/spring-projects/spring-security-oauth
 Iptables Essentials: Common Firewall Rules and Commands. 
 https://github.com/trimstray/iptables-essentials#manuals-howtos-tutorials
 
+Curated list of awesome cloud security blogs, podcasts, standards, projects, and examples. 
+https://github.com/Funkmyster/awesome-cloud-security
+
+List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc. 
+https://github.com/toniblyx/my-arsenal-of-aws-security-tools
+
 ## 学习资料
 
 📚 List of awesome university courses for learning Computer Science! 

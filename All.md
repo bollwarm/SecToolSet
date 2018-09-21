@@ -1441,6 +1441,9 @@ https://github.com/simplerisk
 TROMMEL:Sift Through Embedded Device Files to Identify Potential Vulnerable Indicators 
 https://github.com/CERTCC/trommel
 
+IoT Pentesting 101 && IoT security 101
+https://github.com/V33RU/IoTSecurity101
+
 ### 蜜罐集 
 
 蜜罐资源合集

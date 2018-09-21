@@ -779,6 +779,9 @@ https://github.com/enaqx/awesome-pentest
 frp 是一个可用于内网穿透的高性能的反向代理应用，支持 tcp, udp, http, https 协议。
 https://github.com/fatedier/frp
 
+hideNsneak: 临时渗透测试架构明亮行
+https://github.com/rmikehodges/hideNsneak
+
 Powershell渗透库合集
 https://github.com/PowerShellMafia/PowerSploit
 

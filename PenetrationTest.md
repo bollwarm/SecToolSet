@@ -146,6 +146,12 @@ https://github.com/lalithr95/fuzzapi
 Test Blue Team detections without running any attack. 
 https://github.com/n0dec/MalwLess
 
+bring your .bashrc, .vimrc, etc. with you when you ssh 
+https://github.com/Russell91/sshrc
+
+Chat over SSH
+https://github.com/shazow/ssh-chat
+
 ### WEB渗透:
 
 webshell大合集

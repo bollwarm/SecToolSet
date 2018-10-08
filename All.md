@@ -417,7 +417,7 @@ https://github.com/aol/mrcrypt
 互联网漏洞管理、资产管理、任务扫描、todoLIST 
 https://github.com/RASSec/A_Scan_Framework
 
-噪声协议的Rust实现
+噪声协议的Rust语言实现
 https://github.com/mcginty/snow
 
 DigSig-ng 一个linux内核安全模块，为ELF可执行程序和共享库提供RSA数字签名验证
@@ -894,6 +894,12 @@ https://github.com/lalithr95/fuzzapi
 
 Test Blue Team detections without running any attack. 
 https://github.com/n0dec/MalwLess
+
+bring your .bashrc, .vimrc, etc. with you when you ssh 
+https://github.com/Russell91/sshrc
+
+Chat over SSH
+https://github.com/shazow/ssh-chat
 
 ### WEB渗透:
 

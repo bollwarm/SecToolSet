@@ -721,6 +721,9 @@ https://github.com/kotobukki/BigDataAudit
 pick --  Linux和OS X最小化密码管理工具
 https://github.com/bndw/pick
 
+CloudWalker（牧云）是长亭推出的一款开源服务器安全管理平台。根据项目计划会逐步覆盖服务器资产管理、威胁扫描、Webshell 查杀、基线检测等各项功能。
+https://github.com/chaitin/cloudwalker
+
 可搜索、标签化，加密的云存储
 https://tryingtobeawesome.com/cryptag/
 

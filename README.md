@@ -30,6 +30,8 @@
 
 ## 近期安全热点
 
+[Git .gitmodules远程代码执行漏洞](https://seclists.org/oss-sec/2018/q4/19)
+
 [2018 Blackhat 工具集](BlackHat2018.md)
 
 [Intel 最新漏洞L1 Terminal Fault](http://baijiahao.baidu.com/builder/preview/s?id=1608836610578459632)

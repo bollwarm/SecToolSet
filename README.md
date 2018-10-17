@@ -30,6 +30,8 @@
 
 ## 近期安全热点
 
+[CVE-2018-10933 libssh登陆验证绕过漏洞 ](https://mp.weixin.qq.com/s?__biz=MzU0MTY5MzEwMA==&mid=2247484173&idx=1&sn=8debebc33d8b4cef1e868ea2f86694b1&chksm=fb2746cecc50cfd85add028c447143de0425b09f8ed851bb9149acdb2be54c82f8faeaf27ef8&mpshare=1&scene=23&srcid=1017I93ZUS5CCMYM7gHuEJU8#rd)
+
 [Git .gitmodules远程代码执行漏洞](https://seclists.org/oss-sec/2018/q4/19)
 
 [2018 Blackhat 工具集](BlackHat2018.md)
@@ -37,10 +39,6 @@
 [Intel 最新漏洞L1 Terminal Fault](http://baijiahao.baidu.com/builder/preview/s?id=1608836610578459632)
 
 [CVE-2018-5390：Linux内核暴SegmentSmack漏洞可导致远程DoS攻击](http://www.freebuf.com/column/180232.html)
-
-[Jenkins 任意文件读取漏洞(CVE-2018-1999002)分析](https://paper.seebug.org/648/)
-
-[Git爆递归clone严重漏洞致任意代码执行 CVE-2018-11235](http://www.freebuf.com/column/173372.html)
 
 [Meltdown & Spectre](Meltdown_Spectre.md)
 

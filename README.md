@@ -30,6 +30,8 @@
 
 ## 近期安全热点
 
+[jQuery File Upload CVE-2018-9206 ](https://www.zdnet.com/article/zero-day-in-popular-jquery-plugin-actively-exploited-for-at-least-three-years)
+
 [CVE-2018-10933 libssh登陆验证绕过漏洞 ](https://mp.weixin.qq.com/s?__biz=MzU0MTY5MzEwMA==&mid=2247484173&idx=1&sn=8debebc33d8b4cef1e868ea2f86694b1&chksm=fb2746cecc50cfd85add028c447143de0425b09f8ed851bb9149acdb2be54c82f8faeaf27ef8&mpshare=1&scene=23&srcid=1017I93ZUS5CCMYM7gHuEJU8#rd)
 
 [Git .gitmodules远程代码执行漏洞](https://seclists.org/oss-sec/2018/q4/19)

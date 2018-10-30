@@ -621,6 +621,9 @@ https://github.com/arthepsy/ssh-audit
 Python库和命令行工具，提供交互式日志可视化
 https://github.com/keithjjones/visualize_logs
 
+OSCP推出安全侦察工具，实现自动化信息收集和服务枚举，创建目录结构以存储用于每个主机的结果，发现和利用工具。
+https://github.com/codingo/Reconnoitre
+
 一个僵尸网络分析框架
 https://github.com/m4rco-/dorothy2
 
@@ -711,6 +714,9 @@ https://github.com/johnathanhowell/masterkey
 
 Hound  Git插件通过探测阻止敏感信息被push到远程公有仓库导致信息泄密
 https://github.com/ezekg/git-hound
+
+GitHub敏感信息泄露监控
+https://github.com/FeeiCN/GSIL
 
 HULK DoS工具从Python迁移到Golang
 https://github.com/grafov/hulk

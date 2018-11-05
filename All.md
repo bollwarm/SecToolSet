@@ -865,9 +865,6 @@ https://github.com/MozillaSecurity/peach
 fuddly: a fuzzing and data manipulation framework
 https://github.com/k0retux/fuddly
 
-通用，易于使用的，可自选兴趣选项分析的fuzer
-https://github.com/google/honggfuzz
-
 Kitty fuzzing框架扩展库 
 https://github.com/cisco-sas/katnip
 

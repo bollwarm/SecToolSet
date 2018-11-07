@@ -1192,6 +1192,9 @@ https://github.com/qazbnm456/awesome-cve-poc
 恶意软件脚本集 
 https://github.com/seifreed/malware-scripts
 
+Awesome XSS stuff
+https://github.com/s0md3v/AwesomeXSS
+
 一大波常见Web攻击Payloads 
 https://github.com/foospidy/payloads
 

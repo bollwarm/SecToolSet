@@ -67,8 +67,14 @@ https://github.com/78778443/permeate
 
 ### 安全竞赛 （CTF夺标大赛）
 
+google-ctf 包括2017和2018全部试题和答案
+https://github.com/google/google-ctf/
+
 HCTF2017题目及解析
 https://github.com/vidar-team/HCTF2017
+
+CTF挑战平台
+https://github.com/CTFTraining
 
 灰帽子资源集,包括CTF、密码学、Linux攻击、USB攻击、漏洞等
 https://github.com/bt3gl/My-Gray-Hacker-Resources

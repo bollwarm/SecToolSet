@@ -30,7 +30,9 @@
 
 ## 近期安全热点
 
-[Gogs 远程命令执行漏洞()分析](https://www.anquanke.com/post/id/163575)
+[Perl-Based Shellbot Looks to Target Organizations via C&C ](https://documents.trendmicro.com/assets/Perl-Based_Shellbot_Looks_to_Target_Organizations_via_C&C_appendix.pdf)
+
+[Gogs 远程命令执行漏洞分析](https://www.anquanke.com/post/id/163575)
 
 [Apple内核ICMP数据包处理缓存区溢出漏洞CVE-2018-4407](https://xz.aliyun.com/t/3115)
 

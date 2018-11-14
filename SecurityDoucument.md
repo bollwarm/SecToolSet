@@ -171,6 +171,9 @@ https://github.com/NetSecLab/Paper_for_Digital_Forensics
 渗透测试技巧
 https://github.com/xssfile/Attack-data
 
+以太坊合约审计checkList @知道创宇404区块链安全研究团队
+https://github.com/knownsec/Ethereum-Smart-Contracts-Security-CheckList
+
 Spring Security provides security services for the Spring IO Platform. Spring Security 5.0 requires Spring 5.0 as a minimum and also requires Java 8.
 https://github.com/spring-projects/spring-security
 
@@ -226,6 +229,9 @@ https://github.com/im-bug/BlockChain-Security-List
 
 比特币的最佳集合
 https://github.com/kennethreitz/awesome-coins
+
+知道创宇研发技能表
+https://github.com/knownsec/RD_Checklist
 
 architect-awesome:后端架构师技术图谱 
 https://github.com/xingshaocheng/architect-awesome

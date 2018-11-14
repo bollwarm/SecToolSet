@@ -30,6 +30,8 @@
 
 ## 近期安全热点
 
+[Gogs 远程命令执行漏洞()分析](https://www.anquanke.com/post/id/163575)
+
 [Apple内核ICMP数据包处理缓存区溢出漏洞CVE-2018-4407](https://xz.aliyun.com/t/3115)
 
 [jQuery File Upload CVE-2018-9206 ](https://www.zdnet.com/article/zero-day-in-popular-jquery-plugin-actively-exploited-for-at-least-three-years)

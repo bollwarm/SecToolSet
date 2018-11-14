@@ -104,8 +104,11 @@ https://github.com/xairy/linux-kernel-exploitation
 fuzzing框架
 https://github.com/MozillaSecurity/peach
 
-fuddly: a fuzzing and data manipulation framework
+fuddly: fuzzing和数据处理框架
 https://github.com/k0retux/fuddly
+
+基础fuzzer工具
+https://github.com/RootUp/BFuzz
 
 Kitty fuzzing框架扩展库 
 https://github.com/cisco-sas/katnip

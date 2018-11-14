@@ -1682,6 +1682,9 @@ https://github.com/Funkmyster/awesome-cloud-security
 List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc. 
 https://github.com/toniblyx/my-arsenal-of-aws-security-tools
 
+甲方企业安全建设开源之路
+https://github.com/bloodzer0/Enterprise_Security_Build--Open_Source/
+
 ## 学习资料
 
 📚 List of awesome university courses for learning Computer Science! 

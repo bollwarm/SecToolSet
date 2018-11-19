@@ -1484,7 +1484,7 @@ SSH蜜罐
 https://github.com/desaster/kippo
 
 kippo进阶版
-thttps://github.com/micheloosterhof/cowrie
+https://github.com/micheloosterhof/cowrie
 
 SMTP蜜罐
 https://github.com/awhitehatter/mailoney

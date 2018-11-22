@@ -1158,6 +1158,9 @@ https://github.com/psecio/parse
 NodeJsScan-Node.js应用静态安全代码扫码器
 https://github.com/ajinabraham/NodeJsScan
 
+proof-of-concept exploits developed by the Semmle Security Research Team. 
+https://github.com/Semmle/SecurityExploits
+
 CVE-2016-2107简单test程序
 https://github.com/FiloSottile/CVE-2016-2107
 

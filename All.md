@@ -1701,6 +1701,12 @@ https://github.com/Funkmyster/awesome-cloud-security
 List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc. 
 https://github.com/toniblyx/my-arsenal-of-aws-security-tools
 
+Cloud Custodian is a rules engine for managing public cloud accounts and resources
+https://github.com/capitalone/cloud-custodian
+
+scripts, tools, extensions, automations, for Azure subscription and resource security
+https://github.com/azsk/DevOpsKit-docs
+
 甲方企业安全建设开源之路
 https://github.com/bloodzer0/Enterprise_Security_Build--Open_Source/
 

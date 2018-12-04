@@ -27,6 +27,9 @@ https://github.com/n0tr00t/Sreg
 Github信息搜集，可实时扫描查询git最新上传有关邮箱账号密码信息
 https://github.com/sea-god/gitscan
 
+People tracker on the Internet: OSINT analysis and research tool 
+https://github.com/jofpin/trape
+
 用于MISP分类系统。
 https://github.com/MISP/misp-taxonomies
 

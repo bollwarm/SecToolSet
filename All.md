@@ -67,6 +67,9 @@ https://github.com/78778443/permeate
 
 ### 安全竞赛 （CTF夺标大赛）
 
+2018 第一届安洵杯 题目环境/源码
+https://github.com/D0g3-Lab/AXB-CTF
+
 google-ctf 包括2017和2018全部试题和答案
 https://github.com/google/google-ctf/
 
@@ -1384,6 +1387,9 @@ https://github.com/n0tr00t/Sreg
 
 Github信息搜集，可实时扫描查询git最新上传有关邮箱账号密码信息
 https://github.com/sea-god/gitscan
+
+People tracker on the Internet: OSINT analysis and research tool 
+https://github.com/jofpin/trape
 
 用于MISP分类系统。
 https://github.com/MISP/misp-taxonomies

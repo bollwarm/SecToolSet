@@ -30,9 +30,7 @@
 
 ## 近期安全热点
 
-[Perl-Based Shellbot Looks to Target Organizations via C&C ](https://documents.trendmicro.com/assets/Perl-Based_Shellbot_Looks_to_Target_Organizations_via_C&C_appendix.pdf)
-
-[Gogs 远程命令执行漏洞分析](https://www.anquanke.com/post/id/163575)
+[K8s 严重漏洞 CVE-2018-1002105,影响v1.10.11, v1.11.5, v1.12.3个系列之前的版本](https://groups.google.com/forum/#!topic/kubernetes-announce/GVllWCg6L88)
 
 [Apple内核ICMP数据包处理缓存区溢出漏洞CVE-2018-4407](https://xz.aliyun.com/t/3115)
 

@@ -30,7 +30,7 @@
 
 ## 近期安全热点
 
-[K8s 严重漏洞 CVE-2018-1002105,影响v1.10.11, v1.11.5, v1.12.3个系列之前的版本](https://groups.google.com/forum/#!topic/kubernetes-announce/GVllWCg6L88)
+[K8s 严重漏洞 CVE-2018-1002105,影响v1.10.11, v1.11.5, v1.12.3个系列之前的版本](http://baijiahao.baidu.com/builder/preview/s?id=1619154366012723622)
 
 [Apple内核ICMP数据包处理缓存区溢出漏洞CVE-2018-4407](https://xz.aliyun.com/t/3115)
 

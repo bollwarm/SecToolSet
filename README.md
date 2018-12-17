@@ -30,6 +30,8 @@
 
 ## 近期安全热点
 
+[Jenkins暴严重漏洞`CVE-2018-1999001` `CVE-2018-1999043` 普通账号可以提权到admin](https://www.zdnet.com/google-amp/article/thousands-of-jenkins-servers-will-let-anonymous-users-become-admins/)
+
 [K8s 严重漏洞 CVE-2018-1002105,影响v1.10.11, v1.11.5, v1.12.3个系列之前的版本](http://baijiahao.baidu.com/builder/preview/s?id=1619154366012723622)
 
 [Apple内核ICMP数据包处理缓存区溢出漏洞CVE-2018-4407](https://xz.aliyun.com/t/3115)

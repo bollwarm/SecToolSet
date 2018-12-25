@@ -463,6 +463,9 @@ https://github.com/stamparm/ipsum
 Windows事件日志分析及可视化，审计非法登陆
 https://github.com/JPCERTCC/LogonTracer
 
+CaptfEncoder 跨平台网络安全工具套件,提供网络安全相关编码转换、古典密码、密码学、特殊编码等工具，并聚合各类在线工具。
+https://github.com/guyoung/CaptfEncoder
+
 Symfon安全组件子库
 https://github.com/symfony/security
 

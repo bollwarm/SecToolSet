@@ -87,6 +87,9 @@ https://github.com/aol/mrcrypt
 互联网漏洞管理、资产管理、任务扫描、todoLIST 
 https://github.com/RASSec/A_Scan_Framework
 
+Open-Source Security Architecture|开源安全架构
+https://github.com/bloodzer0/ossa
+
 噪声协议的Rust语言实现
 https://github.com/mcginty/snow
 

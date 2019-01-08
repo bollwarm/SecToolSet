@@ -697,6 +697,9 @@ https://github.com/SpamScope/spamscope
 恶意代码，php shell检测工具
 https://github.com/yassineaddi/BackdoorMan
 
+一款精简版github信息泄露搜集工具 
+https://github.com/dongfangyuxiao/github_dis/
+
 安全程序和漏洞管理工具
 https://github.com/OWASP/django-DefectDojo
 
@@ -712,6 +715,9 @@ https://github.com/emposha/Shell-Detector
 
 社区驱动的Rails安全检查列表
 https://github.com/eliotsykes/rails-security-checklist
+
+radius-audit - A RADIUS authentication server audit tool
+https://github.com/ANSSI-FR/audit-radius
 
 GO HTTP中间件来推进快速安全开发
 https://github.com/unrolled/secure

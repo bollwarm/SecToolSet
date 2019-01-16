@@ -30,6 +30,8 @@
 
 ## 近期安全热点
 
+[SCP客户端现多个漏洞，可执行恶意脚本`CVE-2018-20685`,`CVE-2019-6109/6111`](http://baijiahao.baidu.com/builder/preview/s?id=1622801862898115331)
+
 [Jenkins暴严重漏洞`CVE-2018-1999001` `CVE-2018-1999043` 匿名账号可以提权到admin](https://www.zdnet.com/google-amp/article/thousands-of-jenkins-servers-will-let-anonymous-users-become-admins/)
 
 [K8s 严重漏洞 CVE-2018-1002105,影响v1.10.11, v1.11.5, v1.12.3个系列之前的版本](http://baijiahao.baidu.com/builder/preview/s?id=1619154366012723622)
@@ -43,10 +45,6 @@
 [Git .gitmodules远程代码执行漏洞](https://seclists.org/oss-sec/2018/q4/19)
 
 [2018 Blackhat 工具集](BlackHat2018.md)
-
-[Intel 最新漏洞L1 Terminal Fault](http://baijiahao.baidu.com/builder/preview/s?id=1608836610578459632)
-
-[CVE-2018-5390：Linux内核暴SegmentSmack漏洞可导致远程DoS攻击](http://www.freebuf.com/column/180232.html)
 
 [Meltdown & Spectre](Meltdown_Spectre.md)
 

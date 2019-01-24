@@ -196,9 +196,6 @@ https://github.com/future-architect/vuls
 被动式漏洞扫描系统
 https://github.com/ysrc/GourdScanV2
 
-服务弱口令检测脚本
-https://github.com/ysrc/F-Scrack
-
 MongoDB漏洞扫描器
 https://github.com/youngyangyang04/NoSQLAttack
 

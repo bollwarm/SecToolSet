@@ -1261,6 +1261,8 @@ https://github.com/zTrix/zio
 跨平台注入工具（ Inject JavaScript to explore native apps on Windows, Mac, Linux, iOS and Android.）
 https://github.com/frida/frida
 
+收集或编写各种漏洞PoC、ExP
+https://github.com/bollwarm/POC-EXP
 ## 二进制及代码分析工具：
 
 shellcode分析工具
@@ -1613,6 +1615,9 @@ https://github.com/luyg24/IT_security
 
 2013-2017年各类安全大会演讲视频集 
 https://github.com/PaulSec/awesome-sec-talks
+
+⚡️ A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers. 
+https://github.com/trimstray/the-book-of-secret-knowledge
 
 社工资源集——仅供网络安全人员、渗透测试人员在受控环境用于教育用途
 https://github.com/v2-dev/awesome-social-engineering

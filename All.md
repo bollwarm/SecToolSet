@@ -475,6 +475,10 @@ https://github.com/blacktop/virustotal-api
 新服务器的最初5分钟，用单行命令加固你的服务器 - Ansible playbook
 https://github.com/chhantyal/5minutes
 
+Red Team SIEM - easy deployable tool for Red Teams used for tracking and alarming about Blue Team activities as well as better usability in long term operations. 
+
+https://github.com/outflanknl/RedELK
+
 扩多GCP项目的防火墙加强工具集
 https://github.com/spotify/gcp-firewall-enforcer
 

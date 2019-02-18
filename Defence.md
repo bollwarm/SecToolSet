@@ -380,6 +380,9 @@ https://github.com/eliotsykes/rails-security-checklist
 radius-audit - A RADIUS authentication server audit tool
 https://github.com/ANSSI-FR/audit-radius
 
+Fathom——基于golang和Preact的简单可信的站点分析
+https://github.com/usefathom/fathom
+
 GO HTTP中间件来推进快速安全开发
 https://github.com/unrolled/secure
 

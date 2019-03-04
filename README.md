@@ -22,13 +22,13 @@
 
 ## 乌云镜像
 
-[乌云镜像](http://wooyun.jozxing.cc/)
-
 [乌云镜像](http://wooyun.webbaozi.com)
 
 [乌云镜像,河*蟹](http://wy.hx99.net/)
 
 ## 近期安全热点
+
+[大佬们对2019的信息安全预测](https://cybersecuritymag.com/cybersecurity-predictions-for-2019/)
 
 [Widows下WinRAR 等多款压缩软件爆严重代码执行漏洞](https://mbd.baidu.com/newspage/data/landingshare?context=%7B%22nid%22%3A%22news_9188401000047963513%22%2C%22sourceFrom%22%3A%22bjh%22%2C%22url_data%22%3A%22bjhauthor%22%7D)
 

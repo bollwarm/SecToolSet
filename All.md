@@ -765,6 +765,9 @@ https://github.com/bndw/pick
 一个基于浏览器端 JS 实现的在线代理 https://jsproxy.tk
 https://github.com/EtherDream/jsproxy
 
+基于EK的K8s安全监控方案
+https://github.com/k8scop/k8s-security-dashboard
+
 CloudWalker（牧云）是长亭推出的一款开源服务器安全管理平台。根据项目计划会逐步覆盖服务器资产管理、威胁扫描、Webshell 查杀、基线检测等各项功能。
 https://github.com/chaitin/cloudwalker
 

@@ -163,6 +163,9 @@ https://github.com/schubergphilis/Seccubus
 对公网IP列表进行端口服务扫描，发现周期内的端口服务变化情况和弱口令安全风险 
 https://github.com/grayddq/PublicMonitors
 
+Burp Suite的自动化盲注搜索插件 
+https://github.com/wish-i-was/femida
+
 ### 子域名爆破扫描器
 
 https://github.com/aboul3la/Sublist3r
@@ -759,6 +762,9 @@ https://github.com/kotobukki/BigDataAudit
 pick --  Linux和OS X最小化密码管理工具
 https://github.com/bndw/pick
 
+一个基于浏览器端 JS 实现的在线代理 https://jsproxy.tk
+https://github.com/EtherDream/jsproxy
+
 CloudWalker（牧云）是长亭推出的一款开源服务器安全管理平台。根据项目计划会逐步覆盖服务器资产管理、威胁扫描、Webshell 查杀、基线检测等各项功能。
 https://github.com/chaitin/cloudwalker
 
@@ -864,6 +870,9 @@ https://github.com/vanhoefm/krackattacks-scripts
 
 越过(WAF)和 XSS过滤的pyton脚本集
 https://github.com/frizb/Bypassing-Web-Application-Firewalls
+
+A scripted pipeline of tools to streamline the bug bounty/penetration test reconnaissance phase, so you can focus on chomping bugs. 
+https://github.com/SolomonSklash/chomp-scan
 
 ### Fuzz测试:
 
@@ -1756,6 +1765,9 @@ https://github.com/hellerve/programming-talks#creative-coding
 
 生信，大数据，机器学习，各种程序语言等等资源集合
 https://github.com/shenwei356/awesome
+
+中文公开聊天语料库 
+https://github.com/codemayq/chaotbot_corpus_Chinese
 
 图书配套代码 精通渗透测试机器学习
 https://github.com/PacktPublishing/Mastering-Machine-Learning-for-Penetration-Testing

@@ -47,6 +47,9 @@ https://github.com/schubergphilis/Seccubus
 对公网IP列表进行端口服务扫描，发现周期内的端口服务变化情况和弱口令安全风险 
 https://github.com/grayddq/PublicMonitors
 
+Burp Suite的自动化盲注搜索插件 
+https://github.com/wish-i-was/femida
+
 ### 子域名爆破扫描器
 
 https://github.com/aboul3la/Sublist3r

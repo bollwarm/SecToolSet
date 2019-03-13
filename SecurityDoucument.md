@@ -221,6 +221,9 @@ https://github.com/hellerve/programming-talks#creative-coding
 生信，大数据，机器学习，各种程序语言等等资源集合
 https://github.com/shenwei356/awesome
 
+中文公开聊天语料库 
+https://github.com/codemayq/chaotbot_corpus_Chinese
+
 图书配套代码 精通渗透测试机器学习
 https://github.com/PacktPublishing/Mastering-Machine-Learning-for-Penetration-Testing
 

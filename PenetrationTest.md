@@ -75,6 +75,9 @@ https://github.com/vanhoefm/krackattacks-scripts
 越过(WAF)和 XSS过滤的pyton脚本集
 https://github.com/frizb/Bypassing-Web-Application-Firewalls
 
+A scripted pipeline of tools to streamline the bug bounty/penetration test reconnaissance phase, so you can focus on chomping bugs. 
+https://github.com/SolomonSklash/chomp-scan
+
 ### Fuzz测试:
 
 DotDotPwn - 目录遍历Fuzzer(http://dotdotpwn.blogspot.com/)

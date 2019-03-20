@@ -26,3 +26,6 @@ https://github.com/Pl4gue/spectre-attack-demo
 
 360 现代CPU中的预测执行和乱序执行相关机制漏洞通告
 https://mp.weixin.qq.com/s/e_ASsDJAZ9m6wFTF865yXA
+
+CPU漏洞集
+https://github.com/houjingyi233/CPU-vulnerabiility-collections

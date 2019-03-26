@@ -777,6 +777,9 @@ https://tryingtobeawesome.com/cryptag/
 MITRE攻击框架对应的Linux Auditd 审计规则
 https://github.com/bfuzzy/auditd-attack
 
+⭐️ An anomaly-based intrusion detection system.
+https://github.com/alexfrancow/A-Detector
+
 悟空API网关 开源版
 https://github.com/eolinker/GoKu-API-Gateway
 

@@ -440,6 +440,9 @@ https://github.com/alexfrancow/A-Detector
 悟空API网关 开源版
 https://github.com/eolinker/GoKu-API-Gateway
 
+Hamburglar -- collect useful information from urls, directories, and files 
+https://github.com/needmorecowbell/Hamburglar
+
 ElkarBackup  一个基于RSync/RSnapshot的开源备份方案
 https://github.com/elkarbackup/elkarbackup
 

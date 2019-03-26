@@ -856,6 +856,9 @@ https://github.com/Manisso/fsociety
 YAWAST Web应用安全套件
 https://github.com/adamcaudill/yawast
 
+A Bind9 server for pentesters to use for Out-of-Band vulnerabilities 
+https://github.com/JuxhinDB/OOB-Server
+
 Beebeeto是由众多安全研究人员所共同维护的一个规范化POC/EXP平台
 https://github.com/n0tr00t/Beebeeto-framework
 

@@ -28,6 +28,8 @@
 
 ## 近期安全热点
 
+[WordPress主题pipdig存在安全隐患，可以发起Ddos攻击](https://www.jemjabella.co.uk/2019/security-alert-pipdig-insecure-ddosing-competitors/)
+
 [Java序列化对象：流行性调研，漏洞渗透、利用开发和安全识别](https://www.freebuf.com/column/199570.html)
 
 [大佬们对2019的信息安全预测](https://cybersecuritymag.com/cybersecurity-predictions-for-2019/)

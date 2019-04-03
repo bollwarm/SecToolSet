@@ -795,6 +795,9 @@ https://github.com/dev-sec/chef-ssh-hardening
 Nextcloud 双因子TOTP (RFC 6238)
 https://github.com/nextcloud/twofactor_totp
 
+WireGuard — 快速、现代、linux内核只带的安全VPN通道
+https://github.com/WireGuard/WireGuard
+
 Nixarmor Linux自动安全加固项目
 https://github.com/emirozer/nixarmor
 

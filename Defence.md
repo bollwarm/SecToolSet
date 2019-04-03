@@ -458,6 +458,9 @@ https://github.com/WireGuard/WireGuard
 BoringTun WireGuard® 协议的兼容性和速度性实现，支持window
 https://github.com/cloudflare/boringtun
 
+wireguard一键安装脚本 
+https://github.com/atrandys/wireguard
+
 Nixarmor Linux自动安全加固项目
 https://github.com/emirozer/nixarmor
 

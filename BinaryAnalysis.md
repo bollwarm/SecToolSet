@@ -1,5 +1,53 @@
 ## 二进制及代码分析工具：
 
+Angr
+http://angr.io/
+
+BAP
+https://github.com/BinaryAnalysisPlatform/bap
+
+Binary Ninja
+https://binary.ninja/
+
+Bistro
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.309.105&rep=rep1&type=pdf
+
+Diablo
+http://diablo.elis.ugent.be/
+
+EEL
+http://pages.cs.wisc.edu/~larus/eel.html
+
+libdetox
+https://github.com/HexHive/libdetox
+
+Macaw
+https://github.com/GaloisInc/macaw
+
+McSema
+https://github.com/trailofbits/mcsema
+
+MultiVerse
+https://github.com/utds3lab/multiverse
+
+Pharos
+https://github.com/cmu-sei/pharos
+
+PSI
+http://seclab.cs.stonybrook.edu/seclab/pubs/vee14.pdf
+
+Reins
+https://www.utdallas.edu/~zhiqiang.lin/file/ACSAC12.pdf
+
+Shuffler
+https://www.usenix.org/system/files/conference/osdi16/osdi16-williams-king.pdf
+
+IRDB
+https://git.zephyr-software.com/opensrc/irdb-cookbook-examples
+
+Uroboros
+https://github.com/s3team/uroboros
+
 shellcode分析工具
 https://github.com/suraj-root/smap/
 

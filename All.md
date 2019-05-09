@@ -409,6 +409,9 @@ https://github.com/bollwarm/App-Waf
 基于区块链的AUR安全层
 https://github.com/clawoflight/aursec
 
+Secure and fast microVMs for serverless computing.
+https://github.com/firecracker-microvm/firecracker
+
 Secrets bridge - Docker 构建时安全 
 https://github.com/abourget/secrets-bridge
 

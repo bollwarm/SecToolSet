@@ -90,6 +90,9 @@ https://github.com/PaulSec/awesome-sec-talks
 ⚡️ A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers. 
 https://github.com/trimstray/the-book-of-secret-knowledge
 
+关于网络安全相关的RSS订阅，情报来源和日常知识库更新:
+https://github.com/zer0yu/CyberSecurityRSS
+
 社工资源集——仅供网络安全人员、渗透测试人员在受控环境用于教育用途
 https://github.com/v2-dev/awesome-social-engineering
 

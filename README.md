@@ -28,6 +28,8 @@
 
 ## 近期安全热点
 
+[eyeDisk虹膜加密U盘也没有那么安全](https://www.pentestpartners.com/security-blog/eyedisk-hacking-the-unhackable-again/)
+
 [WordPress最大主题之一pipdig 存安全隐患，可以发起Ddos攻击对手](https://www.jemjabella.co.uk/2019/security-alert-pipdig-insecure-ddosing-competitors/)
 
 [Java序列化对象：流行性调研，漏洞渗透、利用开发和安全识别](https://www.freebuf.com/column/199570.html)
@@ -39,8 +41,6 @@
 [SCP客户端现多个漏洞，可执行恶意脚本`CVE-2018-20685`,`CVE-2019-6109/6111`](http://baijiahao.baidu.com/builder/preview/s?id=1622801862898115331)
 
 [Jenkins暴严重漏洞`CVE-2018-1999001` `CVE-2018-1999043` 匿名账号可以提权到admin](https://www.zdnet.com/google-amp/article/thousands-of-jenkins-servers-will-let-anonymous-users-become-admins/)
-
-[K8s 严重漏洞 CVE-2018-1002105,影响v1.10.11, v1.11.5, v1.12.3个系列之前的版本](http://baijiahao.baidu.com/builder/preview/s?id=1619154366012723622)
 
 [2018 Blackhat 工具集](BlackHat2018.md)
 

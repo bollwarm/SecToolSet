@@ -28,6 +28,8 @@
 
 ## 近期安全热点
 
+[微软远程桌面漏洞影响WindowsXP、Win7、Win2003、Win2008](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0708)
+
 [eyeDisk虹膜加密U盘也没有那么安全](https://www.pentestpartners.com/security-blog/eyedisk-hacking-the-unhackable-again/)
 
 [WordPress最大主题之一pipdig 存安全隐患，可以发起Ddos攻击对手](https://www.jemjabella.co.uk/2019/security-alert-pipdig-insecure-ddosing-competitors/)

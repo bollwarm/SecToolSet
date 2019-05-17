@@ -3,8 +3,11 @@
 Black Hat Arsenal 官方工具仓库
 https://github.com/toolswatch/blackhat-arsenal-tools
 
-windows漏洞利用相关整理
-https://github.com/enddo/awesome-windows-exploitation
+windows渗透工具集合
+https://github.com/Hack-with-Github/Windows
+
+windows最佳渗透指南
+https://github.com/yeyintminthuhtut/Awesome-Advanced-Windows-Exploitation-References
 
 从内存中提取敏感信息的工具
 https://github.com/putterpanda/mimikittenz

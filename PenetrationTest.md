@@ -85,6 +85,10 @@ https://github.com/frizb/Bypassing-Web-Application-Firewalls
 A scripted pipeline of tools to streamline the bug bounty/penetration test reconnaissance phase, so you can focus on chomping bugs. 
 https://github.com/SolomonSklash/chomp-scan
 
+MSTG-手机应用安全开发、测试、反向工程详细手册。
+https://github.com/OWASP/owasp-mstg
+
+
 ### Fuzz测试:
 
 DotDotPwn - 目录遍历Fuzzer(http://dotdotpwn.blogspot.com/)

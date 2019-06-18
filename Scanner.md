@@ -50,6 +50,10 @@ https://github.com/grayddq/PublicMonitors
 Burp Suite的自动化盲注搜索插件 
 https://github.com/wish-i-was/femida
 
+综合扫描工具，主要用来敏感文件探测(目录扫描与js泄露接口)，WAF/CDN识别，端口扫描，
+指纹/服务识别，操作系统识别，弱口令探测，POC扫描，SQL注入，绕过CDN，查询旁站等功能
+https://github.com/al0ne/Vxscan
+
 ### 子域名爆破扫描器
 
 https://github.com/aboul3la/Sublist3r

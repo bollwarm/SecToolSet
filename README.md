@@ -28,7 +28,9 @@
 
 ## 近期安全热点
 
-[漏洞预警】Weblogic最新反序列化远程命令执行漏洞(绕过 CVE-2019-2725 补丁)](https://nosec.org/home/detail/2711.html)
+[Linux 内核报TCP SACK漏洞 CVE-2019-11477/78/79，请尽快处理](https://mbd.baidu.com/newspage/data/landingshare?pageType=1&isBdboxFrom=1&context=%20%7B%22nid%22%3A%22news_9327191446434225282%22%2C%22sourceFrom%22%3A%22bjh%22%7D)
+
+[漏洞预警Weblogic最新反序列化远程命令执行漏洞(绕过 CVE-2019-2725 补丁)](https://nosec.org/home/detail/2711.html)
 
 [微软远程桌面漏洞影响WindowsXP、Win7、Win2003、Win2008](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0708)
 

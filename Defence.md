@@ -244,6 +244,9 @@ https://github.com/jipegit/OSXAuditor
 六道 —— 实时业务风控系统
 https://github.com/ysrc/Liudao
 
+Aswan——陌陌风控系统静态规则引擎，零基础简易便捷的配置多种复杂规则，实时高效管控用户异常行为。 
+https://github.com/momosecurity/aswan
+
 360数据库流量审计MySQL Sniffer
 https://github.com/Qihoo360/mysql-sniffer
 

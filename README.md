@@ -28,6 +28,8 @@
 
 ## 近期安全热点
 
+[漏洞预警】Weblogic最新反序列化远程命令执行漏洞(绕过 CVE-2019-2725 补丁)](https://nosec.org/home/detail/2711.html)
+
 [微软远程桌面漏洞影响WindowsXP、Win7、Win2003、Win2008](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0708)
 
 [eyeDisk虹膜加密U盘也没有那么安全](https://www.pentestpartners.com/security-blog/eyedisk-hacking-the-unhackable-again/)
@@ -42,7 +44,6 @@
 
 [SCP客户端现多个漏洞，可执行恶意脚本`CVE-2018-20685`,`CVE-2019-6109/6111`](http://baijiahao.baidu.com/builder/preview/s?id=1622801862898115331)
 
-[Jenkins暴严重漏洞`CVE-2018-1999001` `CVE-2018-1999043` 匿名账号可以提权到admin](https://www.zdnet.com/google-amp/article/thousands-of-jenkins-servers-will-let-anonymous-users-become-admins/)
 
 [2018 Blackhat 工具集](BlackHat2018.md)
 

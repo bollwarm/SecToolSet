@@ -67,6 +67,9 @@ https://github.com/78778443/permeate
 
 ### 安全竞赛 （CTF夺标大赛）
 
+Google2019CTF web 解题思路
+https://xz.aliyun.com/t/5503
+
 2018 第一届安洵杯 题目环境/源码
 https://github.com/D0g3-Lab/AXB-CTF
 

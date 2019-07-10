@@ -1645,6 +1645,35 @@ https://github.com/mushorg/conpot
 MongoDB代理蜜罐
 https://github.com/Plazmaz/MongoDB-HoneyProxy
 
+T-Pot：多蜜罐平台，可视化分析。
+https://github.com/dtag-dev-sec/tpotce/
+
+opencanary_web：蜜罐的网络管理平台。
+https://github.com/p1r06u3/opencanary_web
+
+Honeyd:一个小型守护进程，可以在网络上创建虚拟主机。
+http://www.honeyd.org/
+
+Glastopf Python Web应用程序蜜罐。
+https://github.com/mushorg/glastopf
+
+Cowrie ：一种中等交互式SSH和Telnet蜜罐，用于记录暴力攻击和攻击者执行的shell交互。
+https://github.com/cowrie/cowrie
+
+Kippo：一个中等交互式SSH蜜罐，用于记录暴力攻击，最重要的是，攻击者执行的整个shell交互。
+https://github.com/desaster/kippo
+
+Dionaea：一个低交互的蜜罐，能够模拟FTP/HTTP/MSSQL/MYSQL/SMB等服务。
+https://github.com/DinoTools/dionaea
+
+onpot：一个ICS蜜罐，其目标是收集有关针对工业控制系统的敌人的动机和方法的情报。
+https://github.com/mushorg/conpot
+
+Wordpot：一个Wordpress蜜罐，可以检测用于指纹wordpress安装的插件，主题，timthumb和其他常用文件的探针。
+https://github.com/gbrindisi/wordpot
+
+Shockpot：针对CVE-2014-6271的一个Web应蜜罐，用于发现针对Bash远程代码漏洞的攻击者。
+https://github.com/threatstream/shockpot
 # 安全文档资料
 
 Awesome-Hacking黑客、渗透，安全研究文档集

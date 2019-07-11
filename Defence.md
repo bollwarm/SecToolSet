@@ -99,6 +99,9 @@ https://github.com/mcginty/snow
 DigSig-ng 一个linux内核安全模块，为ELF可执行程序和共享库提供RSA数字签名验证
 https://github.com/digsig-ng/linux-digsig
 
+开源安全项目清单
+https://github.com/Bypass007/Safety-Project-Collection
+
 DevSec MySQL安全基线  http://dev-sec.io/
 https://github.com/dev-sec/mysql-baseline
 

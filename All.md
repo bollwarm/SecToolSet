@@ -1680,6 +1680,9 @@ https://github.com/gbrindisi/wordpot
 
 Shockpot：针对CVE-2014-6271的一个Web应蜜罐，用于发现针对Bash远程代码漏洞的攻击者。
 https://github.com/threatstream/shockpot
+
+对开源蜜罐的学习研究与理解 
+https://github.com/XiaoXiaoGuaiXiaShi/OpenSource-HoneyPot
 # 安全文档资料
 
 Awesome-Hacking黑客、渗透，安全研究文档集

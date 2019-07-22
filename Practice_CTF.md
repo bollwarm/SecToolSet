@@ -83,7 +83,7 @@ CTF挑战平台
 https://github.com/CTFTraining
 
 灰帽子资源集,包括CTF、密码学、Linux攻击、USB攻击、漏洞等
-https://github.com/bt3gl/My-Gray-Hacker-Resources
+https://github.com/bt3gl/Gray-Hacker-Resources
 
 CTF和安全工具大合集
 https://github.com/zardus/ctf-tools

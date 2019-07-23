@@ -1002,6 +1002,84 @@ https://github.com/Russell91/sshrc
 Chat over SSH
 https://github.com/shazow/ssh-chat
 
+AFL—支持源码插桩的代码覆盖引导的Fuzzer，绝对是fuzzer领域的一大里程碑，虽然它也支持基于QEMU的闭源程序，但效果不好，且容易出错，由它衍生出来非常多afl分支版本，借助它已经被挖出非常多的漏洞，但它的变异策略其实有待提高。
+http://lcamtuf.coredump.cx/afl/
+
+WinAFL—windows版本的afl，使用DynamoRIO去插桩闭源程序以获取代码覆盖率信息，同时支持硬件PT获取覆盖率信息，但PT获取覆盖率其实并没有插桩获取得全，但速度可能会快一些。
+https://github.com/googleprojectzero/winafl
+
+AFLFast—加速版的AFL，Fuzzing速度确实会比原版快一些。
+https://github.com/mboehme/aflfast
+
+Vuzzer—支持闭源程序的覆盖引导Fuzzer，使用LibDFT的pin工具实现数据流追踪，结合动静态分析，以获取更多的代码路径，比如比较语句中的比较值，它会先作记录，再未来变异时使用。
+https://github.com/vusec/vuzzer
+
+PTfuzzer—Linux平台下的采用 Interl PT硬件支持的覆盖引导Fuzzer，所以它支持闭源程序。
+https://github.com/hunter-ht-2018/ptfuzzer
+
+afl-unicorn—采用Unicorn模拟指令的AFL，支持Linux闭源程序
+https://github.com/tigerpuma/Afl_unicorn
+
+pe-afl—通过静态插桩实现针对Windows闭源程序的覆盖引导的AFL Fuzzer，支持用户层应用和内核驱动
+https://github.com/wmliang/pe-afl
+
+kAFL—支持QEMU虚拟机下的系统内核Fuzzing的AFL，适用于Linux、macOS与Windows
+https://github.com/RUB-SysSec/kAFL/
+
+TriforceAFL—基于QEMU全系统模拟的AFL，借助系统仿真器实现分支信息跟踪，支持Linux内核Fuzzing
+https://github.com/nccgroup/TriforceAFL
+
+ClusterFuzzer—Google开源的可扩展的Fuzzing基础设施
+https://github.com/google/clusterfuzz
+
+LibFuzzer—进程内覆盖率引导的开源的fuzz引擎库，属于llvm的一部分，在各大主流开源库中，以及Google内部最经常用的安全测试工具
+https://llvm.org/docs/LibFuzzer.html
+
+OSS-Fuzz—基于LibFuzzer的开源软件Fuzzer集合，实现docker下自动下载、编译安装及运行
+https://github.com/google/oss-fuzz
+
+honggfuzz—Google开发的基于软硬件的覆盖驱动型Fuzzer，单纯暴力Fuzz的效果也挺好的，支持多平台，包括Linux\macOS\Windows\Android
+https://github.com/google/honggfuzz
+
+KernelFuzzer—跨平台内核Fuzzer框架，不开源策略，只在其paper中提及变异策略，需要自己实现，支持Windows、OSX和QNX系统，但只提供Windows编译脚本
+https://github.com/mwrlabs/KernelFuzzer
+
+OSXFuzzer—基于Kernel Fuzzer的macOS内核Fuzzer
+https://github.com/mwrlabs/OSXFuzz.git
+
+PassiveFuzzFrameworkOSX—通过Hook实现被动式的OSX内核Fuzzer
+https://github.com/SilverMoonSecurity/PassiveFuzzFrameworkOSX
+
+Bochspwn—基于Boch插桩API实现Double Fetches内核漏洞的检测
+https://github.com/googleprojectzero/bochspwn
+
+Bochspwn-reloaded—基于Boch插桩API实现内核信息泄露的检测
+https://github.com/googleprojectzero/bochspwn-reloaded
+
+syzkaller—基于覆盖率引导的Linux内核Fuzzer，需要基于其模板语法实现API调用模板，提供给syzkaller进行数据变异，也曾被移植到其它平台
+https://github.com/google/syzkaller
+
+dharma—基于语法模板生成的Fuzzer，由Mozilla开源的用于Fuzz Firefox JS引擎
+https://github.com/MozillaSecurity/dharma
+
+domator—Project Zero团队开源的DOM Fuzzer，用python实现基于模板生成的Fuzzer
+https://github.com/googleprojectzero/domato
+
+Fuzzilli—基于语法变异的JavaScript引擎Fuzzer，先通过语法模板生成测试用例，再生成中间语法进行变异，结合覆盖率引导以触发更多代码路径
+https://github.com/googleprojectzero/fuzzilli
+
+Razzer—内核竞争条件漏洞Fuzzer
+https://github.com/compsec-snu/razzer
+
+ViridianFuzzer—用于Fuzzing Hyper-V hypercalls的内核驱动，由MWRLabs公司出品
+https://github.com/mwrlabs/ViridianFuzzer
+
+ChromeFuzzer—基于grinder语法生成器改装的Chrome浏览器Fuzzer
+https://github.com/demi6od/ChromeFuzzer
+
+funfuzz—Mozilla开源的JS fuzzer工具集合，主要用于Fuzz SpiderMonkey
+https://github.com/MozillaSecurity/funfuzz
+
 ### WEB渗透:
 
 webshell大合集

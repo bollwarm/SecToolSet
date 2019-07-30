@@ -1,5 +1,8 @@
 ## 二进制及代码分析工具：
 
+吾爱破解论坛【爱盘】3.0 在线破解工具包
+https://github.com/ganlvtech/down_52pojie_cn
+
 Angr
 http://angr.io/
 

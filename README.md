@@ -28,6 +28,8 @@
 
 ## 近期安全热点
 
+[CVE-2019-10173 Xstream 远程代码执行漏洞](http://www.polaris-lab.com/index.php/archives/658/)
+
 [Linux 内核报TCP SACK漏洞 CVE-2019-11477/78/79，请尽快处理](https://mbd.baidu.com/newspage/data/landingshare?pageType=1&isBdboxFrom=1&context=%20%7B%22nid%22%3A%22news_9327191446434225282%22%2C%22sourceFrom%22%3A%22bjh%22%7D)
 
 [漏洞预警Weblogic最新反序列化远程命令执行漏洞(绕过 CVE-2019-2725 补丁)](https://nosec.org/home/detail/2711.html)
@@ -43,9 +45,6 @@
 [大佬们对2019的信息安全预测](https://cybersecuritymag.com/cybersecurity-predictions-for-2019/)
 
 [Widows下WinRAR 等多款压缩软件爆严重代码执行漏洞](https://mbd.baidu.com/newspage/data/landingshare?context=%7B%22nid%22%3A%22news_9188401000047963513%22%2C%22sourceFrom%22%3A%22bjh%22%2C%22url_data%22%3A%22bjhauthor%22%7D)
-
-[SCP客户端现多个漏洞，可执行恶意脚本`CVE-2018-20685`,`CVE-2019-6109/6111`](http://baijiahao.baidu.com/builder/preview/s?id=1622801862898115331)
-
 
 [2018 Blackhat 工具集](BlackHat2018.md)
 

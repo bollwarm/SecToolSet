@@ -17,6 +17,9 @@ https://github.com/gh0stkey/DoraBox
  一个功能很全的CTF平台
 https://github.com/zjlywjh001/PhrackCTF-Platform-Team
 
+针对Pentest或者CTF的一个fuzz payload项目。
+https://github.com/zer0yu/Berserker
+
 upload-labs很全的上传上传漏洞的靶场
 https://github.com/c0ny1/upload-labs
 
@@ -135,6 +138,9 @@ https://github.com/SkyLined/LocalNetworkScanner
 
 子域名扫描工具
 https://github.com/lijiejie/subDomainsBrute
+
+OneForAll是一款功能强大的子域收集工具
+https://github.com/shmilylty/OneForAll
 
 BBScan是一个迷你的信息泄漏批量扫描脚本
 https://github.com/lijiejie/BBScan
@@ -1755,6 +1761,9 @@ https://github.com/DinoTools/dionaea
 
 onpot：一个ICS蜜罐，其目标是收集有关针对工业控制系统的敌人的动机和方法的情报。
 https://github.com/mushorg/conpot
+
+扩展企业安全测试主动诱导型蜜罐框架系统 
+https://gitee.com/lauix/HFish
 
 Wordpot：一个Wordpress蜜罐，可以检测用于指纹wordpress安装的插件，主题，timthumb和其他常用文件的探针。
 https://github.com/gbrindisi/wordpot

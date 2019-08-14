@@ -17,6 +17,9 @@ https://github.com/SkyLined/LocalNetworkScanner
 子域名扫描工具
 https://github.com/lijiejie/subDomainsBrute
 
+OneForAll是一款功能强大的子域收集工具
+https://github.com/shmilylty/OneForAll
+
 BBScan是一个迷你的信息泄漏批量扫描脚本
 https://github.com/lijiejie/BBScan
 

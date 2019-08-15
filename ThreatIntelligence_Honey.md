@@ -183,7 +183,7 @@ onpot：一个ICS蜜罐，其目标是收集有关针对工业控制系统的敌
 https://github.com/mushorg/conpot
 
 扩展企业安全测试主动诱导型蜜罐框架系统 
-https://gitee.com/lauix/HFish
+https://github.com/hacklcx/HFish
 
 Wordpot：一个Wordpress蜜罐，可以检测用于指纹wordpress安装的插件，主题，timthumb和其他常用文件的探针。
 https://github.com/gbrindisi/wordpot

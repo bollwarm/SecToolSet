@@ -28,6 +28,8 @@
 
 ## 近期安全热点
 
+[CVE-2019-14378 QEMU VM Escape严重漏洞，影响KVM等QEMU为后端的虚拟平台](https://blog.bi0s.in/2019/08/24/Pwn/VM-Escape/2019-07-29-qemu-vm-escape-cve-2019-14378/)
+
 [CVE-2019-10173 Xstream 远程代码执行漏洞](http://www.polaris-lab.com/index.php/archives/658/)
 
 [Linux 内核报TCP SACK漏洞 CVE-2019-11477/78/79，请尽快处理](https://mbd.baidu.com/newspage/data/landingshare?pageType=1&isBdboxFrom=1&context=%20%7B%22nid%22%3A%22news_9327191446434225282%22%2C%22sourceFrom%22%3A%22bjh%22%7D)
@@ -43,8 +45,6 @@
 [Java序列化对象：流行性调研，漏洞渗透、利用开发和安全识别](https://www.freebuf.com/column/199570.html)
 
 [大佬们对2019的信息安全预测](https://cybersecuritymag.com/cybersecurity-predictions-for-2019/)
-
-[Widows下WinRAR 等多款压缩软件爆严重代码执行漏洞](https://mbd.baidu.com/newspage/data/landingshare?context=%7B%22nid%22%3A%22news_9188401000047963513%22%2C%22sourceFrom%22%3A%22bjh%22%2C%22url_data%22%3A%22bjhauthor%22%7D)
 
 [2018 Blackhat 工具集](BlackHat2018.md)
 

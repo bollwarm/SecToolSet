@@ -20,6 +20,9 @@ https://github.com/zjlywjh001/PhrackCTF-Platform-Team
 针对Pentest或者CTF的一个fuzz payload项目。
 https://github.com/zer0yu/Berserker
 
+Web安全实战：日安全-Web安全攻防小组关于Web安全的系列文章分享和HTB靶场
+https://github.com/hongriSec/Web-Security-Attack
+
 upload-labs很全的上传上传漏洞的靶场
 https://github.com/c0ny1/upload-labs
 

@@ -28,6 +28,8 @@
 
 ## 近期安全热点
 
+[facebook又爆出大量(数亿)用户隐私数据泄露](https://techcrunch.com/2019/09/04/facebook-phone-numbers-exposed/)
+
 [CVE-2019-14378 QEMU VM Escape严重漏洞，影响KVM等QEMU为后端的虚拟平台](https://blog.bi0s.in/2019/08/24/Pwn/VM-Escape/2019-07-29-qemu-vm-escape-cve-2019-14378/)
 
 [CVE-2019-10173 Xstream 远程代码执行漏洞](http://www.polaris-lab.com/index.php/archives/658/)

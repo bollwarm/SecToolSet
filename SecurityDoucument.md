@@ -66,6 +66,9 @@ https://github.com/smartFlash/pySecurity
 域渗透学习笔记
 https://github.com/uknowsec/Active-Directory-Pentest-Notes
 
+渗透测试文档https://ptestmethod.readthedocs.io/en/latest/
+https://github.com/Maximevilla/PtestMethod
+
 data_hacking合集
 https://github.com/ClickSecurity/data_hacking
 

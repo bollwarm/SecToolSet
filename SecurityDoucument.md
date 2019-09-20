@@ -63,6 +63,9 @@ https://github.com/l3m0n/pentest_study
 python security教程（原文链接http//www.primalsecurity.net/tutorials/python-tutorials/)
 https://github.com/smartFlash/pySecurity
 
+域渗透学习笔记
+https://github.com/uknowsec/Active-Directory-Pentest-Notes
+
 data_hacking合集
 https://github.com/ClickSecurity/data_hacking
 

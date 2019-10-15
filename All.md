@@ -494,6 +494,9 @@ https://github.com/JPCERTCC/LogonTracer
 CaptfEncoder 跨平台网络安全工具套件,提供网络安全相关编码转换、古典密码、密码学、特殊编码等工具，并聚合各类在线工具。
 https://github.com/guyoung/CaptfEncoder
 
+PowerShell模糊处理检测框架
+https://github.com/danielbohannon/Revoke-Obfuscation
+
 Symfon安全组件子库
 https://github.com/symfony/security
 
@@ -933,6 +936,8 @@ https://github.com/SolomonSklash/chomp-scan
 MSTG-手机应用安全开发、测试、反向工程详细手册。
 https://github.com/OWASP/owasp-mstg
 
+Venom是一款为渗透测试人员设计的使用Go开发的多级代理工具
+https://github.com/Dliv3/Venom
 
 ### Fuzz测试:
 
@@ -1867,6 +1872,9 @@ https://github.com/veficos/reverse-engineering-for-beginners
 
 一些信息安全标准及设备配置
 https://github.com/luyg24/IT_security
+
+PENTESTING-BIBLE: hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.
+https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLEhttps://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE
 
 分享在建设安全管理体系、ISO27001、等级保护、安全评审过程中的点点滴滴
 https://github.com/ym2011/SecurityManagement

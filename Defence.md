@@ -129,6 +129,9 @@ https://github.com/JPCERTCC/LogonTracer
 CaptfEncoder 跨平台网络安全工具套件,提供网络安全相关编码转换、古典密码、密码学、特殊编码等工具，并聚合各类在线工具。
 https://github.com/guyoung/CaptfEncoder
 
+PowerShell模糊处理检测框架
+https://github.com/danielbohannon/Revoke-Obfuscation
+
 Symfon安全组件子库
 https://github.com/symfony/security
 

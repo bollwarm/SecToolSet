@@ -90,6 +90,9 @@ https://github.com/veficos/reverse-engineering-for-beginners
 一些信息安全标准及设备配置
 https://github.com/luyg24/IT_security
 
+PENTESTING-BIBLE: hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.
+https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLEhttps://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE
+
 分享在建设安全管理体系、ISO27001、等级保护、安全评审过程中的点点滴滴
 https://github.com/ym2011/SecurityManagement
 

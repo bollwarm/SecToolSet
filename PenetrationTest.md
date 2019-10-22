@@ -147,6 +147,9 @@ https://github.com/MozillaSecurity/fuzzdata
 WebFuzz工具
 https://github.com/xmendez/wfuzz
 
+coverage guided fuzz testing for javascript
+https://github.com/fuzzitdev/jsfuzz
+
 web fuzz
 https://github.com/henshin/filebuster
 

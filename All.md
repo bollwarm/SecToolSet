@@ -516,6 +516,9 @@ https://github.com/outflanknl/RedELK
 扩多GCP项目的防火墙加强工具集
 https://github.com/spotify/gcp-firewall-enforcer
 
+3600Kee团队的域安全入侵感知系统
+https://github.com/0Kee-Team/WatchAD
+
 Linux安全基线，支持puppet、chef和Ansible做安全加固 - InSpec Profile http://dev-sec.io/
 https://github.com/dev-sec/linux-baseline
 
@@ -549,7 +552,7 @@ https://github.com/v1s1t0r1sh3r3/airgeddon
 Laravel网页认证访问
 https://github.com/spatie/laravel-littlegatekeeper
 
-niginx安全配置chef bookbook
+nginx安全配置chef bookbook
 https://github.com/dev-sec/chef-nginx-hardening
 
 proxy poc implementation of STARTTLS stripping attacks 

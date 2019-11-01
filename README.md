@@ -28,6 +28,8 @@
 
 ## 近期安全热点
 
+[关于Apache Solr 远程执行漏洞的预警](https://www.toutiao.com/i6754166946846999043/)
+
 [关于Linux Sudo userID提权漏洞CVE-2019-14287的预警](https://www.toutiao.com/i6748227458580873731/)
 
 [facebook又爆出大量(数亿)用户隐私数据泄露](https://techcrunch.com/2019/09/04/facebook-phone-numbers-exposed/)
@@ -43,8 +45,6 @@
 [微软远程桌面漏洞影响WindowsXP、Win7、Win2003、Win2008](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0708)
 
 [eyeDisk虹膜加密U盘也没有那么安全](https://www.pentestpartners.com/security-blog/eyedisk-hacking-the-unhackable-again/)
-
-[WordPress最大主题之一pipdig 存安全隐患，可以发起Ddos攻击对手](https://www.jemjabella.co.uk/2019/security-alert-pipdig-insecure-ddosing-competitors/)
 
 [Java序列化对象：流行性调研，漏洞渗透、利用开发和安全识别](https://www.freebuf.com/column/199570.html)
 

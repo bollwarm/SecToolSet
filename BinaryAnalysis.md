@@ -156,3 +156,19 @@ https://github.com/01org/cc-oci-runtime
 ICS Security Tools, Tips, and Trade
 https://github.com/ITI/ICS-Security-Tools
 
+###  移动APP安全扫描
+
+Mobile Security Framework 是一个自动化的移动app安全测试工具，支持Android、iOS和Windows应用，能够进行静态、动态分析以及web API测试
+https://github.com/MobSF/Mobile-Security-Framework-MobSF
+
+MobSF HackingLab定制中文版
+https://github.com/HackingLab/MobileSF
+
+APEiD 用于安卓应用编译，打包，封隔器，保护器，混淆器等
+https://github.com/rednaga/APKiD
+
+QARK linkedin 开源的安卓应用程序源代码安全漏洞分析工具
+https://github.com/linkedin/qark
+
+Drozer FSecureLABS开源的一个全面的Android安全评估框架
+https://github.com/FSecureLABS/drozer

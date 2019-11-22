@@ -132,6 +132,9 @@ https://github.com/cisco-sas/katnip
 Fuzzer API接口，通过可以用通用的渗透技术和漏洞列表进行fuzz请求
 https://github.com/lalithr95/API-fuzzer
 
+Java的fuzz测试覆盖率指导
+https://github.com/fuzzitdev/javafuzz
+
 找出文件系统存存储的加密文件
 https://github.com/antagon/TCHunt-ng
 

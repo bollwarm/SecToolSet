@@ -28,6 +28,8 @@
 
 ## 近期安全热点
 
+[Docker cp 严重漏洞](https://unit42.paloaltonetworks.com/docker-patched-the-most-severe-copy-vulnerability-to-date-with-cve-2019-14271/)
+
 [关于Apache Solr 远程执行漏洞的预警](https://www.toutiao.com/i6754166946846999043/)
 
 [关于Linux Sudo userID提权漏洞CVE-2019-14287的预警](https://www.toutiao.com/i6748227458580873731/)

@@ -61,6 +61,9 @@ https://github.com/JuxhinDB/OOB-Server
 Beebeeto是由众多安全研究人员所共同维护的一个规范化POC/EXP平台
 https://github.com/n0tr00t/Beebeeto-framework
 
+cloudflare基于nmap打包的一个轻量漏洞扫描系统
+https://github.com/cloudflare/flan
+
 一个用Node.js编写的Web安全测试框架
 https://github.com/zhuyingda/veneno
 

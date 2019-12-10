@@ -27,6 +27,7 @@
 [乌云镜像,河*蟹](http://wy.hx99.net/)
 
 ## 近期安全热点
+[OpenBSD 爆认证绕过和权限提升漏洞CVE-2019-19519~22](https://www.openwall.com/lists/oss-security/2019/12/04/5)
 
 [Docker cp 严重漏洞 CVE-2019-14271](https://www.toutiao.com/a6763809414072779278/)
 

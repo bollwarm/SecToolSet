@@ -27,6 +27,9 @@
 [乌云镜像,河*蟹](http://wy.hx99.net/)
 
 ## 近期安全热点
+
+[SHA-1被完全冲撞突破：使用选择前缀碰撞攻击可以成功突破PGP信任网络 ](https://www.freebuf.com/column/225015.html)
+
 [OpenBSD 爆认证绕过和权限提升漏洞CVE-2019-19519~22](https://www.openwall.com/lists/oss-security/2019/12/04/5)
 
 [Docker cp 严重漏洞 CVE-2019-14271](https://www.toutiao.com/a6763809414072779278/)
@@ -50,8 +53,6 @@
 [eyeDisk虹膜加密U盘也没有那么安全](https://www.pentestpartners.com/security-blog/eyedisk-hacking-the-unhackable-again/)
 
 [Java序列化对象：流行性调研，漏洞渗透、利用开发和安全识别](https://www.freebuf.com/column/199570.html)
-
-[大佬们对2019的信息安全预测](https://cybersecuritymag.com/cybersecurity-predictions-for-2019/)
 
 [2018 Blackhat 工具集](BlackHat2018.md)
 

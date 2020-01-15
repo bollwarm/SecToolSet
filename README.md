@@ -28,6 +28,8 @@
 
 ## 近期安全热点
 
+[Windows暴露严重安全漏洞CVE-2020-0601，影响关键加密功能](https://www.toutiao.com/i6782003516564046347/)
+
 [SHA-1被完全冲撞突破：使用选择前缀碰撞攻击可以成功突破PGP信任网络 ](https://www.freebuf.com/column/225015.html)
 
 [OpenBSD 爆认证绕过和权限提升漏洞CVE-2019-19519~22](https://www.openwall.com/lists/oss-security/2019/12/04/5)
@@ -49,8 +51,6 @@
 [漏洞预警Weblogic最新反序列化远程命令执行漏洞(绕过 CVE-2019-2725 补丁)](https://nosec.org/home/detail/2711.html)
 
 [微软远程桌面漏洞影响WindowsXP、Win7、Win2003、Win2008](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0708)
-
-[eyeDisk虹膜加密U盘也没有那么安全](https://www.pentestpartners.com/security-blog/eyedisk-hacking-the-unhackable-again/)
 
 [Java序列化对象：流行性调研，漏洞渗透、利用开发和安全识别](https://www.freebuf.com/column/199570.html)
 

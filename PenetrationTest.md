@@ -88,6 +88,9 @@ https://github.com/frizb/Bypassing-Web-Application-Firewalls
 A scripted pipeline of tools to streamline the bug bounty/penetration test reconnaissance phase, so you can focus on chomping bugs. 
 https://github.com/SolomonSklash/chomp-scan
 
+Hackazon is a free, vulnerable test site that is an online storefront built with the same technologies used in today’s rich client and mobile applications
+https://github.com/rapid7/hackazon
+
 MSTG-手机应用安全开发、测试、反向工程详细手册。
 https://github.com/OWASP/owasp-mstg
 

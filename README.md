@@ -28,6 +28,8 @@
 
 ## 近期安全热点
 
+[2019勒索病毒专题报告](https://mp.weixin.qq.com/s/DzfUlKXkkMuBJS0UrdboSw)
+
 [Windows暴露严重安全漏洞CVE-2020-0601，影响关键加密功能](https://www.toutiao.com/i6782003516564046347/)
 
 [SHA-1被完全冲撞突破：使用选择前缀碰撞攻击可以成功突破PGP信任网络 ](https://www.freebuf.com/column/225015.html)

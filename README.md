@@ -28,6 +28,8 @@
 
 ## 近期安全热点
 
+[Tomcat AJP协议漏洞 CVE-2020-1938](https://www.freebuf.com/column/227973.html)
+
 [2019勒索病毒专题报告](https://mp.weixin.qq.com/s/DzfUlKXkkMuBJS0UrdboSw)
 
 [Windows暴露严重安全漏洞CVE-2020-0601，影响关键加密功能](https://www.toutiao.com/i6782003516564046347/)

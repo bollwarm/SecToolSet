@@ -77,6 +77,9 @@ https://github.com/78778443/permeate
 基于Docker-Compose的漏洞预构建环境https://vulhub.org
 https://github.com/vulhub/vulhub
 
+ackazon是一个免费的，漏洞测试在线web站点，其构建方式与当今的富客户端和移动应用程序中使用的技术相同。
+https://github.com/rapid7/hackazon
+
 ### 安全竞赛 （CTF夺标大赛）
 
 Google2019CTF web 解题思路

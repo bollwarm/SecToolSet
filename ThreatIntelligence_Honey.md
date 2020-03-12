@@ -108,6 +108,9 @@ https://github.com/jtpereyda/boofuzz
 BTA is an open-source Active Directory security audit framework
 https://github.com/airbus-seclab/bta
 
+Graph platform for Detection and Response 
+https://github.com/insanitybit/grapl
+
 Open Cyber Threat Intelligence Platform https://www.opencti.io
 https://github.com/OpenCTI-Platform/opencti
 

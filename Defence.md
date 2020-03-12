@@ -283,6 +283,10 @@ https://github.com/qianniaoge/-SecurityManageFramwork
 win内网_域控安全
 https://github.com/renzu0/nw-tips
 
+
+静态代码审计系统
+https://github.com/zsdlove/Hades
+
 强大的观察分析引擎 https://thehive-project.org
 https://github.com/CERT-BDF/Cortex
 

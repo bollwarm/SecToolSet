@@ -349,6 +349,11 @@ https://github.com/MachineLP/Tensorflow-
 声音可视化工具集
 https://github.com/willianjusten/awesome-audio-visualization
 
+### 代码审计
+
+安全代码审计工具
+https://github.com/hardenedlinux/srcinv
+
 ### 编程资料
 
 多个语言简明教程

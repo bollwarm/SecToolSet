@@ -40,6 +40,9 @@ https://github.com/PowerShellMafia/PowerSploit
 Powershell tools合集
 https://github.com/clymb3r/PowerShell
 
+Nishang PowerShell下脚本和渗透和POC框架和集合，Nishang在渗透测试的所有阶段都非常有用。
+https://github.com/samratashok/nishang
+
 MSF--最强大的渗透平台
 https://github.com/rapid7/metasploit-framework
 

@@ -28,6 +28,8 @@
 
 ## 近期安全热点
 
+[OpenWRT远程执行漏洞 CVE-2020-7982](https://blog.forallsecure.com/uncovering-openwrt-remote-code-execution-cve-2020-7982)
+
 [Tomcat AJP协议漏洞 CVE-2020-1938](https://www.freebuf.com/column/227973.html)
 
 [2019勒索病毒专题报告](https://mp.weixin.qq.com/s/DzfUlKXkkMuBJS0UrdboSw)

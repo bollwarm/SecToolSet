@@ -57,6 +57,12 @@ https://github.com/wish-i-was/femida
 指纹/服务识别，操作系统识别，弱口令探测，POC扫描，SQL注入，绕过CDN，查询旁站等功能
 https://github.com/al0ne/Vxscan
 
+Nessus扫描自动化生成中文漏洞报告
+https://github.com/Bypass007/Nessus_to_report
+
+Golang开发的交互式网络扫描器，
+https://github.com/marco-lancini/goscan
+
 ### 子域名爆破扫描器
 
 https://github.com/aboul3la/Sublist3r

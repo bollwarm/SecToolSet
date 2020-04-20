@@ -88,6 +88,12 @@ https://github.com/vanhoefm/krackattacks-scripts
 越过(WAF)和 XSS过滤的pyton脚本集
 https://github.com/frizb/Bypassing-Web-Application-Firewalls
 
+渗透测试用到的东东
+https://github.com/ring04h/pentest
+
+DNS rebinding toolkit 
+https://github.com/makuga01/dnsFookup
+
 A scripted pipeline of tools to streamline the bug bounty/penetration test reconnaissance phase, so you can focus on chomping bugs. 
 https://github.com/SolomonSklash/chomp-scan
 

@@ -57,6 +57,12 @@ https://github.com/ashishb/osx-and-ios-security-awesome
 Runtime Mobile Security (RMS):一个功能强大的Web界面，可帮助您在运行时操纵Android Java类和方法
 https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security
 
+为日常搜集的勒索病毒解密工具的汇总
+https://github.com/jiansiting/Decryption-Tools
+
+应急响应实战笔记
+https://github.com/Bypass007/Emergency-Response-Notes
+
 一款开源WAF
 https://github.com/SpiderLabs/ModSecurity
 

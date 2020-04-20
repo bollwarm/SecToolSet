@@ -93,8 +93,8 @@ https://github.com/veficos/reverse-engineering-for-beginners
 一些信息安全标准及设备配置
 https://github.com/luyg24/IT_security
 
-PENTESTING-BIBLE: hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.
-https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLEhttps://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE
+PENTESTING-BIBLE：数百项道德黑客与渗透测试，红色团队，网络安全和计算机科学资源
+https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE
 
 分享在建设安全管理体系、ISO27001、等级保护、安全评审过程中的点点滴滴
 https://github.com/ym2011/SecurityManagement
@@ -102,7 +102,7 @@ https://github.com/ym2011/SecurityManagement
 2013-2017年各类安全大会演讲视频集 
 https://github.com/PaulSec/awesome-sec-talks
 
-⚡️ A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers. 
+⚡️  极棒的有关安全手册、黑客，单行脚本，cli/web工具等的列表。
 https://github.com/trimstray/the-book-of-secret-knowledge
 
 关于网络安全相关的RSS订阅，情报来源和日常知识库更新:

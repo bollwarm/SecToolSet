@@ -28,6 +28,8 @@
 
 ## 近期安全热点
 
+[雷电接口存缺陷，2019年之前生产的PC都易受到影响，Thunderspy可以5分钟内拿下所有安全防线](https://thunderspy.io/)
+
 [OpenWRT远程执行漏洞 CVE-2020-7982](https://blog.forallsecure.com/uncovering-openwrt-remote-code-execution-cve-2020-7982)
 
 [Tomcat AJP协议漏洞 CVE-2020-1938](https://www.freebuf.com/column/227973.html)

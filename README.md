@@ -28,6 +28,8 @@
 
 ## 近期安全热点
 
+[新的模糊测试工具发现跨平台的26个USB安全漏洞，Linux，Windows，macOS和FreeBSD都受影响](https://www.zdnet.com/article/new-fuzzing-tool-finds-26-usb-bugs-in-linux-windows-macos-and-freebsd/)
+
 [雷电接口存缺陷，2019年之前生产的PC都易受到影响，Thunderspy可以5分钟内拿下所有安全防线](https://thunderspy.io/)
 
 [OpenWRT远程执行漏洞 CVE-2020-7982](https://blog.forallsecure.com/uncovering-openwrt-remote-code-execution-cve-2020-7982)

@@ -470,6 +470,9 @@ https://github.com/bfuzzy/auditd-attack
 ⭐️ An anomaly-based intrusion detection system.
 https://github.com/alexfrancow/A-Detector
 
+AntiRansom:Fighting against ransomware using honeypots
+https://github.com/YJesus/AntiRansom
+
 悟空API网关 开源版
 https://github.com/eolinker/GoKu-API-Gateway
 

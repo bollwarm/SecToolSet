@@ -135,6 +135,9 @@ https://github.com/stamparm/ipsum
 Windows事件日志分析及可视化，审计非法登陆
 https://github.com/JPCERTCC/LogonTracer
 
+GScan: 旨在为安全应急响应人员对Linux主机排查时提供便利，实现主机侧Checklist的自动全面化检测，根据检测结果自动数据聚合，进行黑客攻击路径溯源。
+https://github.com/grayddq/GScan
+
 CaptfEncoder 跨平台网络安全工具套件,提供网络安全相关编码转换、古典密码、密码学、特殊编码等工具，并聚合各类在线工具。
 https://github.com/guyoung/CaptfEncoder
 

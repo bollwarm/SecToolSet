@@ -106,6 +106,9 @@ https://github.com/OWASP/owasp-mstg
 Venom是一款为渗透测试人员设计的使用Go开发的多级代理工具
 https://github.com/Dliv3/Venom
 
+A collection of cool tools used by Web hackers. Happy hacking , Happy bug-hunting 
+https://github.com/hahwul/WebHackersWeapons
+
 ### Fuzz测试:
 
 DotDotPwn - 目录遍历Fuzzer(http://dotdotpwn.blogspot.com/)

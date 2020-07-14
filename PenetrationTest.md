@@ -40,6 +40,9 @@ https://github.com/PowerShellMafia/PowerSploit
 Powershell tools合集
 https://github.com/clymb3r/PowerShell
 
+资产狩猎框架-AssetsHunter，信息收集是一项艺术~ 
+https://github.com/rabbitmask/AssetsHunter
+
 Nishang PowerShell下脚本和渗透和POC框架和集合，Nishang在渗透测试的所有阶段都非常有用。
 https://github.com/samratashok/nishang
 

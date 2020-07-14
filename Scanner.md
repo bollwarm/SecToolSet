@@ -60,6 +60,9 @@ https://github.com/al0ne/Vxscan
 Nessus扫描自动化生成中文漏洞报告
 https://github.com/Bypass007/Nessus_to_report
 
+Tsunami谷歌开源的具有可扩展插件系统的通用网络安全扫描程序，可用于高置信度地检测高严重性漏洞。（java，基于nmap和ncrack）
+https://github.com/google/tsunami-security-scanner
+
 Golang开发的交互式网络扫描器，
 https://github.com/marco-lancini/goscan
 

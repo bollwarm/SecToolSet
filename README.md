@@ -28,6 +28,8 @@
 
 ## 近期安全热点
 
+[Windows DNS服务器安全漏洞SigRed影响所有Windows server ](https://www.freebuf.com/news/243542.html)
+
 [新的模糊测试工具发现跨平台的26个USB安全漏洞，Linux，Windows，macOS和FreeBSD都受影响](https://www.zdnet.com/article/new-fuzzing-tool-finds-26-usb-bugs-in-linux-windows-macos-and-freebsd/)
 
 [雷电接口存缺陷，2019年之前生产的PC都易受到影响，Thunderspy可以5分钟内拿下所有安全防线](https://thunderspy.io/)
@@ -56,11 +58,6 @@
 
 [CVE-2019-10173 Xstream 远程代码执行漏洞](http://www.polaris-lab.com/index.php/archives/658/)
 
-[Linux 内核报TCP SACK漏洞 CVE-2019-11477/78/79，请尽快处理](https://mbd.baidu.com/newspage/data/landingshare?pageType=1&isBdboxFrom=1&context=%20%7B%22nid%22%3A%22news_9327191446434225282%22%2C%22sourceFrom%22%3A%22bjh%22%7D)
-
-[漏洞预警Weblogic最新反序列化远程命令执行漏洞(绕过 CVE-2019-2725 补丁)](https://nosec.org/home/detail/2711.html)
-
-[微软远程桌面漏洞影响WindowsXP、Win7、Win2003、Win2008](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0708)
 
 [Java序列化对象：流行性调研，漏洞渗透、利用开发和安全识别](https://www.freebuf.com/column/199570.html)
 

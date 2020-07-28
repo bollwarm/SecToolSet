@@ -28,6 +28,8 @@
 
 ## 近期安全热点
 
+[CVE-2020-13777 GnuTLS audit漏洞，影响生态链很多系统 ](https://anarc.at/blog/2020-06-10-gnutls-audit/)
+
 [Windows DNS服务器安全漏洞SigRed影响所有Windows server ](https://www.freebuf.com/news/243542.html)
 
 [新的模糊测试工具发现跨平台的26个USB安全漏洞，Linux，Windows，macOS和FreeBSD都受影响](https://www.zdnet.com/article/new-fuzzing-tool-finds-26-usb-bugs-in-linux-windows-macos-and-freebsd/)

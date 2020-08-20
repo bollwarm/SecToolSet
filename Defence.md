@@ -18,6 +18,9 @@ https://github.com/epinna/tplmap
 简单的linux发行版安全监控脚本
 https://github.com/EgeBalci/The-Eye
 
+百宝箱——工具集合
+https://github.com/starnightcyber/Miscellaneous 
+
 CIDRAM （无类别域间路由访问管理器）是一个PHP脚本，旨在保护网站途经阻止请求该从始发IP地址视为不良的流量来源.
 https://github.com/Maikuolan/CIDRAM
 

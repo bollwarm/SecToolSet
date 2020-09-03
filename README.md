@@ -28,6 +28,8 @@
 
 ## 近期安全热点
 
+[五眼联盟国家发布联合网络安全咨询 ](https://us-cert.cisa.gov/sites/default/files/publications/AA20-245A-Joint_CSA-Technical_Approaches_to_Uncovering_Malicious_Activity_508.pdf)
+
 [CVE-2020-13777 GnuTLS audit漏洞，影响生态链很多系统 ](https://anarc.at/blog/2020-06-10-gnutls-audit/)
 
 [Windows DNS服务器安全漏洞SigRed影响所有Windows server ](https://www.freebuf.com/news/243542.html)

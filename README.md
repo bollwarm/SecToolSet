@@ -28,6 +28,8 @@
 
 ## 近期安全热点
 
+[暗网中网络安全行业暴露状况研究](https://www.immuniweb.com/blog/state-cybersecurity-dark-web-exposure.html)
+
 [五眼联盟国家网络安全技术指导书](https://us-cert.cisa.gov/sites/default/files/publications/AA20-245A-Joint_CSA-Technical_Approaches_to_Uncovering_Malicious_Activity_508.pdf)
 
 [CVE-2020-13777 GnuTLS audit漏洞，影响生态链很多系统 ](https://anarc.at/blog/2020-06-10-gnutls-audit/)
@@ -51,17 +53,6 @@
 [OpenBSD 爆认证绕过和权限提升漏洞CVE-2019-19519~22](https://www.openwall.com/lists/oss-security/2019/12/04/5)
 
 [Docker cp 严重漏洞 CVE-2019-14271](https://www.toutiao.com/a6763809414072779278/)
-
-[关于Apache Solr 远程执行漏洞的预警](https://www.toutiao.com/i6754166946846999043/)
-
-[关于Linux Sudo userID提权漏洞CVE-2019-14287的预警](https://www.toutiao.com/i6748227458580873731/)
-
-[facebook又爆出大量(数亿)用户隐私数据泄露](https://techcrunch.com/2019/09/04/facebook-phone-numbers-exposed/)
-
-[CVE-2019-14378 QEMU VM Escape严重漏洞，影响KVM等QEMU为后端的虚拟平台](https://blog.bi0s.in/2019/08/24/Pwn/VM-Escape/2019-07-29-qemu-vm-escape-cve-2019-14378/)
-
-[CVE-2019-10173 Xstream 远程代码执行漏洞](http://www.polaris-lab.com/index.php/archives/658/)
-
 
 [Java序列化对象：流行性调研，漏洞渗透、利用开发和安全识别](https://www.freebuf.com/column/199570.html)
 

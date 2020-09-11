@@ -131,4 +131,76 @@ ctftools 在线CTF信息网站，包括资源下载、在线工具、信息blog�
 https://www.ctftools.com
 
 🔐 All Security Engineering Resources
-https://github.com/brianlam38/Sec-Dump/
+https://github.com/brianlam38/Sec-Dump
+
+## OSCP&OSCE
+
+备考 OSCP 的各种干货资料/渗透测试干货资料
+https://github.com/Jewel591/OSCP-Pentest-Methodologies
+
+OSCPRepo:This is a list of resources and scripts that I have been gathering (and continuing to gather) in preparation for the OSCP.
+https://github.com/rewardone/OSCPRepo
+
+Collection of things made during my OSCP journey 
+https://github.com/ihack4falafel/OSCP
+
+A comprehensive guide/material for anyone looking to get into infosec or take the OSCP exam 
+https://github.com/RustyShackleford221/OSCP-Prep
+
+Penetration Testing Reference Bank - OSCP / PTP & PTX Cheatsheet 
+https://github.com/OlivierLaflamme/Cheatsheet-God
+
+A curated list of awesome OSCP resources
+https://github.com/0x4D31/awesome-oscp
+
+An archive of everything related to OSCP 
+https://github.com/CyDefUnicorn/OSCP-Archives
+
+A list of the resources I use as I get ready for the exam 
+https://github.com/burntmybagel/OSCP-Prep
+
+OSCP cheat sheet
+https://github.com/xMilkPowderx/OSCP
+
+OSCP-Human-Guide
+https://github.com/six2dez/OSCP-Human-Guide
+
+Good For OSCP Training 
+https://github.com/freddiebarrsmith/Buffer-Overflow-Exploit-Development-Practice
+
+https://github.com/so87/OSCP-PwK
+This is my cheatsheet and scripts developed while taking the Offensive Security Penetration Testing with Kali Linux course.
+
+OSCP-60daysOSCP (Offensive Security Certified Professional)
+https://github.com/anandkumar11u/OSCP-60days
+
+OSCP-Cheatsheet
+https://github.com/tagnullde/OSCP
+
+GitBook: OSCP RoadMap 
+https://github.com/nairuzabulhul/RoadMap
+
+OSCP-Automation:A collection of personal scripts used in hacking excercises.
+https://github.com/C-Cracks/OSCP-Automation
+
+A random set of 5 machines for OSCP
+https://github.com/ajdumanhug/oscp-practice
+
+Windows privilege escalation (enumeration) script designed with OSCP labs (legacy Windows) in mind 
+https://github.com/M4ximuss/Powerless
+ 
+Collection of things made during my preparation to take on OSCE 
+https://github.com/ihack4falafel/OSCE
+
+Some exploits, which I’ve created during my OSCE preparation.
+https://github.com/dhn/OSCE
+
+Used for the osce exam preparation 
+https://github.com/73696e65/windows-exploits
+
+📙 Markdown Templates for Offensive Security OSCP, OSWE, OSCE, OSEE, OSWP exam report 
+https://github.com/noraj/OSCP-Exam-Report-Template-Markdown
+
+A list of freely available resources that can be used as a prerequisite before taking OSCE. 
+https://github.com/snoopysecurity/OSCE-Prep
+

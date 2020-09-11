@@ -365,6 +365,9 @@ https://github.com/lukebaggett/dnscat2-powershell
 burp插件收集项目
 https://github.com/xl7dev/BurpSuite/tree/master/Extender
 
+Burp-Suite-collections:BurpSuite相关收集项目，插件主要是非BApp Store（商店）
+https://github.com/Mr-xn/BurpSuite-collections
+
 一个用来辅助WP渗透测试的ruby框架
 https://github.com/rastating/wordpress-exploit-framework/
 

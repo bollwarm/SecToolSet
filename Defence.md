@@ -39,6 +39,9 @@ https://github.com/hakbot/hakbot-origin-controller
 全天候 DevOps - 安全监控和防御自动化架构(ELK + AWS Lambda) 
 https://github.com/appsecco/alldaydevops-aism
 
+ARL(Asset Reconnaissance Lighthouse)资产侦察灯塔系统
+https://github.com/TophantTechnology/ARL
+
 安全开发运维：devsecops.org社区贡献的权威devsecops工具列表
 https://github.com/devsecops/awesome-devsecops
 

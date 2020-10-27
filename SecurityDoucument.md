@@ -21,6 +21,9 @@ https://github.com/sbilly/awesome-security
 应用程序安全的资源列表
 https://github.com/paragonie/awesome-appsec
 
+安全公众号推荐
+https://github.com/bollwarm/awesome-security-weixin-official-accounts
+
 DFTimewolf A framework for orchestrating forensic collection, processing and data export.
 https://github.com/log2timeline/dftimewolf
 

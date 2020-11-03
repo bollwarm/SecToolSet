@@ -66,6 +66,9 @@ https://github.com/panagiks/RSPET
 跨平台二进制分析及逆向工具
 https://github.com/programa-stic/barf-project
 
+恶意ELF二进制文件相似度比较及可视化
+https://github.com/CymaticsCC/elf_similarity
+
 二进制分析工具
 https://github.com/devttys0/binwalk
 

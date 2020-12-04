@@ -28,6 +28,8 @@
 
 ## 近期安全热点
 
+[安全论文：《Measuring and Preventing Supply Chain Attacks on Package Managers》](https://arxiv.org/pdf/2002.01139.pdf)
+
 [Ubuntu提权漏洞，利用gdm3-accountsservice-LPE](https://securitylab.github.com/research/Ubuntu-gdm3-accountsservice-LPE)
 
 [Nmap 7.9发布，更新Npcap，大量指纹更新](https://seclists.org/nmap-announce/2020/1)

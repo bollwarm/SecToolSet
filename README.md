@@ -28,6 +28,8 @@
 
 ## 近期安全热点
 
+[OpenSSL 拒绝式攻击严重漏洞CVE-2020-1971](https://www.openssl.org/news/secadv/20201208.txt)
+
 [安全论文：《Measuring and Preventing Supply Chain Attacks on Package Managers》](https://arxiv.org/pdf/2002.01139.pdf)
 
 [Ubuntu提权漏洞，利用gdm3-accountsservice-LPE](https://securitylab.github.com/research/Ubuntu-gdm3-accountsservice-LPE)

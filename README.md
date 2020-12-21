@@ -28,6 +28,8 @@
 
 ## 近期安全热点
 
+[Microsoft 365 Defender研究团队和威胁情报中心（MSTIC）的SolarWinds攻击分析文章](https://www.microsoft.com/security/blog/2020/12/18/analyzing-solorigate-the-compromised-dll-file-that-started-a-sophisticated-cyberattack-and-how-microsoft-defender-helps-protect/)
+
 [OpenSSL 拒绝式攻击严重漏洞CVE-2020-1971](https://www.openssl.org/news/secadv/20201208.txt)
 
 [安全论文：《Measuring and Preventing Supply Chain Attacks on Package Managers》](https://arxiv.org/pdf/2002.01139.pdf)

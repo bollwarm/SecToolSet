@@ -28,6 +28,8 @@
 
 ## 近期安全热点
 
+[Windows 加密BitLocker爆锁屏绕过严重漏洞CVE-2020-1398](https://www.toutiao.com/i6918938090983834124/)
+
 [Microsoft 365 Defender研究团队和威胁情报中心（MSTIC）的SolarWinds攻击分析文章](https://www.microsoft.com/security/blog/2020/12/18/analyzing-solorigate-the-compromised-dll-file-that-started-a-sophisticated-cyberattack-and-how-microsoft-defender-helps-protect/)
 
 [OpenSSL 拒绝式攻击严重漏洞CVE-2020-1971](https://www.openssl.org/news/secadv/20201208.txt)

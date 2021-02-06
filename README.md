@@ -28,6 +28,8 @@
 
 ## 近期安全热点
 
+[Full System Control with New SolarWinds Orion-based and Serv-U FTP Vulnerabilities CVE-2021-25274 CVE-2021-25275 CVE-2021-25276](https://www.toutiao.com/a6922256117624259076/)
+
 [Sudo严重堆溢出漏洞 CVE-2021-3156](https://www.toutiao.com/a6922256117624259076/)
 
 [Windows 加密BitLocker爆锁屏绕过严重漏洞CVE-2020-1398](https://www.toutiao.com/i6918938090983834124/)

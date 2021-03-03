@@ -28,6 +28,8 @@
 
 ## 近期安全热点
 
+[GRUB2SecureBootBypass2021](https://wiki.ubuntu.com/SecurityTeam/KnowledgeBase/GRUB2SecureBootBypass2021)
+
 [Full System Control with New SolarWinds Orion-based and Serv-U FTP Vulnerabilities CVE-2021-25274 CVE-2021-25275 CVE-2021-25276](https://www.toutiao.com/a6922256117624259076/)
 
 [Sudo严重堆溢出漏洞 CVE-2021-3156](https://www.toutiao.com/a6922256117624259076/)

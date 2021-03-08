@@ -83,7 +83,7 @@ https://github.com/78778443/permeate
 基于Docker-Compose的漏洞预构建环境https://vulhub.org
 https://github.com/vulhub/vulhub
 
-ackazon是一个免费的，漏洞测试在线web站点，其构建方式与当今的富客户端和移动应用程序中使用的技术相同。
+Ackazon是一个免费的，漏洞测试在线web站点，其构建方式与当今的富客户端和移动应用程序中使用的技术相同。
 https://github.com/rapid7/hackazon
 
 ### 安全竞赛 （CTF夺标大赛）
@@ -102,9 +102,6 @@ https://github.com/vidar-team/HCTF2017
 
 CTF挑战平台
 https://github.com/CTFTraining
-
-灰帽子资源集,包括CTF、密码学、Linux攻击、USB攻击、漏洞等
-https://github.com/bt3gl/Gray-Hacker-Resources
 
 CTF和安全工具大合集
 https://github.com/zardus/ctf-tools

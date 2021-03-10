@@ -28,6 +28,8 @@
 
 ## 近期安全热点
 
+[Git远程执行漏洞 CVE-2021-21300](https://www.openwall.com/lists/oss-security/2021/03/09/3)
+
 [Microsoft Exchange Server 0day攻击](https://www.toutiao.com/a6935327174329172519/)
 
 [GRUB2SecureBootBypass2021](https://wiki.ubuntu.com/SecurityTeam/KnowledgeBase/GRUB2SecureBootBypass2021)

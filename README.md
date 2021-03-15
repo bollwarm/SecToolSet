@@ -28,6 +28,8 @@
 
 ## 近期安全热点
 
+[linux内核scsi_transport_iscsi潜伏15年的漏洞（CVE-2021-27363 CVE-2021-27364 CVE-2021-27365），可以本地提权](https://www.bleepingcomputer.com/news/security/15-year-old-linux-kernel-bugs-let-attackers-gain-root-privileges/)
+
 [Git远程执行漏洞 CVE-2021-21300](https://www.openwall.com/lists/oss-security/2021/03/09/3)
 
 [Microsoft Exchange Server 0day攻击](https://www.toutiao.com/a6935327174329172519/)
@@ -67,18 +69,6 @@
 [OpenWRT远程执行漏洞 CVE-2020-7982](https://blog.forallsecure.com/uncovering-openwrt-remote-code-execution-cve-2020-7982)
 
 [Tomcat AJP协议漏洞 CVE-2020-1938](https://www.freebuf.com/column/227973.html)
-
-[2019勒索病毒专题报告](https://mp.weixin.qq.com/s/DzfUlKXkkMuBJS0UrdboSw)
-
-[Windows暴露严重安全漏洞CVE-2020-0601，影响关键加密功能](https://www.toutiao.com/i6782003516564046347/)
-
-[SHA-1被完全冲撞突破：使用选择前缀碰撞攻击可以成功突破PGP信任网络 ](https://www.freebuf.com/column/225015.html)
-
-[OpenBSD 爆认证绕过和权限提升漏洞CVE-2019-19519~22](https://www.openwall.com/lists/oss-security/2019/12/04/5)
-
-[Docker cp 严重漏洞 CVE-2019-14271](https://www.toutiao.com/a6763809414072779278/)
-
-[Java序列化对象：流行性调研，漏洞渗透、利用开发和安全识别](https://www.freebuf.com/column/199570.html)
 
 [2018 Blackhat 工具集](BlackHat2018.md)
 

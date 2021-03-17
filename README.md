@@ -54,8 +54,6 @@
 
 [Windows Server域控 Netlogon特权提升漏洞 CVE-2020-1472](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1472)
 
-[暗网中网络安全行业暴露状况研究](https://www.immuniweb.com/blog/state-cybersecurity-dark-web-exposure.html)
-
 [五眼联盟国家网络安全技术指导书](https://us-cert.cisa.gov/sites/default/files/publications/AA20-245A-Joint_CSA-Technical_Approaches_to_Uncovering_Malicious_Activity_508.pdf)
 
 [CVE-2020-13777 GnuTLS audit漏洞，影响生态链很多系统 ](https://anarc.at/blog/2020-06-10-gnutls-audit/)

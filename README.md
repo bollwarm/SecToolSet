@@ -28,6 +28,8 @@
 
 ## 近期安全热点
 
+[Openssl高版本（1.1.1d以上）爆高危漏洞 CVE-2021-3450，可导致Ddos攻击](https://www.openssl.org/news/secadv/20210325.txt)
+
 [linux内核scsi_transport_iscsi潜伏15年的漏洞（CVE-2021-27363 CVE-2021-27364 CVE-2021-27365），可以本地提权](https://www.bleepingcomputer.com/news/security/15-year-old-linux-kernel-bugs-let-attackers-gain-root-privileges/)
 
 [Git远程执行漏洞 CVE-2021-21300](https://www.openwall.com/lists/oss-security/2021/03/09/3)

@@ -22,9 +22,9 @@
 
 ## 乌云镜像
 
-[乌云镜像](http://wooyun.webbaozi.com)
+[乌云镜像，已挂](http://wooyun.webbaozi.com)
 
-[乌云镜像,河*蟹](http://wy.hx99.net/)
+[乌云镜像,已挂](http://wy.hx99.net/)
 
 ## 近期安全热点
 

@@ -28,6 +28,8 @@
 
 ## 近期安全热点
 
+[Nginx暴DNS解析器Off-by-One堆写入高危漏洞CVE-2021-23017](https://www.freebuf.com/vuls/274503.html)
+
 [Openssl高版本（1.1.1d以上）爆高危漏洞 CVE-2021-3450，可导致Ddos攻击](https://www.openssl.org/news/secadv/20210325.txt)
 
 [linux内核scsi_transport_iscsi潜伏15年的漏洞（CVE-2021-27363 CVE-2021-27364 CVE-2021-27365），可以本地提权](https://www.bleepingcomputer.com/news/security/15-year-old-linux-kernel-bugs-let-attackers-gain-root-privileges/)

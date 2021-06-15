@@ -28,6 +28,8 @@
 
 ## 近期安全热点
 
+[Linux内核安全现状2020](https://github.com/ossf/wg-securing-critical-projects/blob/main/presentations/The_state_of_the_Linux_kernel_security.pdf)
+
 [Nginx暴DNS解析器Off-by-One堆写入高危漏洞CVE-2021-23017](https://www.freebuf.com/vuls/274503.html)
 
 [Openssl高版本（1.1.1d以上）爆高危漏洞 CVE-2021-3450，可导致Ddos攻击](https://www.openssl.org/news/secadv/20210325.txt)

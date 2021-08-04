@@ -28,6 +28,8 @@
 
 ## 近期安全热点
 
+[NSA K8S加固指南](https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/1/CTR_KUBERNETES%20HARDENING%20GUIDANCE.PDF)
+
 [CISA年度最易被利用的漏洞](https://us-cert.cisa.gov/ncas/alerts/aa21-209a)
 
 [Linux内核安全现状2020](https://github.com/ossf/wg-securing-critical-projects/blob/main/presentations/The_state_of_the_Linux_kernel_security.pdf)

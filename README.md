@@ -28,7 +28,9 @@
 
 ## 近期安全热点
 
-[NSA K8S加固指南](https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/1/CTR_KUBERNETES%20HARDENING%20GUIDANCE.PDF)
+[BlackHat 2021和DEF CON 2021会议的顶级HACK议题](https://portswigger.net/daily-swig/top-hacks-from-black-hat-and-def-con-2021)
+
+[NSA K8S加固指南(PDF)](https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/1/CTR_KUBERNETES%20HARDENING%20GUIDANCE.PDF)
 
 [CISA年度最易被利用的漏洞](https://us-cert.cisa.gov/ncas/alerts/aa21-209a)
 
@@ -67,16 +69,6 @@
 [五眼联盟国家网络安全技术指导书](https://us-cert.cisa.gov/sites/default/files/publications/AA20-245A-Joint_CSA-Technical_Approaches_to_Uncovering_Malicious_Activity_508.pdf)
 
 [CVE-2020-13777 GnuTLS audit漏洞，影响生态链很多系统 ](https://anarc.at/blog/2020-06-10-gnutls-audit/)
-
-[Windows DNS服务器安全漏洞SigRed影响所有Windows server ](https://www.freebuf.com/news/243542.html)
-
-[新的模糊测试工具发现跨平台的26个USB安全漏洞，Linux，Windows，macOS和FreeBSD都受影响](https://www.zdnet.com/article/new-fuzzing-tool-finds-26-usb-bugs-in-linux-windows-macos-and-freebsd/)
-
-[雷电接口存缺陷，2019年之前生产的PC都易受到影响，Thunderspy可以5分钟内拿下所有安全防线](https://thunderspy.io/)
-
-[OpenWRT远程执行漏洞 CVE-2020-7982](https://blog.forallsecure.com/uncovering-openwrt-remote-code-execution-cve-2020-7982)
-
-[Tomcat AJP协议漏洞 CVE-2020-1938](https://www.freebuf.com/column/227973.html)
 
 [2018 Blackhat 工具集](BlackHat2018.md)
 

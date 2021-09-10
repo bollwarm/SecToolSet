@@ -28,6 +28,8 @@
 
 ## 近期安全热点
 
+[NSA：量子计算和后量子加密算法FAQ](https://media.defense.gov/2021/Aug/04/2002821837/-1/-1/1/Quantum_FAQs_20210804.PDF)
+
 [BlackHat 2021和DEF CON 2021会议的顶级HACK议题](https://portswigger.net/daily-swig/top-hacks-from-black-hat-and-def-con-2021)
 
 [NSA K8S加固指南(PDF)](https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/1/CTR_KUBERNETES%20HARDENING%20GUIDANCE.PDF)

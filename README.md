@@ -28,6 +28,8 @@
 
 ## 近期安全热点
 
+[通过MySQL中的科学记数法bug透过使AWS WAF进行SQL注入攻击](https://www.gosecure.net/blog/2021/10/19/a-scientific-notation-bug-in-mysql-left-aws-waf-clients-vulnerable-to-sql-injection/)
+
 [NSA：量子计算和后量子加密算法FAQ](https://media.defense.gov/2021/Aug/04/2002821837/-1/-1/1/Quantum_FAQs_20210804.PDF)
 
 [BlackHat 2021和DEF CON 2021会议的顶级HACK议题](https://portswigger.net/daily-swig/top-hacks-from-black-hat-and-def-con-2021)

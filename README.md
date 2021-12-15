@@ -28,6 +28,8 @@
 
 ## 近期安全热点
 
+[CISA Log4j(CVE-2021-44228)漏洞指导，包括详尽的受影响软件列表](https://github.com/cisagov/log4j-affected-db)
+
 [CISA已知可被利用漏洞目录](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
 
 [通过MySQL中的科学记数法bug透过使AWS WAF进行SQL注入攻击](https://www.gosecure.net/blog/2021/10/19/a-scientific-notation-bug-in-mysql-left-aws-waf-clients-vulnerable-to-sql-injection/)

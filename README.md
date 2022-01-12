@@ -28,6 +28,8 @@
 
 ## 近期安全热点
 
+[新的跨平台后门SysJoker分析](https://www.intezer.com/blog/malware-analysis/new-backdoor-sysjoker/)
+
 [CISA Log4j(CVE-2021-44228)漏洞指导，包括详尽的受影响软件列表](https://github.com/cisagov/log4j-affected-db)
 
 [CISA已知可被利用漏洞目录](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)

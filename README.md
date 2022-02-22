@@ -28,6 +28,12 @@
 
 ## 近期安全热点
 
+[Linux系统Snap-confine功能中发现多个漏洞CVE-2021-44731等](https://www.qualys.com/2022/02/17/cve-2021-44731/oh-snap-more-lemmings.txt)
+
+[Linux kernel内核 TIPC协议漏洞 CVE-2022-0435](https://access.redhat.com/security/cve/CVE-2022-0435)
+
+[Linux Polkit权限提升漏洞（CVE-2021-4034）](http://blog.nsfocus.net/linux-polkit-cve-2021-4034/)
+
 [2021十大安全技术 Top 10 web hacking techniques of 2021](https://portswigger.net/research/top-10-web-hacking-techniques-of-2021)
 
 [新的跨平台后门SysJoker分析](https://www.intezer.com/blog/malware-analysis/new-backdoor-sysjoker/)
@@ -64,11 +70,7 @@
 
 [Sudo严重堆溢出漏洞 CVE-2021-3156](https://www.toutiao.com/a6922256117624259076/)
 
-[Windows 加密BitLocker爆锁屏绕过严重漏洞CVE-2020-1398](https://www.toutiao.com/i6918938090983834124/)
-
 [Microsoft 365 Defender研究团队和威胁情报中心（MSTIC）的SolarWinds攻击分析文章](https://www.microsoft.com/security/blog/2020/12/18/analyzing-solorigate-the-compromised-dll-file-that-started-a-sophisticated-cyberattack-and-how-microsoft-defender-helps-protect/)
-
-[OpenSSL 拒绝式攻击严重漏洞CVE-2020-1971](https://www.openssl.org/news/secadv/20201208.txt)
 
 [安全论文：《Measuring and Preventing Supply Chain Attacks on Package Managers》](https://arxiv.org/pdf/2002.01139.pdf)
 
@@ -76,11 +78,7 @@
 
 [Nmap 7.9发布，更新Npcap，大量指纹更新](https://seclists.org/nmap-announce/2020/1)
 
-[Windows Server域控 Netlogon特权提升漏洞 CVE-2020-1472](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1472)
-
 [五眼联盟国家网络安全技术指导书](https://us-cert.cisa.gov/sites/default/files/publications/AA20-245A-Joint_CSA-Technical_Approaches_to_Uncovering_Malicious_Activity_508.pdf)
-
-[CVE-2020-13777 GnuTLS audit漏洞，影响生态链很多系统 ](https://anarc.at/blog/2020-06-10-gnutls-audit/)
 
 [2018 Blackhat 工具集](BlackHat2018.md)
 

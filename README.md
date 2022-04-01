@@ -28,6 +28,8 @@
 
 ## 近期安全热点
 
+[Srpingshell危险漏洞  CVE-2022-22965  CVSS 9.8 ](https://blog.sonatype.com/new-0-day-spring-framework-vulnerability-confirmed)
+
 [Linux系统Snap-confine功能中发现多个漏洞CVE-2021-44731等](https://www.qualys.com/2022/02/17/cve-2021-44731/oh-snap-more-lemmings.txt)
 
 [Linux kernel内核 TIPC协议漏洞 CVE-2022-0435](https://access.redhat.com/security/cve/CVE-2022-0435)

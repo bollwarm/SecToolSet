@@ -2243,6 +2243,9 @@ https://github.com/azsk/DevOpsKit-docs
 甲方企业安全建设开源之路
 https://github.com/bloodzer0/Enterprise_Security_Build--Open_Source/
 
+初创企业安全起步
+https://devd.me/log//posts/startup-security/
+
 ## 学习资料
 
 📚 List of awesome university courses for learning Computer Science! 

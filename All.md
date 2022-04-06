@@ -29,6 +29,15 @@ https://github.com/c0ny1/upload-labs
 跟踪真实漏洞相关靶场环境搭建
 https://github.com/yaofeifly/Vub_ENV
  
+H1ve是一款自研CTF平台，同时具备解题、攻防对抗模式。
+https://github.com/D0g3-Lab/H1ve
+
+使用docker快速搭建各大漏洞靶场，目前可以一键搭建17个靶场。 
+https://github.com/c0ny1/vulstudy
+
+🚀Vulfocus 是一个漏洞集成平台，将漏洞环境 docker 镜像，放入即可使用，开箱即用。 
+https://github.com/fofapro/vulfocus
+
 数据库注入练习平台 
 https://github.com/Audi-1/sqli-labs
 
@@ -71,6 +80,12 @@ https://github.com/wupco/weblogger
 permeate:一个用于渗透透测试演练的WEB系统,用于提升寻找网站能力,也可以用于web安全教学
 https://github.com/78778443/permeate
 
+基于Docker-Compose的漏洞预构建环境https://vulhub.org
+https://github.com/vulhub/vulhub
+
+Ackazon是一个免费的，漏洞测试在线web站点，其构建方式与当今的富客户端和移动应用程序中使用的技术相同。
+https://github.com/rapid7/hackazon
+
 ### 安全竞赛 （CTF夺标大赛）
 
 Google2019CTF web 解题思路
@@ -87,9 +102,6 @@ https://github.com/vidar-team/HCTF2017
 
 CTF挑战平台
 https://github.com/CTFTraining
-
-灰帽子资源集,包括CTF、密码学、Linux攻击、USB攻击、漏洞等
-https://github.com/bt3gl/Gray-Hacker-Resources
 
 CTF和安全工具大合集
 https://github.com/zardus/ctf-tools
@@ -122,7 +134,79 @@ ctftools 在线CTF信息网站，包括资源下载、在线工具、信息blog�
 https://www.ctftools.com
 
 🔐 All Security Engineering Resources
-https://github.com/brianlam38/Sec-Dump/
+https://github.com/brianlam38/Sec-Dump
+
+## OSCP&OSCE
+
+备考 OSCP 的各种干货资料/渗透测试干货资料
+https://github.com/Jewel591/OSCP-Pentest-Methodologies
+
+OSCPRepo:This is a list of resources and scripts that I have been gathering (and continuing to gather) in preparation for the OSCP.
+https://github.com/rewardone/OSCPRepo
+
+Collection of things made during my OSCP journey 
+https://github.com/ihack4falafel/OSCP
+
+A comprehensive guide/material for anyone looking to get into infosec or take the OSCP exam 
+https://github.com/RustyShackleford221/OSCP-Prep
+
+Penetration Testing Reference Bank - OSCP / PTP & PTX Cheatsheet 
+https://github.com/OlivierLaflamme/Cheatsheet-God
+
+A curated list of awesome OSCP resources
+https://github.com/0x4D31/awesome-oscp
+
+An archive of everything related to OSCP 
+https://github.com/CyDefUnicorn/OSCP-Archives
+
+A list of the resources I use as I get ready for the exam 
+https://github.com/burntmybagel/OSCP-Prep
+
+OSCP cheat sheet
+https://github.com/xMilkPowderx/OSCP
+
+OSCP-Human-Guide
+https://github.com/six2dez/OSCP-Human-Guide
+
+Good For OSCP Training 
+https://github.com/freddiebarrsmith/Buffer-Overflow-Exploit-Development-Practice
+
+https://github.com/so87/OSCP-PwK
+This is my cheatsheet and scripts developed while taking the Offensive Security Penetration Testing with Kali Linux course.
+
+OSCP-60daysOSCP (Offensive Security Certified Professional)
+https://github.com/anandkumar11u/OSCP-60days
+
+OSCP-Cheatsheet
+https://github.com/tagnullde/OSCP
+
+GitBook: OSCP RoadMap 
+https://github.com/nairuzabulhul/RoadMap
+
+OSCP-Automation:A collection of personal scripts used in hacking excercises.
+https://github.com/C-Cracks/OSCP-Automation
+
+A random set of 5 machines for OSCP
+https://github.com/ajdumanhug/oscp-practice
+
+Windows privilege escalation (enumeration) script designed with OSCP labs (legacy Windows) in mind 
+https://github.com/M4ximuss/Powerless
+ 
+Collection of things made during my preparation to take on OSCE 
+https://github.com/ihack4falafel/OSCE
+
+Some exploits, which I’ve created during my OSCE preparation.
+https://github.com/dhn/OSCE
+
+Used for the osce exam preparation 
+https://github.com/73696e65/windows-exploits
+
+📙 Markdown Templates for Offensive Security OSCP, OSWE, OSCE, OSEE, OSWP exam report 
+https://github.com/noraj/OSCP-Exam-Report-Template-Markdown
+
+A list of freely available resources that can be used as a prerequisite before taking OSCE. 
+https://github.com/snoopysecurity/OSCE-Prep
+
 ## 安全扫描器：
 
 ### 端口扫描器
@@ -181,6 +265,15 @@ https://github.com/wish-i-was/femida
 综合扫描工具，主要用来敏感文件探测(目录扫描与js泄露接口)，WAF/CDN识别，端口扫描，
 指纹/服务识别，操作系统识别，弱口令探测，POC扫描，SQL注入，绕过CDN，查询旁站等功能
 https://github.com/al0ne/Vxscan
+
+Nessus扫描自动化生成中文漏洞报告
+https://github.com/Bypass007/Nessus_to_report
+
+Tsunami谷歌开源的具有可扩展插件系统的通用网络安全扫描程序，可用于高置信度地检测高严重性漏洞。（java，基于nmap和ncrack）
+https://github.com/google/tsunami-security-scanner
+
+Golang开发的交互式网络扫描器，
+https://github.com/marco-lancini/goscan
 
 ### 子域名爆破扫描器
 
@@ -358,6 +451,8 @@ https://github.com/UKHomeOffice/repo-security-scanner
 侦察和信息收集安全工具
 https://github.com/evyatarmeged/Raccoon
 
+问脉是一个扫描镜像内敏感信息、弱口令、恶意样本、异常历史命令、后门的检测工具集 https://github.com/chaitin/veinmind-tools
+
 ### SSL类型扫描器
 
 sslscan tests SSL/TLS enabled services to discover supported cipher suites 
@@ -383,6 +478,9 @@ https://github.com/epinna/tplmap
 简单的linux发行版安全监控脚本
 https://github.com/EgeBalci/The-Eye
 
+百宝箱——工具集合
+https://github.com/starnightcyber/Miscellaneous 
+
 CIDRAM （无类别域间路由访问管理器）是一个PHP脚本，旨在保护网站途经阻止请求该从始发IP地址视为不良的流量来源.
 https://github.com/Maikuolan/CIDRAM
 
@@ -401,6 +499,9 @@ https://github.com/hakbot/hakbot-origin-controller
 全天候 DevOps - 安全监控和防御自动化架构(ELK + AWS Lambda) 
 https://github.com/appsecco/alldaydevops-aism
 
+ARL(Asset Reconnaissance Lighthouse)资产侦察灯塔系统
+https://github.com/TophantTechnology/ARL
+
 安全开发运维：devsecops.org社区贡献的权威devsecops工具列表
 https://github.com/devsecops/awesome-devsecops
 
@@ -416,8 +517,20 @@ https://github.com/cybermaggedon/cyberprobe
 安卓安全加固列表
 https://github.com/AndroidTamer/KnowledgeBase/tree/master/Documents
 
+awesome-container-security 容器安全列表
+https://github.com/kai5263499/awesome-container-security#networking/runtime
+
 OS X和iOS安全</a>：OS X和iOS安全工具集合
 https://github.com/ashishb/osx-and-ios-security-awesome
+
+Runtime Mobile Security (RMS):一个功能强大的Web界面，可帮助您在运行时操纵Android Java类和方法
+https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security
+
+为日常搜集的勒索病毒解密工具的汇总
+https://github.com/jiansiting/Decryption-Tools
+
+应急响应实战笔记
+https://github.com/Bypass007/Emergency-Response-Notes
 
 一款开源WAF
 https://github.com/SpiderLabs/ModSecurity
@@ -491,6 +604,9 @@ https://github.com/stamparm/ipsum
 Windows事件日志分析及可视化，审计非法登陆
 https://github.com/JPCERTCC/LogonTracer
 
+GScan: 旨在为安全应急响应人员对Linux主机排查时提供便利，实现主机侧Checklist的自动全面化检测，根据检测结果自动数据聚合，进行黑客攻击路径溯源。
+https://github.com/grayddq/GScan
+
 CaptfEncoder 跨平台网络安全工具套件,提供网络安全相关编码转换、古典密码、密码学、特殊编码等工具，并聚合各类在线工具。
 https://github.com/guyoung/CaptfEncoder
 
@@ -539,6 +655,9 @@ https://github.com/biggiesmallsAG/nightHawkResponse
 
 secure-ls 高水平加密和数据压缩的本地安全存储
 https://github.com/softvar/secure-ls
+
+容器安全镜像Liter,帮助构建最好的Docker镜像 
+https://github.com/goodwithtech/dockle
 
 有关linux容器安全，命名空间，cgroups等等的gitbook
 https://github.com/makash/linux-container-security-docs
@@ -644,6 +763,12 @@ https://github.com/mozilla/MozDef
 
 企业内网安全管理平台，包含资产管理，漏洞管理，账号管理，知识库管、安全扫描自动化功能
 https://github.com/qianniaoge/-SecurityManageFramwork
+
+win内网_域控安全
+https://github.com/renzu0/nw-tips
+
+静态代码审计系统
+https://github.com/zsdlove/Hades
 
 强大的观察分析引擎 https://thehive-project.org
 https://github.com/CERT-BDF/Cortex
@@ -796,6 +921,12 @@ https://github.com/grafov/hulk
 大数据安全检测工具
 https://github.com/kotobukki/BigDataAudit
 
+个人安全checklist
+https://github.com/Lissy93/personal-security-checklist
+
+SQL 审核查询平台
+https://github.com/hhyo/Archery
+
 pick --  Linux和OS X最小化密码管理工具
 https://github.com/bndw/pick
 
@@ -816,6 +947,9 @@ https://github.com/bfuzzy/auditd-attack
 
 ⭐️ An anomaly-based intrusion detection system.
 https://github.com/alexfrancow/A-Detector
+
+AntiRansom:Fighting against ransomware using honeypots
+https://github.com/YJesus/AntiRansom
 
 悟空API网关 开源版
 https://github.com/eolinker/GoKu-API-Gateway
@@ -891,6 +1025,12 @@ https://github.com/PowerShellMafia/PowerSploit
 Powershell tools合集
 https://github.com/clymb3r/PowerShell
 
+资产狩猎框架-AssetsHunter，信息收集是一项艺术~ 
+https://github.com/rabbitmask/AssetsHunter
+
+Nishang PowerShell下脚本和渗透和POC框架和集合，Nishang在渗透测试的所有阶段都非常有用。
+https://github.com/samratashok/nishang
+
 MSF--最强大的渗透平台
 https://github.com/rapid7/metasploit-framework
 
@@ -911,6 +1051,9 @@ https://github.com/JuxhinDB/OOB-Server
 
 Beebeeto是由众多安全研究人员所共同维护的一个规范化POC/EXP平台
 https://github.com/n0tr00t/Beebeeto-framework
+
+cloudflare基于nmap打包的一个轻量漏洞扫描系统
+https://github.com/cloudflare/flan
 
 一个用Node.js编写的Web安全测试框架
 https://github.com/zhuyingda/veneno
@@ -933,14 +1076,26 @@ https://github.com/vanhoefm/krackattacks-scripts
 越过(WAF)和 XSS过滤的pyton脚本集
 https://github.com/frizb/Bypassing-Web-Application-Firewalls
 
+渗透测试用到的东东
+https://github.com/ring04h/pentest
+
+DNS rebinding toolkit 
+https://github.com/makuga01/dnsFookup
+
 A scripted pipeline of tools to streamline the bug bounty/penetration test reconnaissance phase, so you can focus on chomping bugs. 
 https://github.com/SolomonSklash/chomp-scan
+
+Hackazon is a free, vulnerable test site that is an online storefront built with the same technologies used in today’s rich client and mobile applications
+https://github.com/rapid7/hackazon
 
 MSTG-手机应用安全开发、测试、反向工程详细手册。
 https://github.com/OWASP/owasp-mstg
 
 Venom是一款为渗透测试人员设计的使用Go开发的多级代理工具
 https://github.com/Dliv3/Venom
+
+A collection of cool tools used by Web hackers. Happy hacking , Happy bug-hunting 
+https://github.com/hahwul/WebHackersWeapons
 
 ### Fuzz测试:
 
@@ -982,6 +1137,9 @@ https://github.com/cisco-sas/katnip
 
 Fuzzer API接口，通过可以用通用的渗透技术和漏洞列表进行fuzz请求
 https://github.com/lalithr95/API-fuzzer
+
+Java的fuzz测试覆盖率指导
+https://github.com/fuzzitdev/javafuzz
 
 找出文件系统存存储的加密文件
 https://github.com/antagon/TCHunt-ng
@@ -1192,6 +1350,9 @@ https://github.com/lukebaggett/dnscat2-powershell
 burp插件收集项目
 https://github.com/xl7dev/BurpSuite/tree/master/Extender
 
+Burp-Suite-collections:BurpSuite相关收集项目，插件主要是非BApp Store（商店）
+https://github.com/Mr-xn/BurpSuite-collections
+
 一个用来辅助WP渗透测试的ruby框架
 https://github.com/rastating/wordpress-exploit-framework/
 
@@ -1302,8 +1463,15 @@ https://github.com/5H311-1NJ3C706/local-root-exploits
 漏洞研究集合 
 https://github.com/sergey-pronin/Awesome-Vulnerability-Research
 
+CVE Details是通过读取NVD提供的CVE xml信息并添加exploit-db和metasploit相关模块重新排版布局的网站。
+旨在使用户能快速查找到自己要找的漏洞，如按厂商查找按产品查找等。
+https://www.cvedetails.com/
+
 Snyk漏洞库
 https://github.com/snyk/vulndb
+
+按小时更新的保存使用JSON格式设置的CVE列表信息 
+https://github.com/CVEProject/cvelist
 
 哈希长度扩展攻击EXP
 https://github.com/citronneur/rdpy
@@ -1313,6 +1481,9 @@ https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet
 
 JBOSS verify &amp; exp tool
 https://github.com/joaomatosf/jexboss
+
+些 APT 组（APT28、APT29、APT32、Emotet...）所使用的恶意软件样本
+https://github.com/Cherishao/APT-Sample
 
 安卓十月漏洞POC
 https://github.com/jiayy/android_vuln_poc-exp
@@ -1346,6 +1517,9 @@ https://github.com/FiloSottile/CVE-2016-2107
 
 CVE-2015-7547 POC
 https://github.com/fjserna/CVE-2015-7547
+
+pocassist:全新的开源漏洞测试框架，实现poc在线编辑、运行、批量测试。
+https://github.com/jweny/pocassist
 
 一些漏洞和0day的blog
 https://github.com/pierrekim/pierrekim.github.io
@@ -1409,6 +1583,12 @@ https://github.com/swisskyrepo/PayloadsAllTheThings
 OS X命令行、PowerShell命令行、Google Dorks、Shodan、exploit开发、Java反序列化等列表
 https://github.com/coreb1t/awesome-pentest-cheat-sheets
 
+雷石安全实验室出品Shiro命令执行工具 V2.0
+https://github.com/tangxiaofeng7/Shiroexploit
+
+Java反序列化技术分享
+https://github.com/Y4er/WebLogic-Shiro-shell
+
 ### EXP编写框架及工具：
 
 漏洞赏金计划集合和著名赏金猎人博客列表 
@@ -1434,6 +1614,30 @@ https://github.com/frida/frida
 
 收集或编写各种漏洞PoC、ExP
 https://github.com/bollwarm/POC-EXP
+
+xray：一款完善的安全评估工具，支持常见 web 安全问题扫描和POC自定义
+https://github.com/chaitin/xray
+
+redteam_vu:红队作战中比较常遇到的一些重点系统漏洞整理。 
+https://github.com/r0eXpeR/redteam_vul
+
+渗透测试有关的POC、EXP、脚本、提权、小工具等，欢迎补充、完善
+https://github.com/Mr-xn/Penetration_Testing_POC
+
+基于Docker-Compose的漏洞预构建环境https://vulhub.org
+https://github.com/vulhub/vulhub
+
+Java安全相关的漏洞和技术demo，原生Java、Fastjson、Jackson、Hessian2、XML反序列化漏洞利用和Dubbo、Shiro、CAS、Tomcat、RMI等框架\中间件\功能的exploits以及Java Security Manager绕过、Dubbo-Hessian2安全加固等等实践代码。
+https://github.com/threedr3am/learnjavabug
+
+CNVD-2020-10487(CVE-2020-1938), tomcat ajp 文件读取漏洞poc 
+https://github.com/nibiwodong/CNVD-2020-10487-Tomcat-ajp-POC
+
+python3批量poc检测工具 
+https://github.com/saucer-man/saucerframe
+
+AJPy aims to craft AJP requests in order to communicate with AJP connectors.
+https://github.com/hypn0s/AJPy
 ## 二进制及代码分析工具：
 
 吾爱破解论坛【爱盘】3.0 在线破解工具包
@@ -1501,6 +1705,9 @@ https://github.com/panagiks/RSPET
 
 跨平台二进制分析及逆向工具
 https://github.com/programa-stic/barf-project
+
+恶意ELF二进制文件相似度比较及可视化
+https://github.com/CymaticsCC/elf_similarity
 
 二进制分析工具
 https://github.com/devttys0/binwalk
@@ -1718,6 +1925,9 @@ https://github.com/jtpereyda/boofuzz
 BTA is an open-source Active Directory security audit framework
 https://github.com/airbus-seclab/bta
 
+Graph platform for Detection and Response 
+https://github.com/insanitybit/grapl
+
 Open Cyber Threat Intelligence Platform https://www.opencti.io
 https://github.com/OpenCTI-Platform/opencti
 
@@ -1826,6 +2036,9 @@ https://github.com/sbilly/awesome-security
 应用程序安全的资源列表
 https://github.com/paragonie/awesome-appsec
 
+安全公众号推荐
+https://github.com/bollwarm/awesome-security-weixin-official-accounts
+
 DFTimewolf A framework for orchestrating forensic collection, processing and data export.
 https://github.com/log2timeline/dftimewolf
 
@@ -1880,6 +2093,9 @@ https://github.com/ClickSecurity/data_hacking
 手机安全wiki
 https://github.com/exploitprotocol/mobile-security-wiki
 
+windows 内网协议学习:erbeos,ntlm,smb,ldap
+https://github.com/daikerSec/windows_protocol
+
 Web安全入门各种书籍、文档、工具
 https://github.com/infoslack/awesome-web-hacking
 
@@ -1895,8 +2111,8 @@ https://github.com/veficos/reverse-engineering-for-beginners
 一些信息安全标准及设备配置
 https://github.com/luyg24/IT_security
 
-PENTESTING-BIBLE: hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.
-https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLEhttps://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE
+PENTESTING-BIBLE：数百项道德黑客与渗透测试，红色团队，网络安全和计算机科学资源
+https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE
 
 分享在建设安全管理体系、ISO27001、等级保护、安全评审过程中的点点滴滴
 https://github.com/ym2011/SecurityManagement
@@ -1904,7 +2120,7 @@ https://github.com/ym2011/SecurityManagement
 2013-2017年各类安全大会演讲视频集 
 https://github.com/PaulSec/awesome-sec-talks
 
-⚡️ A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers. 
+⚡️  极棒的有关安全手册、黑客，单行脚本，cli/web工具等的列表。
 https://github.com/trimstray/the-book-of-secret-knowledge
 
 关于网络安全相关的RSS订阅，情报来源和日常知识库更新:
@@ -2150,6 +2366,11 @@ https://github.com/MachineLP/Tensorflow-
 
 声音可视化工具集
 https://github.com/willianjusten/awesome-audio-visualization
+
+### 代码审计
+
+安全代码审计工具
+https://github.com/hardenedlinux/srcinv
 
 ### 编程资料
 

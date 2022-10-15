@@ -28,6 +28,8 @@
 
 ## 近期安全热点
 
+[zlib安全漏洞CVE-2022-37434，影响面广，但是只有调用inflateGetHeader的应用程序会受到影响](https://nvd.nist.gov/vuln/detail/CVE-2022-37434)
+
 [Hertzbleed 侧信道攻击频率侧信道,影响所有厂商CPU  CVE-2022-23823 和 CVE-2022-24436 ](https://www.hertzbleed.com/)
 
 [Srpingshell危险漏洞  CVE-2022-22965  CVSS 9.8 ](https://blog.sonatype.com/new-0-day-spring-framework-vulnerability-confirmed)

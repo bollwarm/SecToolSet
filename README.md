@@ -28,6 +28,8 @@
 
 ## 近期安全热点
 
+[JWT爆发严重RCE漏洞CVE-2022-23529](https://www.toutiao.com/article/7187320379407598132/)
+
 [Text4Shell：Apache Commons Text任意执行漏洞CVE-2022-42889](https://www.docker.com/blog/security-advisory-cve-2022-42889-text4shell/)
 
 [zlib安全漏洞CVE-2022-37434，影响面广，但是只有调用inflateGetHeader的应用程序会受到影响](https://nvd.nist.gov/vuln/detail/CVE-2022-37434)

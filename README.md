@@ -28,6 +28,8 @@
 
 ## 近期安全热点
 
+[新型Linux勒索病毒Royal Ransomware专门针对VMware ESXi虚拟集群](https://www.bleepingcomputer.com/news/security/linux-version-of-royal-ransomware-targets-vmware-esxi-servers/)
+
 [JWT爆发严重RCE漏洞CVE-2022-23529](https://www.toutiao.com/article/7187320379407598132/)
 
 [Text4Shell：Apache Commons Text任意执行漏洞CVE-2022-42889](https://www.docker.com/blog/security-advisory-cve-2022-42889-text4shell/)

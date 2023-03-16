@@ -28,6 +28,8 @@
 
 ## 近期安全热点
 
+[Windows 11 可信平台模块TPM 2.0 越界读写漏洞 ( CVE-2023-1017，CVE-2023-1018 )](https://blog.quarkslab.com/vulnerabilities-in-the-tpm-20-reference-implementation-code.html)
+
 [新型Linux勒索病毒Royal Ransomware专门针对VMware ESXi虚拟集群](https://www.bleepingcomputer.com/news/security/linux-version-of-royal-ransomware-targets-vmware-esxi-servers/)
 
 [JWT爆发严重RCE漏洞CVE-2022-23529](https://www.toutiao.com/article/7187320379407598132/)

@@ -114,6 +114,9 @@ https://github.com/insanitybit/grapl
 Open Cyber Threat Intelligence Platform https://www.opencti.io
 https://github.com/OpenCTI-Platform/opencti
 
+TypeDB CTI: [Open Source Threat Intelligence Platform](https://blog.vaticle.com/introducing-a-knowledge-graph-for-cyber-threat-intelligence-with-typedb-bdb559a92d2a)
+https://github.com/typedb-osi/typedb-cti
+
 深度利用
 https://github.com/13o-bbr-bbq/machine_learning_security/tree/master/DeepExploit
 

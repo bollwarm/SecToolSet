@@ -28,6 +28,8 @@
 
 ## 近期安全热点
 
+[Fortigate VPN远程代码执行（CVE-2023-27997），全网仍有大量机器未进行修补](https://blog.lexfo.fr/xortigate-cve-2023-27997.html)
+
 [WiFi协议中节能机制存缺陷，攻击者劫持和窃取数据包](https://www.toutiao.com/article/7215950877579133455/)
 
 [Windows 11 可信平台模块TPM 2.0 越界读写漏洞 ( CVE-2023-1017，CVE-2023-1018 )](https://blog.quarkslab.com/vulnerabilities-in-the-tpm-20-reference-implementation-code.html)

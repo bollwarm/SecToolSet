@@ -28,6 +28,8 @@
 
 ## 近期安全热点
 
+[OpenSSH组件ssh-agent存远程代码执行漏洞（CVE-2023-38408）](https://www.toutiao.com/article/7258066128541794851)
+
 [Fortigate VPN远程代码执行（CVE-2023-27997），全网仍有大量机器未进行修补](https://blog.lexfo.fr/xortigate-cve-2023-27997.html)
 
 [WiFi协议中节能机制存缺陷，攻击者劫持和窃取数据包](https://www.toutiao.com/article/7215950877579133455/)

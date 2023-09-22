@@ -27,6 +27,9 @@
 [乌云镜像,已挂](http://wy.hx99.net/)
 
 ## 近期安全热点
+
+[WebP 0day  CVE-2023-4863 可能影响安卓系统](https://blog.isosceles.com/the-webp-0day/)
+
 [CVE-2023-4039：GCC的-fstack-protector存在动态堆栈分配漏洞，影响ARM64版本（Macbook M版本）](https://rtx.meta.security/mitigation/2023/09/12/CVE-2023-4039.html)
 
 [OpenSSH组件ssh-agent存远程代码执行漏洞（CVE-2023-38408）](https://www.toutiao.com/article/7258066128541794851)

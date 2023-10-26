@@ -28,6 +28,8 @@
 
 ## 近期安全热点
 
+[OAuth验证不严谨导致数北万用户账户被劫持](https://salt.security/blog/oh-auth-abusing-oauth-to-take-over-millions-of-accounts)
+
 [WebP 0day  CVE-2023-4863 可能影响安卓系统](https://blog.isosceles.com/the-webp-0day/)
 
 [CVE-2023-4039：GCC的-fstack-protector存在动态堆栈分配漏洞，影响ARM64版本（Macbook M版本）](https://rtx.meta.security/mitigation/2023/09/12/CVE-2023-4039.html)

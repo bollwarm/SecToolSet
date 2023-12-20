@@ -28,6 +28,8 @@
 
 ## 近期安全热点
 
+[针对Openssh的水龟攻击：通过序列号操作破坏SSH通道完整性（ CVE-2023-48795）](https://terrapin-attack.com/)
+
 [论文《BEYOND MEMORIZATION: VIOLATING PRIVACY VIA INFERENCE WITH LARGE LANGUAGE MODELS》使用大语言模型和社交网络数据推理个人隐私信息（位置、收入和性别等）](https://arxiv.org/abs/2310.07298)
 
 [OAuth验证不严谨导致数北万用户账户被劫持](https://salt.security/blog/oh-auth-abusing-oauth-to-take-over-millions-of-accounts)

@@ -28,6 +28,8 @@
 
 ## 近期安全热点
 
+[警惕：研究人员发现Github中暗藏私货恶意仓库超十万](https://apiiro.com/blog/malicious-code-campaign-github-repo-confusion-attack/)
+
 [针对Openssh的水龟攻击：通过序列号操作破坏SSH通道完整性（ CVE-2023-48795）](https://terrapin-attack.com/)
 
 [论文《BEYOND MEMORIZATION: VIOLATING PRIVACY VIA INFERENCE WITH LARGE LANGUAGE MODELS》使用大语言模型和社交网络数据推理个人隐私信息（位置、收入和性别等）](https://arxiv.org/abs/2310.07298)

@@ -28,6 +28,8 @@
 
 ## 近期安全热点
 
+[谷歌《2023年在野0-day漏洞利用报告》](https://storage.googleapis.com/gweb-uniblog-publish-prod/documents/Year_in_Review_of_ZeroDays.pdf)
+
 [ZenHammer：Rowhammer适用于AMD Zen的平台攻击 ](https://comsec.ethz.ch/research/dram/zenhammer/)
 
 [警惕：研究人员发现Github中暗藏私货恶意仓库超十万](https://apiiro.com/blog/malicious-code-campaign-github-repo-confusion-attack/)

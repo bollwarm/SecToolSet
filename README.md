@@ -28,6 +28,8 @@
 
 ## 近期安全热点
 
+[关于xz后门详解](http://jfrog.com/blog/xz-backdoor-attack-cve-2024-3094-all-you-need-to-know/)
+
 [谷歌《2023年在野0-day漏洞利用报告》](https://storage.googleapis.com/gweb-uniblog-publish-prod/documents/Year_in_Review_of_ZeroDays.pdf)
 
 [ZenHammer：Rowhammer适用于AMD Zen的平台攻击 ](https://comsec.ethz.ch/research/dram/zenhammer/)

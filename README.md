@@ -28,6 +28,8 @@
 
 ## 近期安全热点
 
+[论文：红队中AI生成式模型使用调查](https://arxiv.org/pdf/2404.00629.pdf)
+
 [关于xz后门详解](http://jfrog.com/blog/xz-backdoor-attack-cve-2024-3094-all-you-need-to-know/)
 
 [谷歌《2023年在野0-day漏洞利用报告》](https://storage.googleapis.com/gweb-uniblog-publish-prod/documents/Year_in_Review_of_ZeroDays.pdf)

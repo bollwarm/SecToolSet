@@ -28,6 +28,8 @@
 
 ## 近期安全热点
 
+[PuTTY vuln-p521-bias漏洞影响0.68—0.8版本用ecdsa-sha2-nistp521签发的证书](https://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/vuln-p521-bias.html)
+
 [论文：红队中AI生成式模型使用调查](https://arxiv.org/pdf/2404.00629.pdf)
 
 [关于xz后门详解](http://jfrog.com/blog/xz-backdoor-attack-cve-2024-3094-all-you-need-to-know/)

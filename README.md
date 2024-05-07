@@ -28,6 +28,8 @@
 
 ## 近期安全热点
 
+[TunnelVision (CVE-2024-3661)：攻击者通过路由定向数据到未加密通道，从而获取VPN的数据，影响所有DHCP的VPN（Linux，Windows,iOS 和 MacOS）](https://www.leviathansecurity.com/blog/tunnelvision)
+
 [PuTTY vuln-p521-bias漏洞影响0.68—0.8版本用ecdsa-sha2-nistp521签发的证书](https://www.toutiao.com/article/7358457832808956456/)
 
 [论文：红队中AI生成式模型使用调查](https://arxiv.org/pdf/2404.00629.pdf)

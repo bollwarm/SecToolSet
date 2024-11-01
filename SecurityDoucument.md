@@ -201,6 +201,9 @@ https://github.com/NetSecLab/Paper_for_Digital_Forensics
 渗透测试技巧
 https://github.com/xssfile/Attack-data
 
+Security-operation-book 覆盖116个TID，353个技术点,主要涵盖Web、Windows AD、Linux，涉及ATT&CK技术、模拟测试、检测思路、检测所需数据源等。
+https://github.com/0x783kb/Security-Operation-Book
+
 以太坊合约审计checkList @知道创宇404区块链安全研究团队
 https://github.com/knownsec/Ethereum-Smart-Contracts-Security-CheckList
 

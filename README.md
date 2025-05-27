@@ -28,6 +28,8 @@
 
 ## 近期安全热点
 
+[GitHub MCP漏洞：劫持MCP服务访问私有仓库数据](https://www.toutiao.com/article/7509043289170084388/)
+
 [glibc iconv()中的缓冲区溢出导致PHP RCE攻击CNEXT(CVE-2024-2961)](https://www.ambionics.io/blog/iconv-cve-2024-2961-p1)
 
 [TunnelVision (CVE-2024-3661)：攻击者通过路由定向数据到未加密通道，从而获取VPN的数据，影响所有DHCP的VPN（Linux，Windows,iOS 和 MacOS）](https://www.leviathansecurity.com/blog/tunnelvision)

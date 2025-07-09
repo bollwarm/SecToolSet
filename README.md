@@ -30,6 +30,8 @@
 
 ## 近期安全热点
 
+[CVE-2025-48384: Git子模块回车符CR解析注入可致RCE](https://dgl.cx/2025/07/git-clone-submodule-cve-2025-48384)
+
 [GitHub MCP漏洞：劫持MCP服务访问私有仓库数据](https://www.toutiao.com/article/7509043289170084388/)
 
 [glibc iconv()中的缓冲区溢出导致PHP RCE攻击CNEXT(CVE-2024-2961)](https://www.ambionics.io/blog/iconv-cve-2024-2961-p1)

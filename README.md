@@ -30,6 +30,8 @@
 
 ## 近期安全热点
 
+[金刚狼（Kimwolf）僵尸网络正通过机顶盒攻克你的内网](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
+
 [CVE-2025-48384: Git子模块回车符CR解析注入可致RCE](https://dgl.cx/2025/07/git-clone-submodule-cve-2025-48384)
 
 [GitHub MCP漏洞：劫持MCP服务访问私有仓库数据](https://www.toutiao.com/article/7509043289170084388/)

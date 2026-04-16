@@ -28,3 +28,4 @@ Awesome-Jailbreak-on-LLMs  大模型越狱集，包括论文、代码、数据�
 
 LLM Hacker's Handbook  大模型黑客手册 https://github.com/forcesunseen/llm-hackers-handbook
 
+AI安全相关框架、标准、学习资源和开源工具列表。 https://github.com/ottosulin/awesome-ai-security

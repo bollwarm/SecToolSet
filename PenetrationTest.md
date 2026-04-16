@@ -453,3 +453,12 @@ https://github.com/lijiejie/htpwdScan
 
 超过80GB密码库总结出的字典项目 
 https://github.com/berzerk0/Probable-Wordlists
+
+NullSec Framework - 模块化WiFi安全框架，包含150+攻击模块，支持WiFi Pineapple和Flipper Zero集成
+https://github.com/bad-antics/nullsec
+
+NullSec Pineapple Suite - 60+ WiFi Pineapple无线渗透测试载荷集合
+https://github.com/bad-antics/nullsec-pineapple-suite
+
+NullSec Linux - 基于Debian的安全发行版，预配置100+渗透测试工具
+https://github.com/bad-antics/nullsec-linux

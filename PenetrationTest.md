@@ -1,6 +1,8 @@
 ## 渗透测试
 
 Black Hat Arsenal 官方工具仓库
+Darkmoon 开源（GPL-3.0）自主 AI 渗透测试平台与 MCP 宿主，编排 80+ 工具，覆盖 Web、API、Active Directory 与 Kubernetes，每个漏洞附带证据链
+https://github.com/ASCIT31/Dark-Moon
 https://github.com/toolswatch/blackhat-arsenal-tools
 
 windows渗透工具集合
